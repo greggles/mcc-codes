@@ -4,7 +4,7 @@ mcc-codes
 A public repository of Merchant Category Codes (MCC) in formats easier to read
 than most places (i.e. not a PDF).
 
-The current formats are
+The same data is available in several formats:
 
 * ods (LibreOffice and OpenOffice.org compatible)
 * csv
@@ -13,7 +13,16 @@ The current formats are
 Future plans and workflow
 =========================
 I hope that folks will create pull requests to make this information easier to
-read and use. If the pull request is against the CSV I'll gladly update the
+read and use. Specifically, the "Edited Description" field is a place where we
+can collaboratively go through and fix things like upper case vs. title case.
+
+Preferences for the "Edited Description"
+
+* Shorter is better
+* Use descriptions that make the most sense to someone in 2013
+* Use title case
+
+If the pull request is against the CSV I'll gladly update the
 binary formats.
 
 
