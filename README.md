@@ -6,8 +6,9 @@ than most places (i.e. not a PDF).
 
 The same data is available in several formats:
 
-* ods (LibreOffice and OpenOffice.org compatible)
 * csv
+* json
+* ods (LibreOffice and OpenOffice.org compatible)
 * xls (Microsoft Office & useful with many other systems that can read xls)
 
 Future plans and workflow
