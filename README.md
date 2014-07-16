@@ -20,7 +20,7 @@ can collaboratively go through and fix things like upper case vs. title case.
 Preferences for the "Edited Description"
 
 * Shorter is better
-* Use descriptions that make the most sense to someone in 2013
+* Use descriptions that make the most sense to someone in 2014
 * Use title case
 
 If the pull request is against the CSV I'll gladly update the
@@ -29,7 +29,7 @@ binary formats.
 
 Credits
 =======
-I'm building this to benefit the operations and users of http://card.com
+I'm building this to benefit the operations and users of https://www.card.com
 
 We may add more data to this at some point and will share updates.
 
