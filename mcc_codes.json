@@ -154,9 +154,9 @@
   },
   {
     "mcc": "3003",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Eurofly",
+    "combined_description": "Eurofly",
+    "usda_description": "Eurofly",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 17
@@ -217,18 +217,18 @@
   },
   {
     "mcc": "3010",
-    "edited_description": "Klm (Royal Dutch Airlines)",
-    "combined_description": "Klm (Royal Dutch Airlines)",
-    "usda_description": "Klm (Royal Dutch Airlines)",
+    "edited_description": "KLM (Royal Dutch Airlines)",
+    "combined_description": "KLM (Royal Dutch Airlines)",
+    "usda_description": "KLM (Royal Dutch Airlines)",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 24
   },
   {
     "mcc": "3011",
-    "edited_description": "Aeorflot",
-    "combined_description": "Aeorflot",
-    "usda_description": "Aeorflot",
+    "edited_description": "Aeroflot",
+    "combined_description": "Aeroflot",
+    "usda_description": "Aeroflot",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 25
@@ -271,9 +271,9 @@
   },
   {
     "mcc": "3016",
-    "edited_description": "Sas",
-    "combined_description": "Sas",
-    "usda_description": "Sas",
+    "edited_description": "SAS",
+    "combined_description": "SAS",
+    "usda_description": "SAS",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 30
@@ -298,18 +298,18 @@
   },
   {
     "mcc": "3019",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Germanwings",
+    "combined_description": "Germanwings",
+    "usda_description": "Germanwings",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 33
   },
   {
     "mcc": "3020",
-    "edited_description": "Air-India",
-    "combined_description": "Air-India",
-    "usda_description": "Air-India",
+    "edited_description": "Air India",
+    "combined_description": "Air India",
+    "usda_description": "Air India",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 34
@@ -361,9 +361,9 @@
   },
   {
     "mcc": "3026",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Emirates",
+    "combined_description": "Emirates",
+    "usda_description": "Emirates",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 40
@@ -469,9 +469,9 @@
   },
   {
     "mcc": "3038",
-    "edited_description": "Kuwait Airlines",
-    "combined_description": "Kuwait Airlines",
-    "usda_description": "Kuwait Airlines",
+    "edited_description": "Kuwait Airways",
+    "combined_description": "Kuwait Airways",
+    "usda_description": "Kuwait Airways",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 52
@@ -496,9 +496,9 @@
   },
   {
     "mcc": "3041",
-    "edited_description": "Balkan-Bulgarian Airlines",
-    "combined_description": "Balkan-Bulgarian Airlines",
-    "usda_description": "Balkan-Bulgarian Airlines",
+    "edited_description": "Balkan Bulgarian Airlines",
+    "combined_description": "Balkan Bulgarian Airlines",
+    "usda_description": "Balkan Bulgarian Airlines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 55
@@ -568,9 +568,9 @@
   },
   {
     "mcc": "3049",
-    "edited_description": "Tunis Air",
-    "combined_description": "Tunis Air",
-    "usda_description": "Tunis Air",
+    "edited_description": "Tunisair",
+    "combined_description": "Tunisair",
+    "usda_description": "Tunisair",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 63
@@ -595,9 +595,9 @@
   },
   {
     "mcc": "3052",
-    "edited_description": "Lanchile",
-    "combined_description": "Lanchile",
-    "usda_description": "Lanchile",
+    "edited_description": "LAN Airlines",
+    "combined_description": "LAN Airlines",
+    "usda_description": "LAN Airlines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 66
@@ -622,9 +622,9 @@
   },
   {
     "mcc": "3055",
-    "edited_description": "Lab (Bolivia)",
-    "combined_description": "Lab (Bolivia)",
-    "usda_description": "Lab (Bolivia)",
+    "edited_description": "LAB (Lloyd Aéreo Boliviano)",
+    "combined_description": "LAB (Lloyd Aéreo Boliviano)",
+    "usda_description": "LAB (Lloyd Aéreo Boliviano)",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 69
@@ -640,27 +640,27 @@
   },
   {
     "mcc": "3057",
-    "edited_description": "Eastwest Airlines (Australia)",
-    "combined_description": "Eastwest Airlines (Australia)",
-    "usda_description": "Eastwest Airlines (Australia)",
+    "edited_description": "East-West Airlines (Australia)",
+    "combined_description": "East-West Airlines (Australia)",
+    "usda_description": "East-West Airlines (Australia)",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 71
   },
   {
     "mcc": "3058",
-    "edited_description": "Delta",
-    "combined_description": "Delta",
-    "usda_description": "Delta",
+    "edited_description": "Delta Air Lines",
+    "combined_description": "Delta Air Lines",
+    "usda_description": "Delta Air Lines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 72
   },
   {
     "mcc": "3059",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "DBA",
+    "combined_description": "DBA",
+    "usda_description": "DBA",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 73
@@ -685,27 +685,27 @@
   },
   {
     "mcc": "3062",
-    "edited_description": "Western",
-    "combined_description": "Western",
-    "usda_description": "Western",
+    "edited_description": "Western Airlines",
+    "combined_description": "Western Airlines",
+    "usda_description": "Western Airlines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 76
   },
   {
     "mcc": "3063",
-    "edited_description": "Us Air",
-    "combined_description": "Us Air",
-    "usda_description": "Us Air",
+    "edited_description": "US Airways",
+    "combined_description": "US Airways",
+    "usda_description": "US Airways",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 77
   },
   {
     "mcc": "3064",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Adria Airways",
+    "combined_description": "Adria Airways",
+    "usda_description": "Adria Airways",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 78
@@ -730,36 +730,36 @@
   },
   {
     "mcc": "3067",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Vanguard Airlines",
+    "combined_description": "Vanguard Airlines",
+    "usda_description": "Vanguard Airlines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 81
   },
   {
     "mcc": "3068",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Air Astana",
+    "combined_description": "Air Astana",
+    "usda_description": "Air Astana",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 82
   },
   {
     "mcc": "3069",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Air Europa",
+    "combined_description": "Air Europa",
+    "usda_description": "Air Europa",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 83
   },
   {
     "mcc": "3070",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Pacific Southwest Airlines",
+    "combined_description": "Pacific Southwest Airlines",
+    "usda_description": "Pacific Southwest Airlines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 84
@@ -775,18 +775,18 @@
   },
   {
     "mcc": "3072",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Cebu Pacific Air",
+    "combined_description": "Cebu Pacific",
+    "usda_description": "Cebu Pacific",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 86
   },
   {
     "mcc": "3073",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Air California",
+    "combined_description": "Air California",
+    "usda_description": "Air California",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 87
@@ -838,9 +838,9 @@
   },
   {
     "mcc": "3079",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Jetstar Airways",
+    "combined_description": "Jetstar Airways",
+    "usda_description": "Jetstar Airways",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 93
@@ -901,9 +901,9 @@
   },
   {
     "mcc": "3086",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Carnival Air Lines",
+    "combined_description": "Carnival Air Lines",
+    "usda_description": "Carnival Air Lines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 100
@@ -937,9 +937,9 @@
   },
   {
     "mcc": "3090",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Uni Airways",
+    "combined_description": "Uni Airways",
+    "usda_description": "Uni Airways",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 104
@@ -955,9 +955,8 @@
   },
   {
     "mcc": "3092",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "combined_description": "Midway Airlines",
+    "usda_description": "Midway Airlines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 106
@@ -982,9 +981,9 @@
   },
   {
     "mcc": "3095",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Wardair",
+    "combined_description": "Wardair",
+    "usda_description": "Wardair",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 109
@@ -1000,18 +999,18 @@
   },
   {
     "mcc": "3097",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Spanair",
+    "combined_description": "Spanair",
+    "usda_description": "Spanair",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 111
   },
   {
     "mcc": "3098",
-    "edited_description": "Airlines",
-    "combined_description": "Airlines",
-    "usda_description": "",
+    "edited_description": "Asiana Airlines",
+    "combined_description": "Asiana Airlines",
+    "usda_description": "Asiana Airlines",
     "irs_description": "Airlines",
     "irs_reportable": "Yes",
     "id": 112
