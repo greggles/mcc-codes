@@ -1,6 +1,6 @@
 [
   {
-    "mcc": "742",
+    "mcc": "0742",
     "edited_description": "Veterinary Services",
     "combined_description": "Veterinary Services",
     "usda_description": "Veterinary Services",
@@ -9,7 +9,7 @@
     "id": 0
   },
   {
-    "mcc": "763",
+    "mcc": "0763",
     "edited_description": "Agricultural Co-operatives",
     "combined_description": "Agricultural Co-operatives",
     "usda_description": "Agricultural Co-operatives",
@@ -18,7 +18,7 @@
     "id": 1
   },
   {
-    "mcc": "780",
+    "mcc": "0780",
     "edited_description": "Horticultural Services, Landscaping Services",
     "combined_description": "Horticultural Services, Landscaping Services",
     "usda_description": "Horticultural Services",
