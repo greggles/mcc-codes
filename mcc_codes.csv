@@ -82,7 +82,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3066,SOUTHWEST,SOUTHWEST,SOUTHWEST,Airlines,Yes
 3067,Airlines,Airlines,,Airlines,Yes
 3068,Airlines,Airlines,,Airlines,Yes
-3069,Airlines,Airlines,,Airlines,Yes
+3069,SUN COUNTRY AIRLINES,SUN COUNTRY AIRLINES,SUN COUNTRY AIRLINES,Airlines,Yes
 3070,Airlines,Airlines,,Airlines,Yes
 3071,AIR BRITISH COLUBIA,AIR BRITISH COLUBIA,AIR BRITISH COLUBIA,Airlines,Yes
 3072,Airlines,Airlines,,Airlines,Yes
@@ -694,6 +694,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3788,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
 3789,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
 3790,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3816,Home2Suites,,,,
 3835,* MASTERS ECONOMY INNS,* MASTERS ECONOMY INNS,* MASTERS ECONOMY INNS,,
 4011,Railroads,Railroads,,Railroads,No1.6041-3(c)
 4111,"Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",Yes
@@ -803,6 +804,10 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 5812,Eating places and Restaurants,Eating places and Restaurants,Eating places and Restaurants,"Eating Places, Restaurants",No1.6041-3(c)
 5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,No1.6041-3(c)
 5814,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,No1.6041-3(c)
+5815,"Digital Goods: Media, Books, Movies, Music",,,,
+5816,"Digital Goods: Games",,,,
+5817,"Digital Goods: Applications (Excludes Games)",,,,
+5818,"Digital Goods: Large Digital Goods Merchant",,,,
 5832,"Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services",,
 5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,No1.6041-3(c)
 5921,"Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",No1.6041-3(c)
@@ -913,6 +918,9 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",Yes
 7692,Welding Repair,Welding Repair,Welding Repair,Welding Repair,Yes
 7699,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Miscellaneous Repair Shops,Yes
+7800,Government-Owned Lotteries,,,,
+7801,"Government-Licensed On-Line Casinos (On-Line Gambling)",,,,
+7802,"Government-Licensed Horse/Dog Racing",,,,
 7829,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,Yes
 7832,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Yes
 7841,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Yes
@@ -926,7 +934,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 7992,Golf Courses – Public,Golf Courses – Public,Golf Courses – Public,Golf Courses - Public,Yes
 7993,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,No1.6041-3(c)
 7994,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades,Yes
-7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers)",Betting/Casino Gambling,Yes
+7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)",Betting/Casino Gambling,Yes
 7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers",Amusement Parks/Carnivals,Yes
 7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",Country Clubs,Yes
 7998,"Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums",Aquariums,Yes
