@@ -2826,13 +2826,22 @@
     "id": 313
   },
   {
+    "mcc": "3300",
+    "edited_description": "AZUL AIR",
+    "combined_description": "AZUL AIR",
+    "usda_description": "",
+    "irs_description": "Airlines",
+    "irs_reportable": "",
+    "id": 314
+  },
+  {
     "mcc": "3351",
     "edited_description": "AFFILIATED AUTO RENTAL",
     "combined_description": "AFFILIATED AUTO RENTAL",
     "usda_description": "AFFILIATED AUTO RENTAL",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 314
+    "id": 315
   },
   {
     "mcc": "3352",
@@ -2841,7 +2850,7 @@
     "usda_description": "AMERICAN INTL RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 315
+    "id": 316
   },
   {
     "mcc": "3353",
@@ -2850,7 +2859,7 @@
     "usda_description": "BROOKS RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 316
+    "id": 317
   },
   {
     "mcc": "3354",
@@ -2859,7 +2868,7 @@
     "usda_description": "ACTION AUTO RENTAL",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 317
+    "id": 318
   },
   {
     "mcc": "3355",
@@ -2868,7 +2877,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 318
+    "id": 319
   },
   {
     "mcc": "3356",
@@ -2877,7 +2886,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 319
+    "id": 320
   },
   {
     "mcc": "3357",
@@ -2886,7 +2895,7 @@
     "usda_description": "HERTZ RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 320
+    "id": 321
   },
   {
     "mcc": "3358",
@@ -2895,7 +2904,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 321
+    "id": 322
   },
   {
     "mcc": "3359",
@@ -2904,7 +2913,7 @@
     "usda_description": "PAYLESS CAR RENTAL",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 322
+    "id": 323
   },
   {
     "mcc": "3360",
@@ -2913,7 +2922,7 @@
     "usda_description": "SNAPPY CAR RENTAL",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 323
+    "id": 324
   },
   {
     "mcc": "3361",
@@ -2922,7 +2931,7 @@
     "usda_description": "AIRWAYS RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 324
+    "id": 325
   },
   {
     "mcc": "3362",
@@ -2931,7 +2940,7 @@
     "usda_description": "ALTRA AUTO RENTAL",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 325
+    "id": 326
   },
   {
     "mcc": "3363",
@@ -2940,7 +2949,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 326
+    "id": 327
   },
   {
     "mcc": "3364",
@@ -2949,7 +2958,7 @@
     "usda_description": "AGENCY RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 327
+    "id": 328
   },
   {
     "mcc": "3365",
@@ -2958,7 +2967,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 328
+    "id": 329
   },
   {
     "mcc": "3366",
@@ -2967,7 +2976,7 @@
     "usda_description": "BUDGET RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 329
+    "id": 330
   },
   {
     "mcc": "3367",
@@ -2976,7 +2985,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 330
+    "id": 331
   },
   {
     "mcc": "3368",
@@ -2985,7 +2994,7 @@
     "usda_description": "HOLIDAY RENT-A-WRECK",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 331
+    "id": 332
   },
   {
     "mcc": "3369",
@@ -2994,7 +3003,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 332
+    "id": 333
   },
   {
     "mcc": "3370",
@@ -3003,7 +3012,7 @@
     "usda_description": "RENT-A-WRECK",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 333
+    "id": 334
   },
   {
     "mcc": "3371",
@@ -3012,7 +3021,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 334
+    "id": 335
   },
   {
     "mcc": "3372",
@@ -3021,7 +3030,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 335
+    "id": 336
   },
   {
     "mcc": "3373",
@@ -3030,7 +3039,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 336
+    "id": 337
   },
   {
     "mcc": "3374",
@@ -3039,7 +3048,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 337
+    "id": 338
   },
   {
     "mcc": "3375",
@@ -3048,7 +3057,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 338
+    "id": 339
   },
   {
     "mcc": "3376",
@@ -3057,7 +3066,7 @@
     "usda_description": "AJAX RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 339
+    "id": 340
   },
   {
     "mcc": "3377",
@@ -3066,7 +3075,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 340
+    "id": 341
   },
   {
     "mcc": "3378",
@@ -3075,7 +3084,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 341
+    "id": 342
   },
   {
     "mcc": "3379",
@@ -3084,7 +3093,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 342
+    "id": 343
   },
   {
     "mcc": "3380",
@@ -3093,7 +3102,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 343
+    "id": 344
   },
   {
     "mcc": "3381",
@@ -3102,7 +3111,7 @@
     "usda_description": "EUROP CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 344
+    "id": 345
   },
   {
     "mcc": "3382",
@@ -3111,7 +3120,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 345
+    "id": 346
   },
   {
     "mcc": "3383",
@@ -3120,7 +3129,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 346
+    "id": 347
   },
   {
     "mcc": "3384",
@@ -3129,7 +3138,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 347
+    "id": 348
   },
   {
     "mcc": "3385",
@@ -3138,7 +3147,7 @@
     "usda_description": "TROPICAL RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 348
+    "id": 349
   },
   {
     "mcc": "3386",
@@ -3147,7 +3156,7 @@
     "usda_description": "SHOWCASE RENTAL CARS",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 349
+    "id": 350
   },
   {
     "mcc": "3387",
@@ -3156,7 +3165,7 @@
     "usda_description": "ALAMO RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 350
+    "id": 351
   },
   {
     "mcc": "3388",
@@ -3165,7 +3174,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 351
+    "id": 352
   },
   {
     "mcc": "3389",
@@ -3174,7 +3183,7 @@
     "usda_description": "AVIS RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 352
+    "id": 353
   },
   {
     "mcc": "3390",
@@ -3183,7 +3192,7 @@
     "usda_description": "DOLLAR RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 353
+    "id": 354
   },
   {
     "mcc": "3391",
@@ -3192,7 +3201,7 @@
     "usda_description": "EUROPE BY CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 354
+    "id": 355
   },
   {
     "mcc": "3392",
@@ -3201,7 +3210,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 355
+    "id": 356
   },
   {
     "mcc": "3393",
@@ -3210,7 +3219,7 @@
     "usda_description": "NATIONAL CAR RENTAL",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 356
+    "id": 357
   },
   {
     "mcc": "3394",
@@ -3219,7 +3228,7 @@
     "usda_description": "KEMWELL GROUP RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 357
+    "id": 358
   },
   {
     "mcc": "3395",
@@ -3228,7 +3237,7 @@
     "usda_description": "THRIFTY RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 358
+    "id": 359
   },
   {
     "mcc": "3396",
@@ -3237,7 +3246,7 @@
     "usda_description": "TILDEN TENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 359
+    "id": 360
   },
   {
     "mcc": "3397",
@@ -3246,7 +3255,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 360
+    "id": 361
   },
   {
     "mcc": "3398",
@@ -3255,7 +3264,7 @@
     "usda_description": "ECONO-CAR RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 361
+    "id": 362
   },
   {
     "mcc": "3399",
@@ -3264,7 +3273,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 362
+    "id": 363
   },
   {
     "mcc": "3400",
@@ -3273,7 +3282,7 @@
     "usda_description": "AUTO HOST COST CAR RENTALS",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 363
+    "id": 364
   },
   {
     "mcc": "3401",
@@ -3282,7 +3291,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 364
+    "id": 365
   },
   {
     "mcc": "3402",
@@ -3291,7 +3300,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 365
+    "id": 366
   },
   {
     "mcc": "3403",
@@ -3300,7 +3309,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 366
+    "id": 367
   },
   {
     "mcc": "3404",
@@ -3309,7 +3318,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 367
+    "id": 368
   },
   {
     "mcc": "3405",
@@ -3318,7 +3327,7 @@
     "usda_description": "ENTERPRISE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 368
+    "id": 369
   },
   {
     "mcc": "3406",
@@ -3327,7 +3336,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 369
+    "id": 370
   },
   {
     "mcc": "3407",
@@ -3336,7 +3345,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 370
+    "id": 371
   },
   {
     "mcc": "3408",
@@ -3345,7 +3354,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 371
+    "id": 372
   },
   {
     "mcc": "3409",
@@ -3354,7 +3363,7 @@
     "usda_description": "GENERAL RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 372
+    "id": 373
   },
   {
     "mcc": "3410",
@@ -3363,7 +3372,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 373
+    "id": 374
   },
   {
     "mcc": "3411",
@@ -3372,7 +3381,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 374
+    "id": 375
   },
   {
     "mcc": "3412",
@@ -3381,7 +3390,7 @@
     "usda_description": "A-1 RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 375
+    "id": 376
   },
   {
     "mcc": "3413",
@@ -3390,7 +3399,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 376
+    "id": 377
   },
   {
     "mcc": "3414",
@@ -3399,7 +3408,7 @@
     "usda_description": "GODFREY NATL RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 377
+    "id": 378
   },
   {
     "mcc": "3415",
@@ -3408,7 +3417,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 378
+    "id": 379
   },
   {
     "mcc": "3416",
@@ -3417,7 +3426,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 379
+    "id": 380
   },
   {
     "mcc": "3417",
@@ -3426,7 +3435,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 380
+    "id": 381
   },
   {
     "mcc": "3418",
@@ -3435,7 +3444,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 381
+    "id": 382
   },
   {
     "mcc": "3419",
@@ -3444,7 +3453,7 @@
     "usda_description": "ALPHA RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 382
+    "id": 383
   },
   {
     "mcc": "3420",
@@ -3453,7 +3462,7 @@
     "usda_description": "ANSA INTL RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 383
+    "id": 384
   },
   {
     "mcc": "3421",
@@ -3462,7 +3471,7 @@
     "usda_description": "ALLSTAE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 384
+    "id": 385
   },
   {
     "mcc": "3422",
@@ -3471,7 +3480,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 385
+    "id": 386
   },
   {
     "mcc": "3423",
@@ -3480,7 +3489,7 @@
     "usda_description": "AVCAR RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 386
+    "id": 387
   },
   {
     "mcc": "3424",
@@ -3489,7 +3498,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 387
+    "id": 388
   },
   {
     "mcc": "3425",
@@ -3498,7 +3507,7 @@
     "usda_description": "AUTOMATE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 388
+    "id": 389
   },
   {
     "mcc": "3426",
@@ -3507,7 +3516,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 389
+    "id": 390
   },
   {
     "mcc": "3427",
@@ -3516,7 +3525,7 @@
     "usda_description": "AVON RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 390
+    "id": 391
   },
   {
     "mcc": "3428",
@@ -3525,7 +3534,7 @@
     "usda_description": "CAREY RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 391
+    "id": 392
   },
   {
     "mcc": "3429",
@@ -3534,7 +3543,7 @@
     "usda_description": "INSURANCE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 392
+    "id": 393
   },
   {
     "mcc": "3430",
@@ -3543,7 +3552,7 @@
     "usda_description": "MAJOR RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 393
+    "id": 394
   },
   {
     "mcc": "3431",
@@ -3552,7 +3561,7 @@
     "usda_description": "REPLACEMENT RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 394
+    "id": 395
   },
   {
     "mcc": "3432",
@@ -3561,7 +3570,7 @@
     "usda_description": "RESERVE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 395
+    "id": 396
   },
   {
     "mcc": "3433",
@@ -3570,7 +3579,7 @@
     "usda_description": "UGLY DUCKLING RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 396
+    "id": 397
   },
   {
     "mcc": "3434",
@@ -3579,7 +3588,7 @@
     "usda_description": "USA RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 397
+    "id": 398
   },
   {
     "mcc": "3435",
@@ -3588,7 +3597,7 @@
     "usda_description": "VALUE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 398
+    "id": 399
   },
   {
     "mcc": "3436",
@@ -3597,7 +3606,7 @@
     "usda_description": "AUTOHANSA RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 399
+    "id": 400
   },
   {
     "mcc": "3437",
@@ -3606,7 +3615,7 @@
     "usda_description": "CITE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 400
+    "id": 401
   },
   {
     "mcc": "3438",
@@ -3615,7 +3624,7 @@
     "usda_description": "INTERENT RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 401
+    "id": 402
   },
   {
     "mcc": "3439",
@@ -3624,7 +3633,7 @@
     "usda_description": "MILLEVILLE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 402
+    "id": 403
   },
   {
     "mcc": "3440",
@@ -3633,7 +3642,7 @@
     "usda_description": "VIA ROUTE RENT-A-CAR",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 403
+    "id": 404
   },
   {
     "mcc": "3441",
@@ -3642,7 +3651,7 @@
     "usda_description": "",
     "irs_description": "Car Rental",
     "irs_reportable": "Yes",
-    "id": 404
+    "id": 405
   },
   {
     "mcc": "3501",
@@ -3651,7 +3660,7 @@
     "usda_description": "HOLIDAY INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 405
+    "id": 406
   },
   {
     "mcc": "3502",
@@ -3660,7 +3669,7 @@
     "usda_description": "BEST WESTERN HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 406
+    "id": 407
   },
   {
     "mcc": "3503",
@@ -3669,7 +3678,7 @@
     "usda_description": "SHERATON HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 407
+    "id": 408
   },
   {
     "mcc": "3504",
@@ -3678,7 +3687,7 @@
     "usda_description": "HILTON HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 408
+    "id": 409
   },
   {
     "mcc": "3505",
@@ -3687,7 +3696,7 @@
     "usda_description": "FORTE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 409
+    "id": 410
   },
   {
     "mcc": "3506",
@@ -3696,7 +3705,7 @@
     "usda_description": "GOLDEN TULIP HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 410
+    "id": 411
   },
   {
     "mcc": "3507",
@@ -3705,7 +3714,7 @@
     "usda_description": "FRIENDSHIP INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 411
+    "id": 412
   },
   {
     "mcc": "3508",
@@ -3714,7 +3723,7 @@
     "usda_description": "QUALITY INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 412
+    "id": 413
   },
   {
     "mcc": "3509",
@@ -3723,7 +3732,7 @@
     "usda_description": "MARRIOTT HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 413
+    "id": 414
   },
   {
     "mcc": "3510",
@@ -3732,7 +3741,7 @@
     "usda_description": "DAYS INN",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 414
+    "id": 415
   },
   {
     "mcc": "3511",
@@ -3741,7 +3750,7 @@
     "usda_description": "ARABELLA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 415
+    "id": 416
   },
   {
     "mcc": "3512",
@@ -3750,7 +3759,7 @@
     "usda_description": "INTER-CONTINENTAL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 416
+    "id": 417
   },
   {
     "mcc": "3513",
@@ -3759,7 +3768,7 @@
     "usda_description": "WESTIN HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 417
+    "id": 418
   },
   {
     "mcc": "3514",
@@ -3768,7 +3777,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 418
+    "id": 419
   },
   {
     "mcc": "3515",
@@ -3777,7 +3786,7 @@
     "usda_description": "RODEWAY INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 419
+    "id": 420
   },
   {
     "mcc": "3516",
@@ -3786,7 +3795,7 @@
     "usda_description": "LA QUINTA MOTOR INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 420
+    "id": 421
   },
   {
     "mcc": "3517",
@@ -3795,7 +3804,7 @@
     "usda_description": "AMERICANA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 421
+    "id": 422
   },
   {
     "mcc": "3518",
@@ -3804,7 +3813,7 @@
     "usda_description": "SOL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 422
+    "id": 423
   },
   {
     "mcc": "3519",
@@ -3813,7 +3822,7 @@
     "usda_description": "PULLMAN INTERNATIONAL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 423
+    "id": 424
   },
   {
     "mcc": "3520",
@@ -3822,7 +3831,7 @@
     "usda_description": "MERIDIEN HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 424
+    "id": 425
   },
   {
     "mcc": "3521",
@@ -3831,7 +3840,7 @@
     "usda_description": "CREST HOTELS (see FORTE HOTELS)",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 425
+    "id": 426
   },
   {
     "mcc": "3522",
@@ -3840,7 +3849,7 @@
     "usda_description": "TOKYO HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 426
+    "id": 427
   },
   {
     "mcc": "3523",
@@ -3849,7 +3858,7 @@
     "usda_description": "PENNSULA HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 427
+    "id": 428
   },
   {
     "mcc": "3524",
@@ -3858,7 +3867,7 @@
     "usda_description": "WELCOMGROUP HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 428
+    "id": 429
   },
   {
     "mcc": "3525",
@@ -3867,7 +3876,7 @@
     "usda_description": "DUNFEY HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 429
+    "id": 430
   },
   {
     "mcc": "3526",
@@ -3876,7 +3885,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 430
+    "id": 431
   },
   {
     "mcc": "3527",
@@ -3885,7 +3894,7 @@
     "usda_description": "DOWNTOWNER-PASSPORT HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 431
+    "id": 432
   },
   {
     "mcc": "3528",
@@ -3894,7 +3903,7 @@
     "usda_description": "RED LION HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 432
+    "id": 433
   },
   {
     "mcc": "3529",
@@ -3903,7 +3912,7 @@
     "usda_description": "CP HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 433
+    "id": 434
   },
   {
     "mcc": "3530",
@@ -3912,7 +3921,7 @@
     "usda_description": "RENAISSANCE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 434
+    "id": 435
   },
   {
     "mcc": "3531",
@@ -3921,7 +3930,7 @@
     "usda_description": "ASTIR HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 435
+    "id": 436
   },
   {
     "mcc": "3532",
@@ -3930,7 +3939,7 @@
     "usda_description": "SUN ROUTE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 436
+    "id": 437
   },
   {
     "mcc": "3533",
@@ -3939,7 +3948,7 @@
     "usda_description": "HOTEL IBIS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 437
+    "id": 438
   },
   {
     "mcc": "3534",
@@ -3948,7 +3957,7 @@
     "usda_description": "SOUTHERN PACIFIC HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 438
+    "id": 439
   },
   {
     "mcc": "3535",
@@ -3957,7 +3966,7 @@
     "usda_description": "HILTON INTERNATIONAL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 439
+    "id": 440
   },
   {
     "mcc": "3536",
@@ -3966,7 +3975,7 @@
     "usda_description": "AMFAC HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 440
+    "id": 441
   },
   {
     "mcc": "3537",
@@ -3975,7 +3984,7 @@
     "usda_description": "ANA HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 441
+    "id": 442
   },
   {
     "mcc": "3538",
@@ -3984,7 +3993,7 @@
     "usda_description": "CONCORDE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 442
+    "id": 443
   },
   {
     "mcc": "3539",
@@ -3993,7 +4002,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 443
+    "id": 444
   },
   {
     "mcc": "3540",
@@ -4002,7 +4011,7 @@
     "usda_description": "IBEROTEL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 444
+    "id": 445
   },
   {
     "mcc": "3541",
@@ -4011,7 +4020,7 @@
     "usda_description": "HOTEL OKURA",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 445
+    "id": 446
   },
   {
     "mcc": "3542",
@@ -4020,7 +4029,7 @@
     "usda_description": "ROYAL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 446
+    "id": 447
   },
   {
     "mcc": "3543",
@@ -4029,7 +4038,7 @@
     "usda_description": "FOUR SEASONS HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 447
+    "id": 448
   },
   {
     "mcc": "3544",
@@ -4038,7 +4047,7 @@
     "usda_description": "CIGA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 448
+    "id": 449
   },
   {
     "mcc": "3545",
@@ -4047,7 +4056,7 @@
     "usda_description": "SHANGRI-LA INTERNATIONAL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 449
+    "id": 450
   },
   {
     "mcc": "3546",
@@ -4056,7 +4065,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 450
+    "id": 451
   },
   {
     "mcc": "3547",
@@ -4065,7 +4074,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 451
+    "id": 452
   },
   {
     "mcc": "3548",
@@ -4074,7 +4083,7 @@
     "usda_description": "HOTELES MELIA",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 452
+    "id": 453
   },
   {
     "mcc": "3549",
@@ -4083,7 +4092,7 @@
     "usda_description": "AUBERGE DES GOVERNEURS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 453
+    "id": 454
   },
   {
     "mcc": "3550",
@@ -4092,7 +4101,7 @@
     "usda_description": "REGAL 8 INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 454
+    "id": 455
   },
   {
     "mcc": "3551",
@@ -4101,7 +4110,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 455
+    "id": 456
   },
   {
     "mcc": "3552",
@@ -4110,7 +4119,7 @@
     "usda_description": "COAST HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 456
+    "id": 457
   },
   {
     "mcc": "3553",
@@ -4119,7 +4128,7 @@
     "usda_description": "PARK INNS INTERNATIONAL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 457
+    "id": 458
   },
   {
     "mcc": "3554",
@@ -4128,7 +4137,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 458
+    "id": 459
   },
   {
     "mcc": "3555",
@@ -4137,7 +4146,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 459
+    "id": 460
   },
   {
     "mcc": "3556",
@@ -4146,7 +4155,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 460
+    "id": 461
   },
   {
     "mcc": "3557",
@@ -4155,7 +4164,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 461
+    "id": 462
   },
   {
     "mcc": "3558",
@@ -4164,7 +4173,7 @@
     "usda_description": "JOLLY HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 462
+    "id": 463
   },
   {
     "mcc": "3559",
@@ -4173,7 +4182,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 463
+    "id": 464
   },
   {
     "mcc": "3560",
@@ -4182,7 +4191,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 464
+    "id": 465
   },
   {
     "mcc": "3561",
@@ -4191,7 +4200,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 465
+    "id": 466
   },
   {
     "mcc": "3562",
@@ -4200,7 +4209,7 @@
     "usda_description": "COMFORT INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 466
+    "id": 467
   },
   {
     "mcc": "3563",
@@ -4209,7 +4218,7 @@
     "usda_description": "JOURNEY’S END MOTLS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 467
+    "id": 468
   },
   {
     "mcc": "3564",
@@ -4218,7 +4227,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 468
+    "id": 469
   },
   {
     "mcc": "3565",
@@ -4227,7 +4236,7 @@
     "usda_description": "RELAX INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 469
+    "id": 470
   },
   {
     "mcc": "3566",
@@ -4236,7 +4245,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 470
+    "id": 471
   },
   {
     "mcc": "3567",
@@ -4245,7 +4254,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 471
+    "id": 472
   },
   {
     "mcc": "3568",
@@ -4254,7 +4263,7 @@
     "usda_description": "LADBROKE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 472
+    "id": 473
   },
   {
     "mcc": "3569",
@@ -4263,7 +4272,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 473
+    "id": 474
   },
   {
     "mcc": "3570",
@@ -4272,7 +4281,7 @@
     "usda_description": "FORUM HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 474
+    "id": 475
   },
   {
     "mcc": "3571",
@@ -4281,7 +4290,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 475
+    "id": 476
   },
   {
     "mcc": "3572",
@@ -4290,7 +4299,7 @@
     "usda_description": "MIYAKO HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 476
+    "id": 477
   },
   {
     "mcc": "3573",
@@ -4299,7 +4308,7 @@
     "usda_description": "SANDMAN HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 477
+    "id": 478
   },
   {
     "mcc": "3574",
@@ -4308,7 +4317,7 @@
     "usda_description": "VENTURE INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 478
+    "id": 479
   },
   {
     "mcc": "3575",
@@ -4317,7 +4326,7 @@
     "usda_description": "VAGABOND HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 479
+    "id": 480
   },
   {
     "mcc": "3576",
@@ -4326,7 +4335,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 480
+    "id": 481
   },
   {
     "mcc": "3577",
@@ -4335,7 +4344,7 @@
     "usda_description": "MANDARIN ORIENTAL HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 481
+    "id": 482
   },
   {
     "mcc": "3578",
@@ -4344,7 +4353,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 482
+    "id": 483
   },
   {
     "mcc": "3579",
@@ -4353,7 +4362,7 @@
     "usda_description": "HOTEL MERCURE",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 483
+    "id": 484
   },
   {
     "mcc": "3580",
@@ -4362,7 +4371,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 484
+    "id": 485
   },
   {
     "mcc": "3581",
@@ -4371,7 +4380,7 @@
     "usda_description": "DELTA HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 485
+    "id": 486
   },
   {
     "mcc": "3582",
@@ -4380,7 +4389,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 486
+    "id": 487
   },
   {
     "mcc": "3583",
@@ -4389,7 +4398,7 @@
     "usda_description": "SAS HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 487
+    "id": 488
   },
   {
     "mcc": "3584",
@@ -4398,7 +4407,7 @@
     "usda_description": "PRINCESS HOTELS INTERNATIONAL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 488
+    "id": 489
   },
   {
     "mcc": "3585",
@@ -4407,7 +4416,7 @@
     "usda_description": "HUNGAR HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 489
+    "id": 490
   },
   {
     "mcc": "3586",
@@ -4416,7 +4425,7 @@
     "usda_description": "SOKOS HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 490
+    "id": 491
   },
   {
     "mcc": "3587",
@@ -4425,7 +4434,7 @@
     "usda_description": "DORAL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 491
+    "id": 492
   },
   {
     "mcc": "3588",
@@ -4434,7 +4443,7 @@
     "usda_description": "HELMSLEY HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 492
+    "id": 493
   },
   {
     "mcc": "3589",
@@ -4443,7 +4452,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 493
+    "id": 494
   },
   {
     "mcc": "3590",
@@ -4452,7 +4461,7 @@
     "usda_description": "FAIRMONT HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 494
+    "id": 495
   },
   {
     "mcc": "3591",
@@ -4461,7 +4470,7 @@
     "usda_description": "SONESTA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 495
+    "id": 496
   },
   {
     "mcc": "3592",
@@ -4470,7 +4479,7 @@
     "usda_description": "OMNI HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 496
+    "id": 497
   },
   {
     "mcc": "3593",
@@ -4479,7 +4488,7 @@
     "usda_description": "CUNARD HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 497
+    "id": 498
   },
   {
     "mcc": "3594",
@@ -4488,7 +4497,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 498
+    "id": 499
   },
   {
     "mcc": "3595",
@@ -4497,7 +4506,7 @@
     "usda_description": "HOSPITALITY INTERNATIONAL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 499
+    "id": 500
   },
   {
     "mcc": "3596",
@@ -4506,7 +4515,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 500
+    "id": 501
   },
   {
     "mcc": "3597",
@@ -4515,7 +4524,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 501
+    "id": 502
   },
   {
     "mcc": "3598",
@@ -4524,7 +4533,7 @@
     "usda_description": "REGENT INTERNATIONAL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 502
+    "id": 503
   },
   {
     "mcc": "3599",
@@ -4533,7 +4542,7 @@
     "usda_description": "PANNONIA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 503
+    "id": 504
   },
   {
     "mcc": "3600",
@@ -4542,7 +4551,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 504
+    "id": 505
   },
   {
     "mcc": "3601",
@@ -4551,7 +4560,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 505
+    "id": 506
   },
   {
     "mcc": "3602",
@@ -4560,7 +4569,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 506
+    "id": 507
   },
   {
     "mcc": "3603",
@@ -4569,7 +4578,7 @@
     "usda_description": "NOAH’S HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 507
+    "id": 508
   },
   {
     "mcc": "3604",
@@ -4578,7 +4587,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 508
+    "id": 509
   },
   {
     "mcc": "3605",
@@ -4587,7 +4596,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 509
+    "id": 510
   },
   {
     "mcc": "3606",
@@ -4596,7 +4605,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 510
+    "id": 511
   },
   {
     "mcc": "3607",
@@ -4605,7 +4614,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 511
+    "id": 512
   },
   {
     "mcc": "3608",
@@ -4614,7 +4623,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 512
+    "id": 513
   },
   {
     "mcc": "3609",
@@ -4623,7 +4632,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 513
+    "id": 514
   },
   {
     "mcc": "3610",
@@ -4632,7 +4641,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 514
+    "id": 515
   },
   {
     "mcc": "3611",
@@ -4641,7 +4650,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 515
+    "id": 516
   },
   {
     "mcc": "3612",
@@ -4650,7 +4659,7 @@
     "usda_description": "MOVENPICK HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 516
+    "id": 517
   },
   {
     "mcc": "3613",
@@ -4659,7 +4668,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 517
+    "id": 518
   },
   {
     "mcc": "3614",
@@ -4668,7 +4677,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 518
+    "id": 519
   },
   {
     "mcc": "3615",
@@ -4677,7 +4686,7 @@
     "usda_description": "TRAVELODGE",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 519
+    "id": 520
   },
   {
     "mcc": "3616",
@@ -4686,7 +4695,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 520
+    "id": 521
   },
   {
     "mcc": "3617",
@@ -4695,7 +4704,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 521
+    "id": 522
   },
   {
     "mcc": "3618",
@@ -4704,7 +4713,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 522
+    "id": 523
   },
   {
     "mcc": "3619",
@@ -4713,7 +4722,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 523
+    "id": 524
   },
   {
     "mcc": "3620",
@@ -4722,7 +4731,7 @@
     "usda_description": "TELFORD INTERNATIONAL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 524
+    "id": 525
   },
   {
     "mcc": "3621",
@@ -4731,7 +4740,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 525
+    "id": 526
   },
   {
     "mcc": "3622",
@@ -4740,7 +4749,7 @@
     "usda_description": "MERLIN HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 526
+    "id": 527
   },
   {
     "mcc": "3623",
@@ -4749,7 +4758,7 @@
     "usda_description": "DORINT HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 527
+    "id": 528
   },
   {
     "mcc": "3624",
@@ -4758,7 +4767,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 528
+    "id": 529
   },
   {
     "mcc": "3625",
@@ -4767,7 +4776,7 @@
     "usda_description": "HOTLE UNIVERSALE",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 529
+    "id": 530
   },
   {
     "mcc": "3626",
@@ -4776,7 +4785,7 @@
     "usda_description": "PRINCE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 530
+    "id": 531
   },
   {
     "mcc": "3627",
@@ -4785,7 +4794,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 531
+    "id": 532
   },
   {
     "mcc": "3628",
@@ -4794,7 +4803,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 532
+    "id": 533
   },
   {
     "mcc": "3629",
@@ -4803,7 +4812,7 @@
     "usda_description": "DAN HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 533
+    "id": 534
   },
   {
     "mcc": "3630",
@@ -4812,7 +4821,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 534
+    "id": 535
   },
   {
     "mcc": "3631",
@@ -4821,7 +4830,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 535
+    "id": 536
   },
   {
     "mcc": "3632",
@@ -4830,7 +4839,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 536
+    "id": 537
   },
   {
     "mcc": "3633",
@@ -4839,7 +4848,7 @@
     "usda_description": "RANK HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 537
+    "id": 538
   },
   {
     "mcc": "3634",
@@ -4848,7 +4857,7 @@
     "usda_description": "SWISSOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 538
+    "id": 539
   },
   {
     "mcc": "3635",
@@ -4857,7 +4866,7 @@
     "usda_description": "RESO HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 539
+    "id": 540
   },
   {
     "mcc": "3636",
@@ -4866,7 +4875,7 @@
     "usda_description": "SAROVA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 540
+    "id": 541
   },
   {
     "mcc": "3637",
@@ -4875,7 +4884,7 @@
     "usda_description": "RAMADA INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 541
+    "id": 542
   },
   {
     "mcc": "3638",
@@ -4884,7 +4893,7 @@
     "usda_description": "HO JO INN",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 542
+    "id": 543
   },
   {
     "mcc": "3639",
@@ -4893,7 +4902,7 @@
     "usda_description": "MOUNT CHARLOTTE THISTLE",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 543
+    "id": 544
   },
   {
     "mcc": "3640",
@@ -4902,7 +4911,7 @@
     "usda_description": "HYATT HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 544
+    "id": 545
   },
   {
     "mcc": "3641",
@@ -4911,7 +4920,7 @@
     "usda_description": "SOFITEL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 545
+    "id": 546
   },
   {
     "mcc": "3642",
@@ -4920,7 +4929,7 @@
     "usda_description": "NOVOTEL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 546
+    "id": 547
   },
   {
     "mcc": "3643",
@@ -4929,7 +4938,7 @@
     "usda_description": "STEIGENBERGER HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 547
+    "id": 548
   },
   {
     "mcc": "3644",
@@ -4938,7 +4947,7 @@
     "usda_description": "ECONO LODGES",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 548
+    "id": 549
   },
   {
     "mcc": "3645",
@@ -4947,7 +4956,7 @@
     "usda_description": "QUEENS MOAT HOUSES",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 549
+    "id": 550
   },
   {
     "mcc": "3646",
@@ -4956,7 +4965,7 @@
     "usda_description": "SWALLOW HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 550
+    "id": 551
   },
   {
     "mcc": "3647",
@@ -4965,7 +4974,7 @@
     "usda_description": "HUSA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 551
+    "id": 552
   },
   {
     "mcc": "3648",
@@ -4974,7 +4983,7 @@
     "usda_description": "DE VERE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 552
+    "id": 553
   },
   {
     "mcc": "3649",
@@ -4983,7 +4992,7 @@
     "usda_description": "RADISSON HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 553
+    "id": 554
   },
   {
     "mcc": "3650",
@@ -4992,7 +5001,7 @@
     "usda_description": "RED ROOK INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 554
+    "id": 555
   },
   {
     "mcc": "3651",
@@ -5001,7 +5010,7 @@
     "usda_description": "IMPERIAL LONDON HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 555
+    "id": 556
   },
   {
     "mcc": "3652",
@@ -5010,7 +5019,7 @@
     "usda_description": "EMBASSY HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 556
+    "id": 557
   },
   {
     "mcc": "3653",
@@ -5019,7 +5028,7 @@
     "usda_description": "PENTA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 557
+    "id": 558
   },
   {
     "mcc": "3654",
@@ -5028,7 +5037,7 @@
     "usda_description": "LOEWS HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 558
+    "id": 559
   },
   {
     "mcc": "3655",
@@ -5037,7 +5046,7 @@
     "usda_description": "SCANDIC HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 559
+    "id": 560
   },
   {
     "mcc": "3656",
@@ -5046,7 +5055,7 @@
     "usda_description": "SARA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 560
+    "id": 561
   },
   {
     "mcc": "3657",
@@ -5055,7 +5064,7 @@
     "usda_description": "OBEROI HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 561
+    "id": 562
   },
   {
     "mcc": "3658",
@@ -5064,7 +5073,7 @@
     "usda_description": "OTANI HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 562
+    "id": 563
   },
   {
     "mcc": "3659",
@@ -5073,7 +5082,7 @@
     "usda_description": "TAJ HOTELS INTERNATIONAL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 563
+    "id": 564
   },
   {
     "mcc": "3660",
@@ -5082,7 +5091,7 @@
     "usda_description": "KNIGHTS INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 564
+    "id": 565
   },
   {
     "mcc": "3661",
@@ -5091,7 +5100,7 @@
     "usda_description": "METROPOLE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 565
+    "id": 566
   },
   {
     "mcc": "3662",
@@ -5100,7 +5109,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 566
+    "id": 567
   },
   {
     "mcc": "3663",
@@ -5109,7 +5118,7 @@
     "usda_description": "HOTELES EL PRESIDENTS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 567
+    "id": 568
   },
   {
     "mcc": "3664",
@@ -5118,7 +5127,7 @@
     "usda_description": "FLAG INN",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 568
+    "id": 569
   },
   {
     "mcc": "3665",
@@ -5127,7 +5136,7 @@
     "usda_description": "HAMPTON INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 569
+    "id": 570
   },
   {
     "mcc": "3666",
@@ -5136,7 +5145,7 @@
     "usda_description": "STAKIS HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 570
+    "id": 571
   },
   {
     "mcc": "3667",
@@ -5145,7 +5154,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 571
+    "id": 572
   },
   {
     "mcc": "3668",
@@ -5154,7 +5163,7 @@
     "usda_description": "MARITIM HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 572
+    "id": 573
   },
   {
     "mcc": "3669",
@@ -5163,7 +5172,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 573
+    "id": 574
   },
   {
     "mcc": "3670",
@@ -5172,7 +5181,7 @@
     "usda_description": "ARCARD HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 574
+    "id": 575
   },
   {
     "mcc": "3671",
@@ -5181,7 +5190,7 @@
     "usda_description": "ARCTIA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 575
+    "id": 576
   },
   {
     "mcc": "3672",
@@ -5190,7 +5199,7 @@
     "usda_description": "CAMPANIEL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 576
+    "id": 577
   },
   {
     "mcc": "3673",
@@ -5199,7 +5208,7 @@
     "usda_description": "IBUSZ HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 577
+    "id": 578
   },
   {
     "mcc": "3674",
@@ -5208,7 +5217,7 @@
     "usda_description": "RANTASIPI HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 578
+    "id": 579
   },
   {
     "mcc": "3675",
@@ -5217,7 +5226,7 @@
     "usda_description": "INTERHOTEL CEDOK",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 579
+    "id": 580
   },
   {
     "mcc": "3676",
@@ -5226,7 +5235,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 580
+    "id": 581
   },
   {
     "mcc": "3677",
@@ -5235,7 +5244,7 @@
     "usda_description": "CLIMAT DE FRANCE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 581
+    "id": 582
   },
   {
     "mcc": "3678",
@@ -5244,7 +5253,7 @@
     "usda_description": "CUMULUS HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 582
+    "id": 583
   },
   {
     "mcc": "3679",
@@ -5253,7 +5262,7 @@
     "usda_description": "DANUBIUS HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 583
+    "id": 584
   },
   {
     "mcc": "3680",
@@ -5262,7 +5271,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 584
+    "id": 585
   },
   {
     "mcc": "3681",
@@ -5271,7 +5280,7 @@
     "usda_description": "ADAMS MARK HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 585
+    "id": 586
   },
   {
     "mcc": "3682",
@@ -5280,7 +5289,7 @@
     "usda_description": "ALLSTAR INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 586
+    "id": 587
   },
   {
     "mcc": "3683",
@@ -5289,7 +5298,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 587
+    "id": 588
   },
   {
     "mcc": "3684",
@@ -5298,7 +5307,7 @@
     "usda_description": "BUDGET HOST INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 588
+    "id": 589
   },
   {
     "mcc": "3685",
@@ -5307,7 +5316,7 @@
     "usda_description": "BUDGETEL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 589
+    "id": 590
   },
   {
     "mcc": "3686",
@@ -5316,7 +5325,7 @@
     "usda_description": "SUISSE CHALETS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 590
+    "id": 591
   },
   {
     "mcc": "3687",
@@ -5325,7 +5334,7 @@
     "usda_description": "CLARION HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 591
+    "id": 592
   },
   {
     "mcc": "3688",
@@ -5334,7 +5343,7 @@
     "usda_description": "COMPRI HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 592
+    "id": 593
   },
   {
     "mcc": "3689",
@@ -5343,7 +5352,7 @@
     "usda_description": "CONSORT HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 593
+    "id": 594
   },
   {
     "mcc": "3690",
@@ -5352,7 +5361,7 @@
     "usda_description": "COURTYARD BY MARRIOTT",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 594
+    "id": 595
   },
   {
     "mcc": "3691",
@@ -5361,7 +5370,7 @@
     "usda_description": "DILLION INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 595
+    "id": 596
   },
   {
     "mcc": "3692",
@@ -5370,7 +5379,7 @@
     "usda_description": "DOUBLETREE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 596
+    "id": 597
   },
   {
     "mcc": "3693",
@@ -5379,7 +5388,7 @@
     "usda_description": "DRURY INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 597
+    "id": 598
   },
   {
     "mcc": "3694",
@@ -5388,7 +5397,7 @@
     "usda_description": "ECONOMY INNS OF AMERICA",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 598
+    "id": 599
   },
   {
     "mcc": "3695",
@@ -5397,7 +5406,7 @@
     "usda_description": "EMBASSY SUITES",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 599
+    "id": 600
   },
   {
     "mcc": "3696",
@@ -5406,7 +5415,7 @@
     "usda_description": "EXEL INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 600
+    "id": 601
   },
   {
     "mcc": "3697",
@@ -5415,7 +5424,7 @@
     "usda_description": "FARFIELD HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 601
+    "id": 602
   },
   {
     "mcc": "3698",
@@ -5424,7 +5433,7 @@
     "usda_description": "HARLEY HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 602
+    "id": 603
   },
   {
     "mcc": "3699",
@@ -5433,7 +5442,7 @@
     "usda_description": "MIDWAY MOTOR LODGE",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 603
+    "id": 604
   },
   {
     "mcc": "3700",
@@ -5442,7 +5451,7 @@
     "usda_description": "MOTEL 6",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 604
+    "id": 605
   },
   {
     "mcc": "3701",
@@ -5451,7 +5460,7 @@
     "usda_description": "GUEST QUARTERS (Formally PICKETT SUITE HOTELS)",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 605
+    "id": 606
   },
   {
     "mcc": "3702",
@@ -5460,7 +5469,7 @@
     "usda_description": "THE REGISTRY HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 606
+    "id": 607
   },
   {
     "mcc": "3703",
@@ -5469,7 +5478,7 @@
     "usda_description": "RESIDENCE INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 607
+    "id": 608
   },
   {
     "mcc": "3704",
@@ -5478,7 +5487,7 @@
     "usda_description": "ROYCE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 608
+    "id": 609
   },
   {
     "mcc": "3705",
@@ -5487,7 +5496,7 @@
     "usda_description": "SANDMAN INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 609
+    "id": 610
   },
   {
     "mcc": "3706",
@@ -5496,7 +5505,7 @@
     "usda_description": "SHILO INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 610
+    "id": 611
   },
   {
     "mcc": "3707",
@@ -5505,7 +5514,7 @@
     "usda_description": "SHONEY’S INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 611
+    "id": 612
   },
   {
     "mcc": "3708",
@@ -5514,7 +5523,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 612
+    "id": 613
   },
   {
     "mcc": "3709",
@@ -5523,7 +5532,7 @@
     "usda_description": "SUPER8 MOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 613
+    "id": 614
   },
   {
     "mcc": "3710",
@@ -5532,7 +5541,7 @@
     "usda_description": "THE RITZ CARLTON HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 614
+    "id": 615
   },
   {
     "mcc": "3711",
@@ -5541,7 +5550,7 @@
     "usda_description": "FLAG INNS (AUSRALIA)",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 615
+    "id": 616
   },
   {
     "mcc": "3712",
@@ -5550,7 +5559,7 @@
     "usda_description": "GOLDEN CHAIN HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 616
+    "id": 617
   },
   {
     "mcc": "3713",
@@ -5559,7 +5568,7 @@
     "usda_description": "QUALITY PACIFIC HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 617
+    "id": 618
   },
   {
     "mcc": "3714",
@@ -5568,7 +5577,7 @@
     "usda_description": "FOUR SEASONS HOTEL (AUSTRALIA)",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 618
+    "id": 619
   },
   {
     "mcc": "3715",
@@ -5577,7 +5586,7 @@
     "usda_description": "FARIFIELD INN",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 619
+    "id": 620
   },
   {
     "mcc": "3716",
@@ -5586,7 +5595,7 @@
     "usda_description": "CARLTON HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 620
+    "id": 621
   },
   {
     "mcc": "3717",
@@ -5595,7 +5604,7 @@
     "usda_description": "CITY LODGE HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 621
+    "id": 622
   },
   {
     "mcc": "3718",
@@ -5604,7 +5613,7 @@
     "usda_description": "KAROS HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 622
+    "id": 623
   },
   {
     "mcc": "3719",
@@ -5613,7 +5622,7 @@
     "usda_description": "PROTEA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 623
+    "id": 624
   },
   {
     "mcc": "3720",
@@ -5622,7 +5631,7 @@
     "usda_description": "SOUTHERN SUN HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 624
+    "id": 625
   },
   {
     "mcc": "3721",
@@ -5631,7 +5640,7 @@
     "usda_description": "HILTON CONRAD",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 625
+    "id": 626
   },
   {
     "mcc": "3722",
@@ -5640,7 +5649,7 @@
     "usda_description": "WYNDHAM HOTEL AND RESORTS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 626
+    "id": 627
   },
   {
     "mcc": "3723",
@@ -5649,7 +5658,7 @@
     "usda_description": "RICA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 627
+    "id": 628
   },
   {
     "mcc": "3724",
@@ -5658,7 +5667,7 @@
     "usda_description": "INER NOR HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 628
+    "id": 629
   },
   {
     "mcc": "3725",
@@ -5667,7 +5676,7 @@
     "usda_description": "SEAINES PLANATION",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 629
+    "id": 630
   },
   {
     "mcc": "3726",
@@ -5676,7 +5685,7 @@
     "usda_description": "RIO SUITES",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 630
+    "id": 631
   },
   {
     "mcc": "3727",
@@ -5685,7 +5694,7 @@
     "usda_description": "BROADMOOR HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 631
+    "id": 632
   },
   {
     "mcc": "3728",
@@ -5694,7 +5703,7 @@
     "usda_description": "BALLY’S HOTEL AND CASINO",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 632
+    "id": 633
   },
   {
     "mcc": "3729",
@@ -5703,7 +5712,7 @@
     "usda_description": "JOHN ASCUAGA’S NUGGET",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 633
+    "id": 634
   },
   {
     "mcc": "3730",
@@ -5712,7 +5721,7 @@
     "usda_description": "MGM GRAND HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 634
+    "id": 635
   },
   {
     "mcc": "3731",
@@ -5721,7 +5730,7 @@
     "usda_description": "HARRAH’S HOTELS AND CASINOS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 635
+    "id": 636
   },
   {
     "mcc": "3732",
@@ -5730,7 +5739,7 @@
     "usda_description": "OPRYLAND HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 636
+    "id": 637
   },
   {
     "mcc": "3733",
@@ -5739,7 +5748,7 @@
     "usda_description": "BOCA RATON RESORT",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 637
+    "id": 638
   },
   {
     "mcc": "3734",
@@ -5748,7 +5757,7 @@
     "usda_description": "HARVEY/BRISTOL HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 638
+    "id": 639
   },
   {
     "mcc": "3735",
@@ -5757,7 +5766,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 639
+    "id": 640
   },
   {
     "mcc": "3736",
@@ -5766,7 +5775,7 @@
     "usda_description": "COLORADO BELLE/EDGEWATER RESORT",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 640
+    "id": 641
   },
   {
     "mcc": "3737",
@@ -5775,7 +5784,7 @@
     "usda_description": "RIVIERA HOTEL AND CASINO",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 641
+    "id": 642
   },
   {
     "mcc": "3738",
@@ -5784,7 +5793,7 @@
     "usda_description": "TROPICANA RESORT AND CASINO",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 642
+    "id": 643
   },
   {
     "mcc": "3739",
@@ -5793,7 +5802,7 @@
     "usda_description": "WOODSIDE HOTELS AND RESORTS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 643
+    "id": 644
   },
   {
     "mcc": "3740",
@@ -5802,7 +5811,7 @@
     "usda_description": "TOWNPLACE SUITES",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 644
+    "id": 645
   },
   {
     "mcc": "3741",
@@ -5811,7 +5820,7 @@
     "usda_description": "MILLENIUM BROADWAY HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 645
+    "id": 646
   },
   {
     "mcc": "3742",
@@ -5820,7 +5829,7 @@
     "usda_description": "CLUB MED",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 646
+    "id": 647
   },
   {
     "mcc": "3743",
@@ -5829,7 +5838,7 @@
     "usda_description": "BILTMORE HOTEL AND SUITES",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 647
+    "id": 648
   },
   {
     "mcc": "3744",
@@ -5838,7 +5847,7 @@
     "usda_description": "CAREFREE RESORTS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 648
+    "id": 649
   },
   {
     "mcc": "3745",
@@ -5847,7 +5856,7 @@
     "usda_description": "ST. REGIS HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 649
+    "id": 650
   },
   {
     "mcc": "3746",
@@ -5856,7 +5865,7 @@
     "usda_description": "THE ELIOT HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 650
+    "id": 651
   },
   {
     "mcc": "3747",
@@ -5865,7 +5874,7 @@
     "usda_description": "CLUBCORP/CLUB RESORTS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 651
+    "id": 652
   },
   {
     "mcc": "3748",
@@ -5874,7 +5883,7 @@
     "usda_description": "WELESLEY INNS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 652
+    "id": 653
   },
   {
     "mcc": "3749",
@@ -5883,7 +5892,7 @@
     "usda_description": "THE BEVERLY HILLS HOTEL",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 653
+    "id": 654
   },
   {
     "mcc": "3750",
@@ -5892,7 +5901,7 @@
     "usda_description": "CROWNE PLAZA HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 654
+    "id": 655
   },
   {
     "mcc": "3751",
@@ -5901,7 +5910,7 @@
     "usda_description": "HOMEWOOD SUITES",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 655
+    "id": 656
   },
   {
     "mcc": "3752",
@@ -5910,7 +5919,7 @@
     "usda_description": "PEABODY HOTELS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 656
+    "id": 657
   },
   {
     "mcc": "3753",
@@ -5919,7 +5928,7 @@
     "usda_description": "GREENBRIAH RESORTS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 657
+    "id": 658
   },
   {
     "mcc": "3754",
@@ -5928,7 +5937,7 @@
     "usda_description": "AMELIA ISLAND PLANATION",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 658
+    "id": 659
   },
   {
     "mcc": "3755",
@@ -5937,7 +5946,7 @@
     "usda_description": "THE HOMESTEAD",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 659
+    "id": 660
   },
   {
     "mcc": "3756",
@@ -5946,7 +5955,7 @@
     "usda_description": "SOUTH SEAS RESORTS",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 660
+    "id": 661
   },
   {
     "mcc": "3757",
@@ -5955,7 +5964,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 661
+    "id": 662
   },
   {
     "mcc": "3758",
@@ -5964,7 +5973,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 662
+    "id": 663
   },
   {
     "mcc": "3759",
@@ -5973,7 +5982,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 663
+    "id": 664
   },
   {
     "mcc": "3760",
@@ -5982,7 +5991,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 664
+    "id": 665
   },
   {
     "mcc": "3761",
@@ -5991,7 +6000,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 665
+    "id": 666
   },
   {
     "mcc": "3762",
@@ -6000,7 +6009,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 666
+    "id": 667
   },
   {
     "mcc": "3763",
@@ -6009,7 +6018,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 667
+    "id": 668
   },
   {
     "mcc": "3764",
@@ -6018,7 +6027,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 668
+    "id": 669
   },
   {
     "mcc": "3765",
@@ -6027,7 +6036,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 669
+    "id": 670
   },
   {
     "mcc": "3766",
@@ -6036,7 +6045,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 670
+    "id": 671
   },
   {
     "mcc": "3767",
@@ -6045,7 +6054,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 671
+    "id": 672
   },
   {
     "mcc": "3768",
@@ -6054,7 +6063,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 672
+    "id": 673
   },
   {
     "mcc": "3769",
@@ -6063,7 +6072,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 673
+    "id": 674
   },
   {
     "mcc": "3770",
@@ -6072,7 +6081,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 674
+    "id": 675
   },
   {
     "mcc": "3771",
@@ -6081,7 +6090,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 675
+    "id": 676
   },
   {
     "mcc": "3772",
@@ -6090,7 +6099,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 676
+    "id": 677
   },
   {
     "mcc": "3773",
@@ -6099,7 +6108,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 677
+    "id": 678
   },
   {
     "mcc": "3774",
@@ -6108,7 +6117,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 678
+    "id": 679
   },
   {
     "mcc": "3775",
@@ -6117,7 +6126,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 679
+    "id": 680
   },
   {
     "mcc": "3776",
@@ -6126,7 +6135,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 680
+    "id": 681
   },
   {
     "mcc": "3777",
@@ -6135,7 +6144,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 681
+    "id": 682
   },
   {
     "mcc": "3778",
@@ -6144,7 +6153,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 682
+    "id": 683
   },
   {
     "mcc": "3779",
@@ -6153,7 +6162,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 683
+    "id": 684
   },
   {
     "mcc": "3780",
@@ -6162,7 +6171,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 684
+    "id": 685
   },
   {
     "mcc": "3781",
@@ -6171,7 +6180,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 685
+    "id": 686
   },
   {
     "mcc": "3782",
@@ -6180,7 +6189,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 686
+    "id": 687
   },
   {
     "mcc": "3783",
@@ -6189,7 +6198,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 687
+    "id": 688
   },
   {
     "mcc": "3784",
@@ -6198,7 +6207,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 688
+    "id": 689
   },
   {
     "mcc": "3785",
@@ -6207,7 +6216,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 689
+    "id": 690
   },
   {
     "mcc": "3786",
@@ -6216,7 +6225,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 690
+    "id": 691
   },
   {
     "mcc": "3787",
@@ -6225,7 +6234,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 691
+    "id": 692
   },
   {
     "mcc": "3788",
@@ -6234,7 +6243,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 692
+    "id": 693
   },
   {
     "mcc": "3789",
@@ -6243,7 +6252,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 693
+    "id": 694
   },
   {
     "mcc": "3790",
@@ -6252,7 +6261,7 @@
     "usda_description": "",
     "irs_description": "Hotels/Motels/Inns/Resorts",
     "irs_reportable": "Yes",
-    "id": 694
+    "id": 695
   },
   {
     "mcc": "3816",
@@ -6261,7 +6270,25 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 695
+    "id": 696
+  },
+  {
+    "mcc": "3832",
+    "edited_description": "Curio Hotels",
+    "combined_description": "",
+    "usda_description": "",
+    "irs_description": "",
+    "irs_reportable": "",
+    "id": 697
+  },
+  {
+    "mcc": "3833",
+    "edited_description": "Canopy",
+    "combined_description": "",
+    "usda_description": "",
+    "irs_description": "",
+    "irs_reportable": "",
+    "id": 698
   },
   {
     "mcc": "3835",
@@ -6270,7 +6297,7 @@
     "usda_description": "* MASTERS ECONOMY INNS",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 696
+    "id": 699
   },
   {
     "mcc": "4011",
@@ -6279,7 +6306,7 @@
     "usda_description": "",
     "irs_description": "Railroads",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 697
+    "id": 700
   },
   {
     "mcc": "4111",
@@ -6288,7 +6315,7 @@
     "usda_description": "Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.",
     "irs_description": "Commuter Transport, Ferries",
     "irs_reportable": "Yes",
-    "id": 698
+    "id": 701
   },
   {
     "mcc": "4112",
@@ -6297,7 +6324,7 @@
     "usda_description": "Passenger Railways",
     "irs_description": "Passenger Railways",
     "irs_reportable": "Yes",
-    "id": 699
+    "id": 702
   },
   {
     "mcc": "4119",
@@ -6306,7 +6333,7 @@
     "usda_description": "Ambulance Services",
     "irs_description": "Ambulance Services",
     "irs_reportable": "Yes",
-    "id": 700
+    "id": 703
   },
   {
     "mcc": "4121",
@@ -6315,7 +6342,7 @@
     "usda_description": "Taxicabs and Limousines",
     "irs_description": "Taxicabs/Limousines",
     "irs_reportable": "Yes",
-    "id": 701
+    "id": 704
   },
   {
     "mcc": "4131",
@@ -6324,7 +6351,7 @@
     "usda_description": "Bus Lines, Including Charters, Tour Buses",
     "irs_description": "Bus Lines",
     "irs_reportable": "Yes",
-    "id": 702
+    "id": 705
   },
   {
     "mcc": "4214",
@@ -6333,7 +6360,7 @@
     "usda_description": "Motor Freight Carriers",
     "irs_description": "Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 703
+    "id": 706
   },
   {
     "mcc": "4215",
@@ -6342,7 +6369,7 @@
     "usda_description": "Courier Services – Air or Ground",
     "irs_description": "Courier Services ",
     "irs_reportable": "Yes",
-    "id": 704
+    "id": 707
   },
   {
     "mcc": "4225",
@@ -6351,7 +6378,7 @@
     "usda_description": "Warehousing, Public",
     "irs_description": "Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 705
+    "id": 708
   },
   {
     "mcc": "4411",
@@ -6360,7 +6387,7 @@
     "usda_description": "Cruise Lines",
     "irs_description": "Cruise Lines",
     "irs_reportable": "Yes",
-    "id": 706
+    "id": 709
   },
   {
     "mcc": "4457",
@@ -6369,7 +6396,7 @@
     "usda_description": "Boat Rentals and Leases",
     "irs_description": "Boat Rentals and Leases",
     "irs_reportable": "Yes",
-    "id": 707
+    "id": 710
   },
   {
     "mcc": "4468",
@@ -6378,7 +6405,7 @@
     "usda_description": "Marinas, Marine Service, and Supplies",
     "irs_description": "Marinas, Service and Supplies",
     "irs_reportable": "Yes",
-    "id": 708
+    "id": 711
   },
   {
     "mcc": "4511",
@@ -6387,7 +6414,7 @@
     "usda_description": "Airlines, Air Carriers ( not listed elsewhere)",
     "irs_description": "Airlines, Air Carriers",
     "irs_reportable": "Yes",
-    "id": 709
+    "id": 712
   },
   {
     "mcc": "4582",
@@ -6396,7 +6423,7 @@
     "usda_description": "Airports, Airport Terminals",
     "irs_description": "Airports, Flying Fields",
     "irs_reportable": "Yes",
-    "id": 710
+    "id": 713
   },
   {
     "mcc": "4722",
@@ -6405,7 +6432,7 @@
     "usda_description": "Travel Agencies and Tour Operations",
     "irs_description": "Travel Agencies, Tour Operators",
     "irs_reportable": "Yes",
-    "id": 711
+    "id": 714
   },
   {
     "mcc": "4723",
@@ -6414,7 +6441,7 @@
     "usda_description": "Package Tour Operators (For use in Germany only)",
     "irs_description": "TUI Travel - Germany",
     "irs_reportable": "Yes",
-    "id": 712
+    "id": 715
   },
   {
     "mcc": "4784",
@@ -6423,7 +6450,7 @@
     "usda_description": "Toll and Bridge Fees",
     "irs_description": "Tolls/Bridge Fees",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 713
+    "id": 716
   },
   {
     "mcc": "4789",
@@ -6432,7 +6459,7 @@
     "usda_description": "Transportation Services, Not elsewhere classified)",
     "irs_description": "Transportation Services (Not Elsewhere Classified)",
     "irs_reportable": "Yes",
-    "id": 714
+    "id": 717
   },
   {
     "mcc": "4812",
@@ -6441,7 +6468,7 @@
     "usda_description": "Telecommunications Equipment including telephone sales",
     "irs_description": "Telecommunication Equipment and Telephone Sales",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 715
+    "id": 718
   },
   {
     "mcc": "4814",
@@ -6450,7 +6477,7 @@
     "usda_description": "Fax services",
     "irs_description": "Telecommunication Services",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 716
+    "id": 719
   },
   {
     "mcc": "4815",
@@ -6459,7 +6486,7 @@
     "usda_description": "VisaPhone",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 717
+    "id": 720
   },
   {
     "mcc": "4816",
@@ -6468,7 +6495,7 @@
     "usda_description": "",
     "irs_description": "Computer Network Services",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 718
+    "id": 721
   },
   {
     "mcc": "4821",
@@ -6477,7 +6504,7 @@
     "usda_description": "Telegraph services",
     "irs_description": "Telegraph Services",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 719
+    "id": 722
   },
   {
     "mcc": "4829",
@@ -6486,7 +6513,7 @@
     "usda_description": "Money Orders – Wire Transfer",
     "irs_description": "Wires, Money Orders",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 720
+    "id": 723
   },
   {
     "mcc": "4899",
@@ -6495,7 +6522,7 @@
     "usda_description": "Cable and other pay television (previously Cable Services)",
     "irs_description": "Cable, Satellite, and Other Pay Television and Radio",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 721
+    "id": 724
   },
   {
     "mcc": "4900",
@@ -6504,7 +6531,7 @@
     "usda_description": "Electric, Gas, Sanitary and Water Utilities",
     "irs_description": "Utilities ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 722
+    "id": 725
   },
   {
     "mcc": "5013",
@@ -6513,7 +6540,7 @@
     "usda_description": "Motor vehicle supplies and new parts",
     "irs_description": "Motor Vehicle Supplies and New Parts",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 723
+    "id": 726
   },
   {
     "mcc": "5021",
@@ -6522,7 +6549,7 @@
     "usda_description": "Office and Commercial Furniture",
     "irs_description": "Office and Commercial Furniture",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 724
+    "id": 727
   },
   {
     "mcc": "5039",
@@ -6531,7 +6558,7 @@
     "usda_description": "Construction Materials, Not Elsewhere Classified",
     "irs_description": "Construction Materials (Not Elsewhere Classified)",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 725
+    "id": 728
   },
   {
     "mcc": "5044",
@@ -6540,7 +6567,7 @@
     "usda_description": "Office, Photographic, Photocopy, and Microfilm Equipment",
     "irs_description": "Photographic, Photocopy, Microfilm Equipment, and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 726
+    "id": 729
   },
   {
     "mcc": "5045",
@@ -6549,7 +6576,7 @@
     "usda_description": "Computers, Computer Peripheral Equipment, Software",
     "irs_description": "Computers, Peripherals, and Software",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 727
+    "id": 730
   },
   {
     "mcc": "5046",
@@ -6558,7 +6585,7 @@
     "usda_description": "Commercial Equipment, Not Elsewhere Classified",
     "irs_description": "Commercial Equipment (Not Elsewhere Classified)",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 728
+    "id": 731
   },
   {
     "mcc": "5047",
@@ -6567,7 +6594,7 @@
     "usda_description": "Medical, Dental Ophthalmic, Hospital Equipment and Supplies",
     "irs_description": "Medical, Dental, Ophthalmic, and Hospital Equipment and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 729
+    "id": 732
   },
   {
     "mcc": "5051",
@@ -6576,7 +6603,7 @@
     "usda_description": "Metal Service Centers and Offices",
     "irs_description": "Metal Service Centers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 730
+    "id": 733
   },
   {
     "mcc": "5065",
@@ -6585,7 +6612,7 @@
     "usda_description": "Electrical Parts and Equipment",
     "irs_description": "Electrical Parts and Equipment",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 731
+    "id": 734
   },
   {
     "mcc": "5072",
@@ -6594,7 +6621,7 @@
     "usda_description": "Hardware Equipment and Supplies",
     "irs_description": "Hardware, Equipment, and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 732
+    "id": 735
   },
   {
     "mcc": "5074",
@@ -6603,7 +6630,7 @@
     "usda_description": "Plumbing and Heating Equipment and Supplies",
     "irs_description": "Plumbing, Heating Equipment, and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 733
+    "id": 736
   },
   {
     "mcc": "5085",
@@ -6612,7 +6639,7 @@
     "usda_description": "Industrial Supplies, Not Elsewhere Classified",
     "irs_description": "Industrial Supplies (Not Elsewhere Classified)",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 734
+    "id": 737
   },
   {
     "mcc": "5094",
@@ -6621,7 +6648,7 @@
     "usda_description": "Precious Stones and Metals, Watches and Jewelry",
     "irs_description": "Precious Stones and Metals, Watches and Jewelry",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 735
+    "id": 738
   },
   {
     "mcc": "5099",
@@ -6630,7 +6657,7 @@
     "usda_description": "Durable Goods, Not Elsewhere Classified",
     "irs_description": "Durable Goods (Not Elsewhere Classified)",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 736
+    "id": 739
   },
   {
     "mcc": "5111",
@@ -6639,7 +6666,7 @@
     "usda_description": "Stationery, Office Supplies, Printing, and Writing Paper",
     "irs_description": "Stationary, Office Supplies, Printing and Writing Paper",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 737
+    "id": 740
   },
   {
     "mcc": "5122",
@@ -6648,7 +6675,7 @@
     "usda_description": "Drugs, Drug Proprietors, and Druggist’s Sundries",
     "irs_description": "Drugs, Drug Proprietaries, and Druggist Sundries",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 738
+    "id": 741
   },
   {
     "mcc": "5131",
@@ -6657,7 +6684,7 @@
     "usda_description": "Piece Goods, Notions, and Other Dry Goods",
     "irs_description": "Piece Goods, Notions, and Other Dry Goods",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 739
+    "id": 742
   },
   {
     "mcc": "5137",
@@ -6666,7 +6693,7 @@
     "usda_description": "Men’s Women’s and Children’s Uniforms and Commercial Clothing",
     "irs_description": "Uniforms, Commercial Clothing",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 740
+    "id": 743
   },
   {
     "mcc": "5139",
@@ -6675,7 +6702,7 @@
     "usda_description": "Commercial Footwear",
     "irs_description": "Commercial Footwear",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 741
+    "id": 744
   },
   {
     "mcc": "5169",
@@ -6684,7 +6711,7 @@
     "usda_description": "Chemicals and Allied Products, Not Elsewhere Classified",
     "irs_description": "Chemicals and Allied Products (Not Elsewhere Classified)",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 742
+    "id": 745
   },
   {
     "mcc": "5172",
@@ -6693,7 +6720,7 @@
     "usda_description": "Petroleum and Petroleum Products",
     "irs_description": "Petroleum and Petroleum Products",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 743
+    "id": 746
   },
   {
     "mcc": "5192",
@@ -6702,7 +6729,7 @@
     "usda_description": "Books, Periodicals, and Newspapers",
     "irs_description": "Books, Periodicals, and Newspapers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 744
+    "id": 747
   },
   {
     "mcc": "5193",
@@ -6711,7 +6738,7 @@
     "usda_description": "Florists’ Supplies, Nursery Stock and Flowers",
     "irs_description": "Florists Supplies, Nursery Stock, and Flowers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 745
+    "id": 748
   },
   {
     "mcc": "5198",
@@ -6720,7 +6747,7 @@
     "usda_description": "Paints, Varnishes, and Supplies",
     "irs_description": "Paints, Varnishes, and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 746
+    "id": 749
   },
   {
     "mcc": "5199",
@@ -6729,7 +6756,7 @@
     "usda_description": "Non-durable Goods, Not Elsewhere Classified",
     "irs_description": "Nondurable Goods (Not Elsewhere Classified)",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 747
+    "id": 750
   },
   {
     "mcc": "5200",
@@ -6738,7 +6765,7 @@
     "usda_description": "Home Supply Warehouse Stores",
     "irs_description": "Home Supply Warehouse Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 748
+    "id": 751
   },
   {
     "mcc": "5211",
@@ -6747,7 +6774,7 @@
     "usda_description": "Lumber and Building Materials Stores",
     "irs_description": "Lumber, Building Materials Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 749
+    "id": 752
   },
   {
     "mcc": "5231",
@@ -6756,7 +6783,7 @@
     "usda_description": "Wallpaper Stores",
     "irs_description": "Glass, Paint, and Wallpaper Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 750
+    "id": 753
   },
   {
     "mcc": "5251",
@@ -6765,7 +6792,7 @@
     "usda_description": "Hardware Stores",
     "irs_description": "Hardware Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 751
+    "id": 754
   },
   {
     "mcc": "5261",
@@ -6774,7 +6801,7 @@
     "usda_description": "Nurseries – Lawn and Garden Supply Store",
     "irs_description": "Nurseries, Lawn and Garden Supply Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 752
+    "id": 755
   },
   {
     "mcc": "5271",
@@ -6783,7 +6810,7 @@
     "usda_description": "Mobile Home Dealers",
     "irs_description": "Mobile Home Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 753
+    "id": 756
   },
   {
     "mcc": "5300",
@@ -6792,7 +6819,7 @@
     "usda_description": "Wholesale Clubs",
     "irs_description": "Wholesale Clubs",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 754
+    "id": 757
   },
   {
     "mcc": "5309",
@@ -6801,7 +6828,7 @@
     "usda_description": "Duty Free Store",
     "irs_description": "Duty Free Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 755
+    "id": 758
   },
   {
     "mcc": "5310",
@@ -6810,7 +6837,7 @@
     "usda_description": "Discount Stores",
     "irs_description": "Discount Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 756
+    "id": 759
   },
   {
     "mcc": "5311",
@@ -6819,7 +6846,7 @@
     "usda_description": "Department Stores",
     "irs_description": "Department Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 757
+    "id": 760
   },
   {
     "mcc": "5331",
@@ -6828,7 +6855,7 @@
     "usda_description": "Variety Stores",
     "irs_description": "Variety Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 758
+    "id": 761
   },
   {
     "mcc": "5399",
@@ -6837,7 +6864,7 @@
     "usda_description": "Misc. General Merchandise",
     "irs_description": "Miscellaneous General Merchandise",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 759
+    "id": 762
   },
   {
     "mcc": "5411",
@@ -6846,7 +6873,7 @@
     "usda_description": "Grocery Stores",
     "irs_description": "Grocery Stores, Supermarkets",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 760
+    "id": 763
   },
   {
     "mcc": "5422",
@@ -6855,7 +6882,7 @@
     "usda_description": "Meat Provisioners – Freezer and Locker",
     "irs_description": "Freezer and Locker Meat Provisioners",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 761
+    "id": 764
   },
   {
     "mcc": "5441",
@@ -6864,7 +6891,7 @@
     "usda_description": "Candy Stores",
     "irs_description": "Candy, Nut, and Confectionery Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 762
+    "id": 765
   },
   {
     "mcc": "5451",
@@ -6873,7 +6900,7 @@
     "usda_description": "Dairy Products Stores",
     "irs_description": "Dairy Products Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 763
+    "id": 766
   },
   {
     "mcc": "5462",
@@ -6882,7 +6909,7 @@
     "usda_description": "Bakeries",
     "irs_description": "Bakeries",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 764
+    "id": 767
   },
   {
     "mcc": "5499",
@@ -6891,7 +6918,7 @@
     "usda_description": "Misc. Food Stores – Convenience Stores and Specialty Markets",
     "irs_description": "Miscellaneous Food Stores - Convenience Stores and Specialty Markets",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 765
+    "id": 768
   },
   {
     "mcc": "5511",
@@ -6900,7 +6927,7 @@
     "usda_description": "Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing",
     "irs_description": "Car and Truck Dealers (New & Used) Sales, Service, Repairs Parts and Leasing ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 766
+    "id": 769
   },
   {
     "mcc": "5521",
@@ -6909,7 +6936,7 @@
     "usda_description": "Automobile and Truck Dealers (Used Only)",
     "irs_description": "Car and Truck Dealers (Used Only) Sales, Service, Repairs Parts and Leasing ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 767
+    "id": 770
   },
   {
     "mcc": "5531",
@@ -6918,7 +6945,7 @@
     "usda_description": "Automobile Supply Stores",
     "irs_description": "Auto and Home Supply Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 768
+    "id": 771
   },
   {
     "mcc": "5532",
@@ -6927,7 +6954,7 @@
     "usda_description": "Automotive Tire Stores",
     "irs_description": "Automotive Tire Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 769
+    "id": 772
   },
   {
     "mcc": "5533",
@@ -6936,7 +6963,7 @@
     "usda_description": "Automotive Parts, Accessories Stores",
     "irs_description": "Automotive Parts and Accessories Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 770
+    "id": 773
   },
   {
     "mcc": "5541",
@@ -6945,7 +6972,7 @@
     "usda_description": "Service Stations ( with or without ancillary services)",
     "irs_description": "Service Stations ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 771
+    "id": 774
   },
   {
     "mcc": "5542",
@@ -6954,7 +6981,7 @@
     "usda_description": "Automated Fuel Dispensers",
     "irs_description": "Automated Fuel Dispensers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 772
+    "id": 775
   },
   {
     "mcc": "5551",
@@ -6963,7 +6990,7 @@
     "usda_description": "Boat Dealers",
     "irs_description": "Boat Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 773
+    "id": 776
   },
   {
     "mcc": "5561",
@@ -6972,7 +6999,7 @@
     "usda_description": "Recreational and Utility Trailers, Camp Dealers",
     "irs_description": "Motorcycle Shops, Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 774
+    "id": 777
   },
   {
     "mcc": "5571",
@@ -6981,7 +7008,7 @@
     "usda_description": "Motorcycle Dealers",
     "irs_description": "Motorcycle Shops and Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 775
+    "id": 778
   },
   {
     "mcc": "5592",
@@ -6990,7 +7017,7 @@
     "usda_description": "Motor Home Dealers",
     "irs_description": "Motor Homes Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 776
+    "id": 779
   },
   {
     "mcc": "5598",
@@ -6999,7 +7026,7 @@
     "usda_description": "Snowmobile Dealers",
     "irs_description": "Snowmobile Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 777
+    "id": 780
   },
   {
     "mcc": "5599",
@@ -7008,7 +7035,7 @@
     "usda_description": "",
     "irs_description": "Miscellaneous Auto Dealers ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 778
+    "id": 781
   },
   {
     "mcc": "5611",
@@ -7017,7 +7044,7 @@
     "usda_description": "Men’s and Boy’s Clothing and Accessories Stores",
     "irs_description": "Men’s and Boy’s Clothing and Accessories Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 779
+    "id": 782
   },
   {
     "mcc": "5621",
@@ -7026,7 +7053,7 @@
     "usda_description": "Women’s Ready-to-Wear Stores",
     "irs_description": "Women’s Ready-To-Wear Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 780
+    "id": 783
   },
   {
     "mcc": "5631",
@@ -7035,7 +7062,7 @@
     "usda_description": "Women’s Accessory and Specialty Shops",
     "irs_description": "Women’s Accessory and Specialty Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 781
+    "id": 784
   },
   {
     "mcc": "5641",
@@ -7044,7 +7071,7 @@
     "usda_description": "Children’s and Infant’s Wear Stores",
     "irs_description": "Children’s and Infant’s Wear Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 782
+    "id": 785
   },
   {
     "mcc": "5651",
@@ -7053,7 +7080,7 @@
     "usda_description": "Family Clothing Stores",
     "irs_description": "Family Clothing Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 783
+    "id": 786
   },
   {
     "mcc": "5655",
@@ -7062,7 +7089,7 @@
     "usda_description": "Sports Apparel, Riding Apparel Stores",
     "irs_description": "Sports and Riding Apparel Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 784
+    "id": 787
   },
   {
     "mcc": "5661",
@@ -7071,7 +7098,7 @@
     "usda_description": "Shoe Stores",
     "irs_description": "Shoe Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 785
+    "id": 788
   },
   {
     "mcc": "5681",
@@ -7080,7 +7107,7 @@
     "usda_description": "Furriers and Fur Shops",
     "irs_description": "Furriers and Fur Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 786
+    "id": 789
   },
   {
     "mcc": "5691",
@@ -7089,7 +7116,7 @@
     "usda_description": "Men’s and Women’s Clothing Stores",
     "irs_description": "Men’s, Women’s Clothing Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 787
+    "id": 790
   },
   {
     "mcc": "5697",
@@ -7098,7 +7125,7 @@
     "usda_description": "Tailors, Seamstress, Mending, and Alterations",
     "irs_description": "Tailors, Alterations",
     "irs_reportable": "Yes",
-    "id": 788
+    "id": 791
   },
   {
     "mcc": "5698",
@@ -7107,7 +7134,7 @@
     "usda_description": "Wig and Toupee Stores",
     "irs_description": "Wig and Toupee Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 789
+    "id": 792
   },
   {
     "mcc": "5699",
@@ -7116,7 +7143,7 @@
     "usda_description": "Miscellaneous Apparel and Accessory Shops",
     "irs_description": "Miscellaneous Apparel and Accessory Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 790
+    "id": 793
   },
   {
     "mcc": "5712",
@@ -7125,7 +7152,7 @@
     "usda_description": "Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances",
     "irs_description": "Furniture, Home Furnishings, and Equipment Stores, Except Appliances",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 791
+    "id": 794
   },
   {
     "mcc": "5713",
@@ -7134,7 +7161,7 @@
     "usda_description": "Floor Covering Stores",
     "irs_description": "Floor Covering Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 792
+    "id": 795
   },
   {
     "mcc": "5714",
@@ -7143,7 +7170,7 @@
     "usda_description": "Drapery, Window Covering and Upholstery Stores",
     "irs_description": "Drapery, Window Covering, and Upholstery Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 793
+    "id": 796
   },
   {
     "mcc": "5718",
@@ -7152,7 +7179,7 @@
     "usda_description": "Fireplace, Fireplace Screens, and Accessories Stores",
     "irs_description": "Fireplace, Fireplace Screens, and Accessories Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 794
+    "id": 797
   },
   {
     "mcc": "5719",
@@ -7161,7 +7188,7 @@
     "usda_description": "Miscellaneous Home Furnishing Specialty Stores",
     "irs_description": "Miscellaneous Home Furnishing Specialty Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 795
+    "id": 798
   },
   {
     "mcc": "5722",
@@ -7170,7 +7197,7 @@
     "usda_description": "Household Appliance Stores",
     "irs_description": "Household Appliance Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 796
+    "id": 799
   },
   {
     "mcc": "5732",
@@ -7179,7 +7206,7 @@
     "usda_description": "Electronic Sales",
     "irs_description": "Electronics Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 797
+    "id": 800
   },
   {
     "mcc": "5733",
@@ -7188,7 +7215,7 @@
     "usda_description": "Music Stores, Musical Instruments, Piano Sheet Music",
     "irs_description": "Music Stores-Musical Instruments, Pianos, and Sheet Music",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 798
+    "id": 801
   },
   {
     "mcc": "5734",
@@ -7197,7 +7224,7 @@
     "usda_description": "Computer Software Stores",
     "irs_description": "Computer Software Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 799
+    "id": 802
   },
   {
     "mcc": "5735",
@@ -7206,7 +7233,7 @@
     "usda_description": "Record Shops",
     "irs_description": "Record Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 800
+    "id": 803
   },
   {
     "mcc": "5811",
@@ -7215,7 +7242,7 @@
     "usda_description": "Caterers",
     "irs_description": "Caterers",
     "irs_reportable": "Yes",
-    "id": 801
+    "id": 804
   },
   {
     "mcc": "5812",
@@ -7224,7 +7251,7 @@
     "usda_description": "Eating places and Restaurants",
     "irs_description": "Eating Places, Restaurants",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 802
+    "id": 805
   },
   {
     "mcc": "5813",
@@ -7233,7 +7260,7 @@
     "usda_description": "Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",
     "irs_description": "Drinking Places",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 803
+    "id": 806
   },
   {
     "mcc": "5814",
@@ -7242,7 +7269,7 @@
     "usda_description": "Fast Food Restaurants",
     "irs_description": "Fast Food Restaurants",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 804
+    "id": 807
   },
   {
     "mcc": "5815",
@@ -7251,7 +7278,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 805
+    "id": 808
   },
   {
     "mcc": "5816",
@@ -7260,7 +7287,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 806
+    "id": 809
   },
   {
     "mcc": "5817",
@@ -7269,7 +7296,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 807
+    "id": 810
   },
   {
     "mcc": "5818",
@@ -7278,7 +7305,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 808
+    "id": 811
   },
   {
     "mcc": "5832",
@@ -7287,7 +7314,7 @@
     "usda_description": "Antique Shops – Sales, Repairs, and Restoration Services",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 809
+    "id": 812
   },
   {
     "mcc": "5912",
@@ -7296,7 +7323,7 @@
     "usda_description": "Drug Stores and Pharmacies",
     "irs_description": "Drug Stores and Pharmacies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 810
+    "id": 813
   },
   {
     "mcc": "5921",
@@ -7305,7 +7332,7 @@
     "usda_description": "Package Stores – Beer, Wine, and Liquor",
     "irs_description": "Package Stores-Beer, Wine, and Liquor",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 811
+    "id": 814
   },
   {
     "mcc": "5931",
@@ -7314,7 +7341,7 @@
     "usda_description": "Used Merchandise and Secondhand Stores",
     "irs_description": "Used Merchandise and Secondhand Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 812
+    "id": 815
   },
   {
     "mcc": "5932",
@@ -7323,7 +7350,7 @@
     "usda_description": "",
     "irs_description": "Antique Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 813
+    "id": 816
   },
   {
     "mcc": "5933",
@@ -7332,7 +7359,7 @@
     "usda_description": "Pawn Shops and Salvage Yards",
     "irs_description": "Pawn Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 814
+    "id": 817
   },
   {
     "mcc": "5935",
@@ -7341,7 +7368,7 @@
     "usda_description": "Wrecking and Salvage Yards",
     "irs_description": "Wrecking and Salvage Yards",
     "irs_reportable": "Yes",
-    "id": 815
+    "id": 818
   },
   {
     "mcc": "5937",
@@ -7350,7 +7377,7 @@
     "usda_description": "Antique Reproductions",
     "irs_description": "Antique Reproductions",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 816
+    "id": 819
   },
   {
     "mcc": "5940",
@@ -7359,7 +7386,7 @@
     "usda_description": "Bicycle Shops – Sales and Service",
     "irs_description": "Bicycle Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 817
+    "id": 820
   },
   {
     "mcc": "5941",
@@ -7368,7 +7395,7 @@
     "usda_description": "Sporting Goods Stores",
     "irs_description": "Sporting Goods Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 818
+    "id": 821
   },
   {
     "mcc": "5942",
@@ -7377,7 +7404,7 @@
     "usda_description": "Book Stores",
     "irs_description": "Book Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 819
+    "id": 822
   },
   {
     "mcc": "5943",
@@ -7386,7 +7413,7 @@
     "usda_description": "Stationery Stores, Office and School Supply Stores",
     "irs_description": "Stationery Stores, Office, and School Supply Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 820
+    "id": 823
   },
   {
     "mcc": "5944",
@@ -7395,7 +7422,7 @@
     "usda_description": "Watch, Clock, Jewelry, and Silverware Stores",
     "irs_description": "Jewelry Stores, Watches, Clocks, and Silverware Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 821
+    "id": 824
   },
   {
     "mcc": "5945",
@@ -7404,7 +7431,7 @@
     "usda_description": "Hobby, Toy, and Game Shops",
     "irs_description": "Hobby, Toy, and Game Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 822
+    "id": 825
   },
   {
     "mcc": "5946",
@@ -7413,7 +7440,7 @@
     "usda_description": "Camera and Photographic Supply Stores",
     "irs_description": "Camera and Photographic Supply Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 823
+    "id": 826
   },
   {
     "mcc": "5947",
@@ -7422,7 +7449,7 @@
     "usda_description": "Card Shops, Gift, Novelty, and Souvenir Shops",
     "irs_description": "Gift, Card, Novelty, and Souvenir Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 824
+    "id": 827
   },
   {
     "mcc": "5948",
@@ -7431,7 +7458,7 @@
     "usda_description": "Leather Foods Stores",
     "irs_description": "Luggage and Leather Goods Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 825
+    "id": 828
   },
   {
     "mcc": "5949",
@@ -7440,7 +7467,7 @@
     "usda_description": "Sewing, Needle, Fabric, and Price Goods Stores",
     "irs_description": "Sewing, Needlework, Fabric, and Piece Goods Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 826
+    "id": 829
   },
   {
     "mcc": "5950",
@@ -7449,7 +7476,7 @@
     "usda_description": "Glassware/Crystal Stores",
     "irs_description": "Glassware, Crystal Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 827
+    "id": 830
   },
   {
     "mcc": "5960",
@@ -7458,7 +7485,7 @@
     "usda_description": "Direct Marketing- Insurance Service",
     "irs_description": "Direct Marketing - Insurance Services",
     "irs_reportable": "Yes",
-    "id": 828
+    "id": 831
   },
   {
     "mcc": "5961",
@@ -7467,7 +7494,7 @@
     "usda_description": "Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 829
+    "id": 832
   },
   {
     "mcc": "5962",
@@ -7476,7 +7503,7 @@
     "usda_description": "Direct Marketing – Travel Related Arrangements Services",
     "irs_description": "Direct Marketing - Travel",
     "irs_reportable": "Yes",
-    "id": 830
+    "id": 833
   },
   {
     "mcc": "5963",
@@ -7485,7 +7512,7 @@
     "usda_description": "Door-to-Door Sales",
     "irs_description": "Door-To-Door Sales",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 831
+    "id": 834
   },
   {
     "mcc": "5964",
@@ -7494,7 +7521,7 @@
     "usda_description": "Direct Marketing – Catalog Merchant",
     "irs_description": "Direct Marketing - Catalog Merchant",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 832
+    "id": 835
   },
   {
     "mcc": "5965",
@@ -7503,7 +7530,7 @@
     "usda_description": "Direct Marketing – Catalog and Catalog and Retail Merchant",
     "irs_description": "Direct Marketing - Combination Catalog and Retail Merchant",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 833
+    "id": 836
   },
   {
     "mcc": "5966",
@@ -7512,7 +7539,7 @@
     "usda_description": "Direct Marketing- Outbound Telemarketing Merchant",
     "irs_description": "Direct Marketing - Outbound Tele",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 834
+    "id": 837
   },
   {
     "mcc": "5967",
@@ -7521,7 +7548,7 @@
     "usda_description": "Direct Marketing – Inbound Teleservices Merchant",
     "irs_description": "Direct Marketing - Inbound Tele",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 835
+    "id": 838
   },
   {
     "mcc": "5968",
@@ -7530,7 +7557,7 @@
     "usda_description": "Direct Marketing – Continuity/Subscription Merchant",
     "irs_description": "Direct Marketing - Subscription",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 836
+    "id": 839
   },
   {
     "mcc": "5969",
@@ -7539,7 +7566,7 @@
     "usda_description": "Direct Marketing – Not Elsewhere Classified",
     "irs_description": "Direct Marketing - Other ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 837
+    "id": 840
   },
   {
     "mcc": "5970",
@@ -7548,7 +7575,7 @@
     "usda_description": "Artist’s Supply and Craft Shops",
     "irs_description": "Artist’s Supply and Craft Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 838
+    "id": 841
   },
   {
     "mcc": "5971",
@@ -7557,7 +7584,7 @@
     "usda_description": "Art Dealers and Galleries",
     "irs_description": "Art Dealers and Galleries",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 839
+    "id": 842
   },
   {
     "mcc": "5972",
@@ -7566,7 +7593,7 @@
     "usda_description": "Stamp and Coin Stores – Philatelic and Numismatic Supplies",
     "irs_description": "Stamp and Coin Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 840
+    "id": 843
   },
   {
     "mcc": "5973",
@@ -7575,7 +7602,7 @@
     "usda_description": "Religious Goods Stores",
     "irs_description": "Religious Goods Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 841
+    "id": 844
   },
   {
     "mcc": "5975",
@@ -7584,7 +7611,7 @@
     "usda_description": "Hearing Aids – Sales, Service, and Supply Stores",
     "irs_description": "Hearing Aids Sales and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 842
+    "id": 845
   },
   {
     "mcc": "5976",
@@ -7593,7 +7620,7 @@
     "usda_description": "Orthopedic Goods Prosthetic Devices",
     "irs_description": "Orthopedic Goods - Prosthetic Devices",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 843
+    "id": 846
   },
   {
     "mcc": "5977",
@@ -7602,7 +7629,7 @@
     "usda_description": "Cosmetic Stores",
     "irs_description": "Cosmetic Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 844
+    "id": 847
   },
   {
     "mcc": "5978",
@@ -7611,7 +7638,7 @@
     "usda_description": "Typewriter Stores – Sales, Rental, Service",
     "irs_description": "Typewriter Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 845
+    "id": 848
   },
   {
     "mcc": "5983",
@@ -7620,7 +7647,7 @@
     "usda_description": "Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum",
     "irs_description": "Fuel Dealers (Non Automotive)",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 846
+    "id": 849
   },
   {
     "mcc": "5992",
@@ -7629,7 +7656,7 @@
     "usda_description": "Florists",
     "irs_description": "Florists",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 847
+    "id": 850
   },
   {
     "mcc": "5993",
@@ -7638,7 +7665,7 @@
     "usda_description": "Cigar Stores and Stands",
     "irs_description": "Cigar Stores and Stands",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 848
+    "id": 851
   },
   {
     "mcc": "5994",
@@ -7647,7 +7674,7 @@
     "usda_description": "News Dealers and Newsstands",
     "irs_description": "News Dealers and Newsstands",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 849
+    "id": 852
   },
   {
     "mcc": "5995",
@@ -7656,7 +7683,7 @@
     "usda_description": "Pet Shops, Pet Foods, and Supplies Stores",
     "irs_description": "Pet Shops, Pet Food, and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 850
+    "id": 853
   },
   {
     "mcc": "5996",
@@ -7665,7 +7692,7 @@
     "usda_description": "Swimming Pools – Sales, Service, and Supplies",
     "irs_description": "Swimming Pools Sales",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 851
+    "id": 854
   },
   {
     "mcc": "5997",
@@ -7674,7 +7701,7 @@
     "usda_description": "Electric Razor Stores – Sales and Service",
     "irs_description": "Electric Razor Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 852
+    "id": 855
   },
   {
     "mcc": "5998",
@@ -7683,7 +7710,7 @@
     "usda_description": "Tent and Awning Shops",
     "irs_description": "Tent and Awning Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 853
+    "id": 856
   },
   {
     "mcc": "5999",
@@ -7692,7 +7719,7 @@
     "usda_description": "Miscellaneous and Specialty Retail Stores",
     "irs_description": "Miscellaneous Specialty Retail",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 854
+    "id": 857
   },
   {
     "mcc": "6010",
@@ -7701,7 +7728,7 @@
     "usda_description": "Financial Institutions – Manual Cash Disbursements",
     "irs_description": "Manual Cash Disburse",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 855
+    "id": 858
   },
   {
     "mcc": "6011",
@@ -7710,7 +7737,7 @@
     "usda_description": "Financial Institutions – Manual Cash Disbursements",
     "irs_description": "Automated Cash Disburse",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 856
+    "id": 859
   },
   {
     "mcc": "6012",
@@ -7719,7 +7746,7 @@
     "usda_description": "Financial Institutions – Merchandise and Services",
     "irs_description": "Financial Institutions",
     "irs_reportable": "Yes",
-    "id": 857
+    "id": 860
   },
   {
     "mcc": "6051",
@@ -7728,7 +7755,7 @@
     "usda_description": "Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques",
     "irs_description": "Non-FI, Money Orders",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 858
+    "id": 861
   },
   {
     "mcc": "6211",
@@ -7737,7 +7764,7 @@
     "usda_description": "Security Brokers/Dealers",
     "irs_description": "Security Brokers/Dealers",
     "irs_reportable": "Yes",
-    "id": 859
+    "id": 862
   },
   {
     "mcc": "6300",
@@ -7746,7 +7773,7 @@
     "usda_description": "Insurance Sales, Underwriting, and Premiums",
     "irs_description": "Insurance Underwriting, Premiums",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 860
+    "id": 863
   },
   {
     "mcc": "6381",
@@ -7755,7 +7782,7 @@
     "usda_description": "Insurance Premiums, (no longer valid for first presentment work)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 861
+    "id": 864
   },
   {
     "mcc": "6399",
@@ -7764,7 +7791,7 @@
     "usda_description": "Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",
     "irs_description": "Insurance - Default",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 862
+    "id": 865
   },
   {
     "mcc": "6513",
@@ -7773,7 +7800,16 @@
     "usda_description": "",
     "irs_description": "Real Estate Agents and Managers - Rentals",
     "irs_reportable": "Yes",
-    "id": 863
+    "id": 866
+  },
+  {
+    "mcc": "6540",
+    "edited_description": "Stored Value Card",
+    "combined_description": "Stored Value Card",
+    "usda_description": "Non-Financial Institutions – Stored value Card Purchase/load",
+    "irs_description": "",
+    "irs_reportable": "",
+    "id": 867
   },
   {
     "mcc": "7011",
@@ -7782,7 +7818,7 @@
     "usda_description": "Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)",
     "irs_description": "Hotels, Motels, and Resorts",
     "irs_reportable": "Yes",
-    "id": 864
+    "id": 868
   },
   {
     "mcc": "7012",
@@ -7791,7 +7827,7 @@
     "usda_description": "Timeshares",
     "irs_description": "Timeshares",
     "irs_reportable": "Yes",
-    "id": 865
+    "id": 869
   },
   {
     "mcc": "7032",
@@ -7800,7 +7836,7 @@
     "usda_description": "Sporting and Recreational Camps",
     "irs_description": "Sporting/Recreation Camps",
     "irs_reportable": "Yes",
-    "id": 866
+    "id": 870
   },
   {
     "mcc": "7033",
@@ -7809,7 +7845,7 @@
     "usda_description": "Trailer Parks and Camp Grounds",
     "irs_description": "Trailer Parks, Campgrounds",
     "irs_reportable": "Yes",
-    "id": 867
+    "id": 871
   },
   {
     "mcc": "7210",
@@ -7818,7 +7854,7 @@
     "usda_description": "Laundry, Cleaning, and Garment Services",
     "irs_description": "Laundry, Cleaning Services",
     "irs_reportable": "Yes",
-    "id": 868
+    "id": 872
   },
   {
     "mcc": "7211",
@@ -7827,7 +7863,7 @@
     "usda_description": "Laundry – Family and Commercial",
     "irs_description": "Laundries ",
     "irs_reportable": "Yes",
-    "id": 869
+    "id": 873
   },
   {
     "mcc": "7216",
@@ -7836,7 +7872,7 @@
     "usda_description": "Dry Cleaners",
     "irs_description": "Dry Cleaners",
     "irs_reportable": "Yes",
-    "id": 870
+    "id": 874
   },
   {
     "mcc": "7217",
@@ -7845,7 +7881,7 @@
     "usda_description": "Carpet and Upholstery Cleaning",
     "irs_description": "Carpet/Upholstery Cleaning",
     "irs_reportable": "Yes",
-    "id": 871
+    "id": 875
   },
   {
     "mcc": "7221",
@@ -7854,7 +7890,7 @@
     "usda_description": "Photographic Studios",
     "irs_description": "Photographic Studios",
     "irs_reportable": "Yes",
-    "id": 872
+    "id": 876
   },
   {
     "mcc": "7230",
@@ -7863,7 +7899,7 @@
     "usda_description": "Barber and Beauty Shops",
     "irs_description": "Barber and Beauty Shops",
     "irs_reportable": "Yes",
-    "id": 873
+    "id": 877
   },
   {
     "mcc": "7251",
@@ -7872,7 +7908,7 @@
     "usda_description": "Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops",
     "irs_description": "Shoe Repair/Hat Cleaning",
     "irs_reportable": "Yes",
-    "id": 874
+    "id": 878
   },
   {
     "mcc": "7261",
@@ -7881,7 +7917,7 @@
     "usda_description": "Funeral Service and Crematories",
     "irs_description": "Funeral Services, Crematories",
     "irs_reportable": "Yes",
-    "id": 875
+    "id": 879
   },
   {
     "mcc": "7273",
@@ -7890,7 +7926,7 @@
     "usda_description": "Dating and Escort Services",
     "irs_description": "Dating/Escort Services",
     "irs_reportable": "Yes",
-    "id": 876
+    "id": 880
   },
   {
     "mcc": "7276",
@@ -7899,7 +7935,7 @@
     "usda_description": "Tax Preparation Service",
     "irs_description": "Tax Preparation Services",
     "irs_reportable": "Yes",
-    "id": 877
+    "id": 881
   },
   {
     "mcc": "7277",
@@ -7908,7 +7944,7 @@
     "usda_description": "Counseling Service – Debt, Marriage, Personal",
     "irs_description": "Counseling Services",
     "irs_reportable": "Yes",
-    "id": 878
+    "id": 882
   },
   {
     "mcc": "7278",
@@ -7917,7 +7953,7 @@
     "usda_description": "Buying/Shopping Services, Clubs",
     "irs_description": "Buying/Shopping Services",
     "irs_reportable": "Yes",
-    "id": 879
+    "id": 883
   },
   {
     "mcc": "7296",
@@ -7926,7 +7962,7 @@
     "usda_description": "Clothing Rental – Costumes, Formal Wear, Uniforms",
     "irs_description": "Clothing Rental ",
     "irs_reportable": "Yes",
-    "id": 880
+    "id": 884
   },
   {
     "mcc": "7297",
@@ -7935,7 +7971,7 @@
     "usda_description": "Massage Parlors",
     "irs_description": "Massage Parlors",
     "irs_reportable": "Yes",
-    "id": 881
+    "id": 885
   },
   {
     "mcc": "7298",
@@ -7944,7 +7980,7 @@
     "usda_description": "Health and Beauty Shops",
     "irs_description": "Health and Beauty Spas",
     "irs_reportable": "Yes",
-    "id": 882
+    "id": 886
   },
   {
     "mcc": "7299",
@@ -7953,7 +7989,7 @@
     "usda_description": "Miscellaneous Personal Services ( not elsewhere classifies)",
     "irs_description": "Miscellaneous General Services",
     "irs_reportable": "Yes",
-    "id": 883
+    "id": 887
   },
   {
     "mcc": "7311",
@@ -7962,7 +7998,7 @@
     "usda_description": "Advertising Services",
     "irs_description": "Advertising Services",
     "irs_reportable": "Yes",
-    "id": 884
+    "id": 888
   },
   {
     "mcc": "7321",
@@ -7971,7 +8007,7 @@
     "usda_description": "Consumer Credit Reporting Agencies",
     "irs_description": "Credit Reporting Agencies",
     "irs_reportable": "Yes",
-    "id": 885
+    "id": 889
   },
   {
     "mcc": "7332",
@@ -7980,7 +8016,7 @@
     "usda_description": "Blueprinting and Photocopying Services",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 886
+    "id": 890
   },
   {
     "mcc": "7333",
@@ -7989,7 +8025,7 @@
     "usda_description": "Commercial Photography, Art and Graphics",
     "irs_description": "Commercial Photography, Art and Graphics",
     "irs_reportable": "Yes",
-    "id": 887
+    "id": 891
   },
   {
     "mcc": "7338",
@@ -7998,7 +8034,7 @@
     "usda_description": "Quick Copy, Reproduction and Blueprinting Services",
     "irs_description": "Quick Copy, Repro, and Blueprint",
     "irs_reportable": "Yes",
-    "id": 888
+    "id": 892
   },
   {
     "mcc": "7339",
@@ -8007,7 +8043,7 @@
     "usda_description": "Stenographic and Secretarial Support Services",
     "irs_description": "Secretarial Support Services",
     "irs_reportable": "Yes",
-    "id": 889
+    "id": 893
   },
   {
     "mcc": "7342",
@@ -8016,7 +8052,7 @@
     "usda_description": "Exterminating and Disinfecting Services",
     "irs_description": "Exterminating Services",
     "irs_reportable": "Yes",
-    "id": 890
+    "id": 894
   },
   {
     "mcc": "7349",
@@ -8025,7 +8061,7 @@
     "usda_description": "Cleaning and Maintenance, Janitorial Services",
     "irs_description": "Cleaning and Maintenance",
     "irs_reportable": "Yes",
-    "id": 891
+    "id": 895
   },
   {
     "mcc": "7361",
@@ -8034,7 +8070,7 @@
     "usda_description": "Employment Agencies, Temporary Help Services",
     "irs_description": "Employment/Temp Agencies",
     "irs_reportable": "Yes",
-    "id": 892
+    "id": 896
   },
   {
     "mcc": "7372",
@@ -8043,7 +8079,7 @@
     "usda_description": "Computer Programming, Integrated Systems Design and Data Processing Services",
     "irs_description": "Computer Programming",
     "irs_reportable": "Yes",
-    "id": 893
+    "id": 897
   },
   {
     "mcc": "7375",
@@ -8052,7 +8088,7 @@
     "usda_description": "Information Retrieval Services",
     "irs_description": "Information Retrieval Services",
     "irs_reportable": "Yes",
-    "id": 894
+    "id": 898
   },
   {
     "mcc": "7379",
@@ -8061,7 +8097,7 @@
     "usda_description": "Computer Maintenance and Repair Services, Not Elsewhere Classified",
     "irs_description": "Computer Repair",
     "irs_reportable": "Yes",
-    "id": 895
+    "id": 899
   },
   {
     "mcc": "7392",
@@ -8070,7 +8106,7 @@
     "usda_description": "Management, Consulting, and Public Relations Services",
     "irs_description": "Consulting, Public Relations",
     "irs_reportable": "Yes",
-    "id": 896
+    "id": 900
   },
   {
     "mcc": "7393",
@@ -8079,7 +8115,7 @@
     "usda_description": "Protective and Security Services – Including Armored Carsand Guard Dogs",
     "irs_description": "Detective Agencies",
     "irs_reportable": "Yes",
-    "id": 897
+    "id": 901
   },
   {
     "mcc": "7394",
@@ -8088,7 +8124,7 @@
     "usda_description": "Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental",
     "irs_description": "Equipment Rental ",
     "irs_reportable": "Yes",
-    "id": 898
+    "id": 902
   },
   {
     "mcc": "7395",
@@ -8097,7 +8133,7 @@
     "usda_description": "Photofinishing Laboratories, Photo Developing",
     "irs_description": "Photo Developing",
     "irs_reportable": "Yes",
-    "id": 899
+    "id": 903
   },
   {
     "mcc": "7399",
@@ -8106,7 +8142,7 @@
     "usda_description": "Business Services, Not Elsewhere Classified",
     "irs_description": "Miscellaneous Business Services ",
     "irs_reportable": "Yes",
-    "id": 900
+    "id": 904
   },
   {
     "mcc": "7511",
@@ -8115,7 +8151,7 @@
     "usda_description": "",
     "irs_description": "Truck Stop",
     "irs_reportable": "Yes",
-    "id": 901
+    "id": 905
   },
   {
     "mcc": "7512",
@@ -8124,7 +8160,7 @@
     "usda_description": "Car Rental Companies ( Not Listed Below)",
     "irs_description": "Car Rental Agencies",
     "irs_reportable": "Yes",
-    "id": 902
+    "id": 906
   },
   {
     "mcc": "7513",
@@ -8133,7 +8169,7 @@
     "usda_description": "Truck and Utility Trailer Rentals",
     "irs_description": "Truck/Utility Trailer Rentals",
     "irs_reportable": "Yes",
-    "id": 903
+    "id": 907
   },
   {
     "mcc": "7519",
@@ -8142,7 +8178,7 @@
     "usda_description": "Motor Home and Recreational Vehicle Rentals",
     "irs_description": "Recreational Vehicle Rentals",
     "irs_reportable": "Yes",
-    "id": 904
+    "id": 908
   },
   {
     "mcc": "7523",
@@ -8151,7 +8187,7 @@
     "usda_description": "Automobile Parking Lots and Garages",
     "irs_description": "Parking Lots, Garages",
     "irs_reportable": "Yes",
-    "id": 905
+    "id": 909
   },
   {
     "mcc": "7531",
@@ -8160,7 +8196,7 @@
     "usda_description": "Automotive Body Repair Shops",
     "irs_description": "Auto Body Repair Shops",
     "irs_reportable": "Yes",
-    "id": 906
+    "id": 910
   },
   {
     "mcc": "7534",
@@ -8169,7 +8205,7 @@
     "usda_description": "Tire Re-treading and Repair Shops",
     "irs_description": "Tire Retreading and Repair",
     "irs_reportable": "Yes",
-    "id": 907
+    "id": 911
   },
   {
     "mcc": "7535",
@@ -8178,7 +8214,7 @@
     "usda_description": "Paint Shops – Automotive",
     "irs_description": "Auto Paint Shops",
     "irs_reportable": "Yes",
-    "id": 908
+    "id": 912
   },
   {
     "mcc": "7538",
@@ -8187,7 +8223,7 @@
     "usda_description": "Automotive Service Shops",
     "irs_description": "Auto Service Shops",
     "irs_reportable": "Yes",
-    "id": 909
+    "id": 913
   },
   {
     "mcc": "7542",
@@ -8196,7 +8232,7 @@
     "usda_description": "Car Washes",
     "irs_description": "Car Washes",
     "irs_reportable": "Yes",
-    "id": 910
+    "id": 914
   },
   {
     "mcc": "7549",
@@ -8205,7 +8241,7 @@
     "usda_description": "Towing Services",
     "irs_description": "Towing Services",
     "irs_reportable": "Yes",
-    "id": 911
+    "id": 915
   },
   {
     "mcc": "7622",
@@ -8214,7 +8250,7 @@
     "usda_description": "Radio Repair Shops",
     "irs_description": "Electronics Repair Shops",
     "irs_reportable": "Yes",
-    "id": 912
+    "id": 916
   },
   {
     "mcc": "7623",
@@ -8223,7 +8259,7 @@
     "usda_description": "Air Conditioning and Refrigeration Repair Shops",
     "irs_description": "A/C, Refrigeration Repair",
     "irs_reportable": "Yes",
-    "id": 913
+    "id": 917
   },
   {
     "mcc": "7629",
@@ -8232,7 +8268,7 @@
     "usda_description": "Electrical And Small Appliance Repair Shops",
     "irs_description": "Small Appliance Repair",
     "irs_reportable": "Yes",
-    "id": 914
+    "id": 918
   },
   {
     "mcc": "7631",
@@ -8241,7 +8277,7 @@
     "usda_description": "Watch, Clock, and Jewelry Repair",
     "irs_description": "Watch/Jewelry Repair",
     "irs_reportable": "Yes",
-    "id": 915
+    "id": 919
   },
   {
     "mcc": "7641",
@@ -8250,7 +8286,7 @@
     "usda_description": "Furniture, Furniture Repair, and Furniture Refinishing",
     "irs_description": "Furniture Repair, Refinishing",
     "irs_reportable": "Yes",
-    "id": 916
+    "id": 920
   },
   {
     "mcc": "7692",
@@ -8259,7 +8295,7 @@
     "usda_description": "Welding Repair",
     "irs_description": "Welding Repair",
     "irs_reportable": "Yes",
-    "id": 917
+    "id": 921
   },
   {
     "mcc": "7699",
@@ -8268,7 +8304,7 @@
     "usda_description": "Repair Shops and Related Services –Miscellaneous",
     "irs_description": "Miscellaneous Repair Shops",
     "irs_reportable": "Yes",
-    "id": 918
+    "id": 922
   },
   {
     "mcc": "7800",
@@ -8277,7 +8313,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 919
+    "id": 923
   },
   {
     "mcc": "7801",
@@ -8286,7 +8322,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 920
+    "id": 924
   },
   {
     "mcc": "7802",
@@ -8295,7 +8331,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 921
+    "id": 925
   },
   {
     "mcc": "7829",
@@ -8304,7 +8340,7 @@
     "usda_description": "Motion Pictures and Video Tape Production and Distribution",
     "irs_description": "Picture/Video Production",
     "irs_reportable": "Yes",
-    "id": 922
+    "id": 926
   },
   {
     "mcc": "7832",
@@ -8313,7 +8349,7 @@
     "usda_description": "Motion Picture Theaters",
     "irs_description": "Motion Picture Theaters",
     "irs_reportable": "Yes",
-    "id": 923
+    "id": 927
   },
   {
     "mcc": "7841",
@@ -8322,7 +8358,7 @@
     "usda_description": "Video Tape Rental Stores",
     "irs_description": "Video Tape Rental Stores",
     "irs_reportable": "Yes",
-    "id": 924
+    "id": 928
   },
   {
     "mcc": "7911",
@@ -8331,7 +8367,7 @@
     "usda_description": "Dance Halls, Studios and Schools",
     "irs_description": "Dance Hall, Studios, Schools",
     "irs_reportable": "Yes",
-    "id": 925
+    "id": 929
   },
   {
     "mcc": "7922",
@@ -8340,7 +8376,7 @@
     "usda_description": "Theatrical Producers (Except Motion Pictures), Ticket Agencies",
     "irs_description": "Theatrical Ticket Agencies",
     "irs_reportable": "Yes",
-    "id": 926
+    "id": 930
   },
   {
     "mcc": "7929",
@@ -8349,7 +8385,7 @@
     "usda_description": "Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)",
     "irs_description": "Bands, Orchestras",
     "irs_reportable": "Yes",
-    "id": 927
+    "id": 931
   },
   {
     "mcc": "7932",
@@ -8358,7 +8394,7 @@
     "usda_description": "Billiard and Pool Establishments",
     "irs_description": "Billiard/Pool Establishments",
     "irs_reportable": "Yes",
-    "id": 928
+    "id": 932
   },
   {
     "mcc": "7933",
@@ -8367,7 +8403,7 @@
     "usda_description": "Bowling Alleys",
     "irs_description": "Bowling Alleys",
     "irs_reportable": "Yes",
-    "id": 929
+    "id": 933
   },
   {
     "mcc": "7941",
@@ -8376,7 +8412,7 @@
     "usda_description": "Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters",
     "irs_description": "Sports Clubs/Fields",
     "irs_reportable": "Yes",
-    "id": 930
+    "id": 934
   },
   {
     "mcc": "7991",
@@ -8385,7 +8421,7 @@
     "usda_description": "Tourist Attractions and Exhibits",
     "irs_description": "Tourist Attractions and Exhibits",
     "irs_reportable": "Yes",
-    "id": 931
+    "id": 935
   },
   {
     "mcc": "7992",
@@ -8394,7 +8430,7 @@
     "usda_description": "Golf Courses – Public",
     "irs_description": "Golf Courses - Public",
     "irs_reportable": "Yes",
-    "id": 932
+    "id": 936
   },
   {
     "mcc": "7993",
@@ -8403,7 +8439,7 @@
     "usda_description": "Video Amusement Game Supplies",
     "irs_description": "Video Amusement Game Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 933
+    "id": 937
   },
   {
     "mcc": "7994",
@@ -8412,7 +8448,7 @@
     "usda_description": "Video Game Arcades/Establishments",
     "irs_description": "Video Game Arcades",
     "irs_reportable": "Yes",
-    "id": 934
+    "id": 938
   },
   {
     "mcc": "7995",
@@ -8421,7 +8457,7 @@
     "usda_description": "Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)",
     "irs_description": "Betting/Casino Gambling",
     "irs_reportable": "Yes",
-    "id": 935
+    "id": 939
   },
   {
     "mcc": "7996",
@@ -8430,7 +8466,7 @@
     "usda_description": "Amusement Parks, Carnivals, Circuses, Fortune Tellers",
     "irs_description": "Amusement Parks/Carnivals",
     "irs_reportable": "Yes",
-    "id": 936
+    "id": 940
   },
   {
     "mcc": "7997",
@@ -8439,7 +8475,7 @@
     "usda_description": "Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",
     "irs_description": "Country Clubs",
     "irs_reportable": "Yes",
-    "id": 937
+    "id": 941
   },
   {
     "mcc": "7998",
@@ -8448,7 +8484,7 @@
     "usda_description": "Aquariums, Sea-aquariums, Dolphinariums",
     "irs_description": "Aquariums",
     "irs_reportable": "Yes",
-    "id": 938
+    "id": 942
   },
   {
     "mcc": "7999",
@@ -8457,7 +8493,7 @@
     "usda_description": "Recreation Services (Not Elsewhere Classified)",
     "irs_description": "Miscellaneous Recreation Services",
     "irs_reportable": "Yes",
-    "id": 939
+    "id": 943
   },
   {
     "mcc": "8011",
@@ -8466,7 +8502,7 @@
     "usda_description": "Doctors and Physicians (Not Elsewhere Classified)",
     "irs_description": "Doctors",
     "irs_reportable": "Yes",
-    "id": 940
+    "id": 944
   },
   {
     "mcc": "8021",
@@ -8475,7 +8511,7 @@
     "usda_description": "Dentists and Orthodontists",
     "irs_description": "Dentists, Orthodontists",
     "irs_reportable": "Yes",
-    "id": 941
+    "id": 945
   },
   {
     "mcc": "8031",
@@ -8484,7 +8520,7 @@
     "usda_description": "Osteopaths",
     "irs_description": "Osteopaths",
     "irs_reportable": "Yes",
-    "id": 942
+    "id": 946
   },
   {
     "mcc": "8041",
@@ -8493,7 +8529,7 @@
     "usda_description": "Chiropractors",
     "irs_description": "Chiropractors",
     "irs_reportable": "Yes",
-    "id": 943
+    "id": 947
   },
   {
     "mcc": "8042",
@@ -8502,7 +8538,7 @@
     "usda_description": "Optometrists and Ophthalmologists",
     "irs_description": "Optometrists, Ophthalmologist",
     "irs_reportable": "Yes",
-    "id": 944
+    "id": 948
   },
   {
     "mcc": "8043",
@@ -8511,7 +8547,7 @@
     "usda_description": "Opticians, Opticians Goods and Eyeglasses",
     "irs_description": "Opticians, Eyeglasses",
     "irs_reportable": "Yes",
-    "id": 945
+    "id": 949
   },
   {
     "mcc": "8044",
@@ -8520,7 +8556,7 @@
     "usda_description": "Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 946
+    "id": 950
   },
   {
     "mcc": "8049",
@@ -8529,7 +8565,7 @@
     "usda_description": "Podiatrists and Chiropodists",
     "irs_description": "Chiropodists, Podiatrists",
     "irs_reportable": "Yes",
-    "id": 947
+    "id": 951
   },
   {
     "mcc": "8050",
@@ -8538,7 +8574,7 @@
     "usda_description": "Nursing and Personal Care Facilities",
     "irs_description": "Nursing/Personal Care ",
     "irs_reportable": "Yes",
-    "id": 948
+    "id": 952
   },
   {
     "mcc": "8062",
@@ -8547,7 +8583,7 @@
     "usda_description": "Hospitals",
     "irs_description": "Hospitals",
     "irs_reportable": "Yes",
-    "id": 949
+    "id": 953
   },
   {
     "mcc": "8071",
@@ -8556,7 +8592,7 @@
     "usda_description": "Medical and Dental Laboratories",
     "irs_description": "Medical and Dental Labs",
     "irs_reportable": "Yes",
-    "id": 950
+    "id": 954
   },
   {
     "mcc": "8099",
@@ -8565,7 +8601,7 @@
     "usda_description": "Medical Services and Health Practitioners (Not Elsewhere Classified)",
     "irs_description": "Medical Services ",
     "irs_reportable": "Yes",
-    "id": 951
+    "id": 955
   },
   {
     "mcc": "8111",
@@ -8574,7 +8610,7 @@
     "usda_description": "Legal Services and Attorneys",
     "irs_description": "Legal Services, Attorneys",
     "irs_reportable": "Yes",
-    "id": 952
+    "id": 956
   },
   {
     "mcc": "8211",
@@ -8583,7 +8619,7 @@
     "usda_description": "Elementary and Secondary Schools",
     "irs_description": "Elementary, Secondary Schools",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 953
+    "id": 957
   },
   {
     "mcc": "8220",
@@ -8592,7 +8628,7 @@
     "usda_description": "Colleges, Junior Colleges, Universities, and ProfessionalSchools",
     "irs_description": "Colleges, Universities",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 954
+    "id": 958
   },
   {
     "mcc": "8241",
@@ -8601,7 +8637,7 @@
     "usda_description": "Correspondence Schools",
     "irs_description": "Correspondence Schools",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 955
+    "id": 959
   },
   {
     "mcc": "8244",
@@ -8610,7 +8646,7 @@
     "usda_description": "Business and Secretarial Schools",
     "irs_description": "Business/Secretarial Schools",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 956
+    "id": 960
   },
   {
     "mcc": "8249",
@@ -8619,7 +8655,7 @@
     "usda_description": "Vocational Schools and Trade Schools",
     "irs_description": "Vocational/Trade Schools",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 957
+    "id": 961
   },
   {
     "mcc": "8299",
@@ -8628,7 +8664,7 @@
     "usda_description": "Schools and Educational Services ( Not Elsewhere Classified)",
     "irs_description": "Educational Services ",
     "irs_reportable": "Yes",
-    "id": 958
+    "id": 962
   },
   {
     "mcc": "8351",
@@ -8637,7 +8673,7 @@
     "usda_description": "Child Care Services",
     "irs_description": "Child Care Services",
     "irs_reportable": "Yes",
-    "id": 959
+    "id": 963
   },
   {
     "mcc": "8398",
@@ -8646,7 +8682,7 @@
     "usda_description": "Charitable and Social Service Organizations",
     "irs_description": "Charitable and Social Service Organizations - Fundraising",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 960
+    "id": 964
   },
   {
     "mcc": "8641",
@@ -8655,7 +8691,7 @@
     "usda_description": "Civic, Fraternal, and Social Associations",
     "irs_description": "Civic, Social, Fraternal Associations",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 961
+    "id": 965
   },
   {
     "mcc": "8651",
@@ -8664,7 +8700,7 @@
     "usda_description": "Political Organizations",
     "irs_description": "Political Organizations",
     "irs_reportable": "Yes",
-    "id": 962
+    "id": 966
   },
   {
     "mcc": "8661",
@@ -8673,7 +8709,7 @@
     "usda_description": "Religious Organizations",
     "irs_description": "Religious Organizations",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 963
+    "id": 967
   },
   {
     "mcc": "8675",
@@ -8682,7 +8718,7 @@
     "usda_description": "Automobile Associations",
     "irs_description": "Automobile Associations",
     "irs_reportable": "Yes",
-    "id": 964
+    "id": 968
   },
   {
     "mcc": "8699",
@@ -8691,7 +8727,7 @@
     "usda_description": "Membership Organizations ( Not Elsewhere Classified)",
     "irs_description": "Membership Organizations",
     "irs_reportable": "Yes",
-    "id": 965
+    "id": 969
   },
   {
     "mcc": "8734",
@@ -8700,7 +8736,7 @@
     "usda_description": "Testing Laboratories ( non-medical)",
     "irs_description": "Testing Laboratories",
     "irs_reportable": "Yes",
-    "id": 966
+    "id": 970
   },
   {
     "mcc": "8911",
@@ -8709,7 +8745,7 @@
     "usda_description": "Architectural – Engineering and Surveying Services",
     "irs_description": "Architectural/Surveying Services",
     "irs_reportable": "Yes",
-    "id": 967
+    "id": 971
   },
   {
     "mcc": "8931",
@@ -8718,7 +8754,7 @@
     "usda_description": "Accounting, Auditing, and Bookkeeping Services",
     "irs_description": "Accounting/Bookkeeping Services",
     "irs_reportable": "Yes",
-    "id": 968
+    "id": 972
   },
   {
     "mcc": "8999",
@@ -8727,7 +8763,7 @@
     "usda_description": "Professional Services ( Not Elsewhere Defined)",
     "irs_description": "Professional Services",
     "irs_reportable": "Yes",
-    "id": 969
+    "id": 973
   },
   {
     "mcc": "9211",
@@ -8736,7 +8772,7 @@
     "usda_description": "Court Costs, including Alimony and Child Support",
     "irs_description": "Court Costs, Including Alimony and Child Support - Courts of Law",
     "irs_reportable": "No1.6041-3(p)(4)",
-    "id": 970
+    "id": 974
   },
   {
     "mcc": "9222",
@@ -8745,7 +8781,7 @@
     "usda_description": "Fines",
     "irs_description": "Fines - Government Administrative Entities",
     "irs_reportable": "No1.6041-3(p)(4)",
-    "id": 971
+    "id": 975
   },
   {
     "mcc": "9223",
@@ -8754,7 +8790,7 @@
     "usda_description": "Bail and Bond Payments",
     "irs_description": "Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency) ",
     "irs_reportable": "Yes",
-    "id": 972
+    "id": 976
   },
   {
     "mcc": "9311",
@@ -8763,7 +8799,7 @@
     "usda_description": "Tax Payments",
     "irs_description": "Tax Payments - Government Agencies",
     "irs_reportable": "No1.6041-3(p)(4)",
-    "id": 973
+    "id": 977
   },
   {
     "mcc": "9399",
@@ -8772,7 +8808,7 @@
     "usda_description": "Government Services ( Not Elsewhere Classified)",
     "irs_description": "Government Services (Not Elsewhere Classified)",
     "irs_reportable": "No1.6041-3(p)(4)",
-    "id": 974
+    "id": 978
   },
   {
     "mcc": "9402",
@@ -8781,7 +8817,7 @@
     "usda_description": "Postal Services – Government Only",
     "irs_description": "Postal Services - Government Only",
     "irs_reportable": "No1.6041-3(p)(3)",
-    "id": 975
+    "id": 979
   },
   {
     "mcc": "9405",
@@ -8790,7 +8826,7 @@
     "usda_description": "Intra – Government Transactions",
     "irs_description": "U.S. Federal Government Agencies or Departments",
     "irs_reportable": "No1.6041-3(p)(3)",
-    "id": 976
+    "id": 980
   },
   {
     "mcc": "9700",
@@ -8799,7 +8835,7 @@
     "usda_description": "Automated Referral Service ( For Visa Only)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 977
+    "id": 981
   },
   {
     "mcc": "9701",
@@ -8808,7 +8844,7 @@
     "usda_description": "Visa Credential Service ( For Visa Only)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 978
+    "id": 982
   },
   {
     "mcc": "9702",
@@ -8817,7 +8853,7 @@
     "usda_description": "GCAS Emergency Services ( For Visa Only)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 979
+    "id": 983
   },
   {
     "mcc": "9950",
@@ -8826,6 +8862,6 @@
     "usda_description": "Intra – Company Purchases ( For Visa Only)",
     "irs_description": "Intra-Company Purchases",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 980
+    "id": 984
   }
 ]
