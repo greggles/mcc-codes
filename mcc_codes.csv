@@ -313,6 +313,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3297,Airlines,Airlines,,Airlines,Yes
 3298,AIR MAURITIUS,AIR MAURITIUS,AIR MAURITIUS,Airlines,Yes
 3299,WIDERO’S FLYVESELSKAP,WIDERO’S FLYVESELSKAP,WIDERO’S FLYVESELSKAP,Airlines,Yes
+3300,AZUL AIR,AZUL AIR,,Airlines,
 3351,AFFILIATED AUTO RENTAL,AFFILIATED AUTO RENTAL,AFFILIATED AUTO RENTAL,Car Rental,Yes
 3352,AMERICAN INTL RENT-A-CAR,AMERICAN INTL RENT-A-CAR,AMERICAN INTL RENT-A-CAR,Car Rental,Yes
 3353,BROOKS RENT-A-CAR,BROOKS RENT-A-CAR,BROOKS RENT-A-CAR,Car Rental,Yes
@@ -865,6 +866,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 6381,"Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)",,
 6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,No1.6041-3(c)
 6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,,Real Estate Agents and Managers - Rentals,Yes
+6540,Stored Value Card,Stored Value Card,Non-Financial Institutions – Stored value Card Purchase/load,,
 7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",Yes
 7012,Timeshares,Timeshares,Timeshares,Timeshares,Yes
 7032,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting/Recreation Camps,Yes
