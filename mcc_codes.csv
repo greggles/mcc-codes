@@ -1,5 +1,7 @@
 mcc,edited_description,combined_description,usda_description,irs_description,irs_reportable
 0742,Veterinary Services,Veterinary Services,Veterinary Services,Veterinary Services,Yes
+0743,Wine Producers,Wine Producers,,,
+0744,Champagne Producers,Champagne Producers,,,
 0763,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Cooperative,Yes
 0780,"Horticultural Services, Landscaping Services","Horticultural Services, Landscaping Services",Horticultural Services,Landscaping Services,Yes
 1520,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors,Yes
@@ -16,8 +18,8 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3000,UNITED AIRLINES,UNITED AIRLINES,UNITED AIRLINES,Airlines,Yes
 3001,AMERICAN AIRLINES,AMERICAN AIRLINES,AMERICAN AIRLINES,Airlines,Yes
 3002,PAN AMERICAN,PAN AMERICAN,PAN AMERICAN,Airlines,Yes
-3003,Airlines,Airlines,,Airlines,Yes
-3004,TRANS WORLD AIRLINES,TRANS WORLD AIRLINES,TRANS WORLD AIRLINES,Airlines,Yes
+3003,EUROFLY AIRLINES,EUROFLY AIRLINES,,Airlines,Yes
+3004,DRAGON AIRLINES,DRAGON AIRLINES,DRAGON AIRLINES,Airlines,Yes
 3005,BRITISH AIRWAYS,BRITISH AIRWAYS,BRITISH AIRWAYS,Airlines,Yes
 3006,JAPAN AIRLINES,JAPAN AIRLINES,JAPAN AIRLINES,Airlines,Yes
 3007,AIR FRANCE,AIR FRANCE,AIR FRANCE,Airlines,Yes
@@ -28,26 +30,26 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3012,QUANTAS,QUANTAS,QUANTAS,Airlines,Yes
 3013,ALITALIA,ALITALIA,ALITALIA,Airlines,Yes
 3014,SAUDIA ARABIAN AIRLINES,SAUDIA ARABIAN AIRLINES,SAUDIA ARABIAN AIRLINES,Airlines,Yes
-3015,SWISSAIR,SWISSAIR,SWISSAIR,Airlines,Yes
-3016,SAS,SAS,SAS,Airlines,Yes
+3015,SWISS INTERNATIONAL AIR,SWISS INTERNATIONAL AIR,SWISS INTERNATIONAL AIR,Airlines,Yes
+3016,SCANDINAVIAN AIRLINE SYSTEM (SAS),SCANDINAVIAN AIRLINE SYSTEM (SAS),SCANDINAVIAN AIRLINE SYSTEM (SAS),Airlines,Yes
 3017,SOUTH AFRICAN AIRWAYS,SOUTH AFRICAN AIRWAYS,SOUTH AFRICAN AIRWAYS,Airlines,Yes
 3018,VARIG (BRAZIL),VARIG (BRAZIL),VARIG (BRAZIL),Airlines,Yes
-3019,Airlines,Airlines,,Airlines,Yes
+3019,GERMANWINGS,GERMANWINGS,,Airlines,Yes
 3020,AIR-INDIA,AIR-INDIA,AIR-INDIA,Airlines,Yes
 3021,AIR ALGERIE,AIR ALGERIE,AIR ALGERIE,Airlines,Yes
 3022,PHILIPPINE AIRLINES,PHILIPPINE AIRLINES,PHILIPPINE AIRLINES,Airlines,Yes
 3023,MEXICANA,MEXICANA,MEXICANA,Airlines,Yes
 3024,PAKISTAN INTERNATIONAL,PAKISTAN INTERNATIONAL,PAKISTAN INTERNATIONAL,Airlines,Yes
 3025,AIR NEW ZEALAND,AIR NEW ZEALAND,AIR NEW ZEALAND,Airlines,Yes
-3026,Airlines,Airlines,,Airlines,Yes
-3027,UTA/INTERAIR,UTA/INTERAIR,UTA/INTERAIR,Airlines,Yes
+3026,EMIRATES AIRLINES,EMIRATES AIRLINES,,Airlines,Yes
+3027,UNION DE TRANSPORTS AERIENS (UTA/INTERAIR),UNION DE TRANSPORTS AERIENS (UTA/INTERAIR),UNION DE TRANSPORTS AERIENS (UTA/INTERAIR),Airlines,Yes
 3028,AIR MALTA,AIR MALTA,AIR MALTA,Airlines,Yes
-3029,SABENA,SABENA,SABENA,Airlines,Yes
+3029,SN BRUSSELS AIRLINES,SN BRUSSELS AIRLINES,SN BRUSSELS AIRLINES,Airlines,Yes
 3030,AEROLINEAS ARGENTINAS,AEROLINEAS ARGENTINAS,AEROLINEAS ARGENTINAS,Airlines,Yes
 3031,OLYMPIC AIRWAYS,OLYMPIC AIRWAYS,OLYMPIC AIRWAYS,Airlines,Yes
 3032,EL AL,EL AL,EL AL,Airlines,Yes
 3033,ANSETT AIRLINES,ANSETT AIRLINES,ANSETT AIRLINES,Airlines,Yes
-3034,AUSTRAINLIAN AIRLINES,AUSTRAINLIAN AIRLINES,AUSTRAINLIAN AIRLINES,Airlines,Yes
+3034,ETHIADAIR,ETHIADAIR,ETHIADAIR,Airlines,Yes
 3035,TAP (PORTUGAL),TAP (PORTUGAL),TAP (PORTUGAL),Airlines,Yes
 3036,VASP (BRAZIL),VASP (BRAZIL),VASP (BRAZIL),Airlines,Yes
 3037,EGYPTAIR,EGYPTAIR,EGYPTAIR,Airlines,Yes
@@ -65,53 +67,53 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3049,TUNIS AIR,TUNIS AIR,TUNIS AIR,Airlines,Yes
 3050,ICELANDAIR,ICELANDAIR,ICELANDAIR,Airlines,Yes
 3051,AUSTRIAN AIRLINES,AUSTRIAN AIRLINES,AUSTRIAN AIRLINES,Airlines,Yes
-3052,LANCHILE,LANCHILE,LANCHILE,Airlines,Yes
+3052,LAN AIRLINES,LAN AIRLINES,LAN AIRLINES,Airlines,Yes
 3053,AVIACO (SPAIN),AVIACO (SPAIN),AVIACO (SPAIN),Airlines,Yes
 3054,LADECO (CHILE),LADECO (CHILE),LADECO (CHILE),Airlines,Yes
 3055,LAB (BOLIVIA),LAB (BOLIVIA),LAB (BOLIVIA),Airlines,Yes
-3056,QUEBECAIRE,QUEBECAIRE,QUEBECAIRE,Airlines,Yes
-3057,EASTWEST AIRLINES (AUSTRALIA),EASTWEST AIRLINES (AUSTRALIA),EASTWEST AIRLINES (AUSTRALIA),Airlines,Yes
+3056,JET AIRWAYS,JET AIRWAYS,JET AIRWAYS,Airlines,Yes
+3057,VIRGIN AMERICA,VIRGIN AMERICA,VIRGIN AMERICA,Airlines,Yes
 3058,DELTA,DELTA,DELTA,Airlines,Yes
-3059,Airlines,Airlines,,Airlines,Yes
+3059,DBA AIRLINE,DBAAIRLINE,,Airlines,Yes
 3060,NORTHWEST,NORTHWEST,NORTHWEST,Airlines,Yes
 3061,CONTINENTAL,CONTINENTAL,CONTINENTAL,Airlines,Yes
-3062,WESTERN,WESTERN,WESTERN,Airlines,Yes
+3062,HAPAG-LLOYD EXPRESS,HAPAG-LLOYD EXPRESS,HAPAG-LLOYD EXPRESS,Airlines,Yes
 3063,US AIR,US AIR,US AIR,Airlines,Yes
-3064,Airlines,Airlines,,Airlines,Yes
+3064,ADRIA AIRWAYS,ADRIA AIRWAYS,,Airlines,Yes
 3065,AIRINTER,AIRINTER,AIRINTER,Airlines,Yes
 3066,SOUTHWEST,SOUTHWEST,SOUTHWEST,Airlines,Yes
-3067,Airlines,Airlines,,Airlines,Yes
-3068,Airlines,Airlines,,Airlines,Yes
+3067,VANGUARD AIRLINES,VANGUARD AIRLINES,,Airlines,Yes
+3068,AIR ASTANA,AIR ASTANA,,Airlines,Yes
 3069,SUN COUNTRY AIRLINES,SUN COUNTRY AIRLINES,SUN COUNTRY AIRLINES,Airlines,Yes
 3070,Airlines,Airlines,,Airlines,Yes
 3071,AIR BRITISH COLUBIA,AIR BRITISH COLUBIA,AIR BRITISH COLUBIA,Airlines,Yes
-3072,Airlines,Airlines,,Airlines,Yes
+3072,CEBU PACIFIC AIRLINES,CEBU PACIFIC AIRLINES,,Airlines,Yes
 3073,Airlines,Airlines,,Airlines,Yes
 3074,Airlines,Airlines,,Airlines,Yes
 3075,SINGAPORE AIRLINES,SINGAPORE AIRLINES,SINGAPORE AIRLINES,Airlines,Yes
 3076,AEROMEXICO,AEROMEXICO,AEROMEXICO,Airlines,Yes
 3077,THAI AIRWAYS,THAI AIRWAYS,THAI AIRWAYS,Airlines,Yes
 3078,CHINA AIRLINES,CHINA AIRLINES,CHINA AIRLINES,Airlines,Yes
-3079,Airlines,Airlines,,Airlines,Yes
+3079,JETSTAR AIRWAYS,JETSTAR AIRWAYS,,Airlines,Yes
 3080,Airlines,Airlines,,Airlines,Yes
 3081,NORDAIR,NORDAIR,NORDAIR,Airlines,Yes
 3082,KOREAN AIRLINES,KOREAN AIRLINES,KOREAN AIRLINES,Airlines,Yes
 3083,AIR AFRIGUE,AIR AFRIGUE,AIR AFRIGUE,Airlines,Yes
 3084,EVA AIRLINES,EVA AIRLINES,EVA AIRLINES,Airlines,Yes
 3085,"MIDWEST EXPRESS AIRLINES, INC.","MIDWEST EXPRESS AIRLINES, INC.","MIDWEST EXPRESS AIRLINES, INC.",Airlines,Yes
-3086,Airlines,Airlines,,Airlines,Yes
+3086,CARNIVAL AIRLINES,CARNIVAL AIRLINES,,Airlines,Yes
 3087,METRO AIRLINES,METRO AIRLINES,METRO AIRLINES,Airlines,Yes
 3088,CROATIA AIRLINES,CROATIA AIRLINES,CROATIA AIRLINES,Airlines,Yes
 3089,TRANSAERO,TRANSAERO,TRANSAERO,Airlines,Yes
-3090,Airlines,Airlines,,Airlines,Yes
+3090,UNI AIRWAYS,UNI AIRWAYS,,Airlines,Yes
 3091,Airlines,Airlines,,Airlines,Yes
 3092,Airlines,Airlines,,Airlines,Yes
 3093,Airlines,Airlines,,Airlines,Yes
 3094,ZAMBIA AIRWAYS,ZAMBIA AIRWAYS,ZAMBIA AIRWAYS,Airlines,Yes
 3095,Airlines,Airlines,,Airlines,Yes
 3096,AIR ZIMBABWE,AIR ZIMBABWE,AIR ZIMBABWE,Airlines,Yes
-3097,Airlines,Airlines,,Airlines,Yes
-3098,Airlines,Airlines,,Airlines,Yes
+3097,SPANAIR,SPANAIR,,Airlines,Yes
+3098,ASIANA AIRLINES,ASIANA AIRLINES,,Airlines,Yes
 3099,CATHAY PACIFIC,CATHAY PACIFIC,CATHAY PACIFIC,Airlines,Yes
 3100,MALAYSIAN AIRLINE SYSTEM,MALAYSIAN AIRLINE SYSTEM,MALAYSIAN AIRLINE SYSTEM,Airlines,Yes
 3101,Airlines,Airlines,,Airlines,Yes
@@ -128,7 +130,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3112,WINDWARD ISLAND,WINDWARD ISLAND,WINDWARD ISLAND,Airlines,Yes
 3113,Airlines,Airlines,,Airlines,Yes
 3114,Airlines,Airlines,,Airlines,Yes
-3115,Airlines,Airlines,,Airlines,Yes
+3115,TOWER AIR,TOWER AIR,,Airlines,Yes
 3116,Airlines,Airlines,,Airlines,Yes
 3117,VIASA,VIASA,VIASA,Airlines,Yes
 3118,VALLEY AIRLINES,VALLEY AIRLINES,VALLEY AIRLINES,Airlines,Yes
@@ -144,12 +146,12 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3128,Airlines,Airlines,,Airlines,Yes
 3129,SURINAM AIRWAYS,SURINAM AIRWAYS,SURINAM AIRWAYS,Airlines,Yes
 3130,SUN WORLD INTERNATIONAL,SUN WORLD INTERNATIONAL,SUN WORLD INTERNATIONAL,Airlines,Yes
-3131,Airlines,Airlines,,Airlines,Yes
-3132,Airlines,Airlines,,Airlines,Yes
+3131,VLM AIRLINES,VLM AIRLINES,,Airlines,Yes
+3132,FRONTIER AIRLINES,FRONTIER AIRLINES,,Airlines,Yes
 3133,SUNBELT AIRLINES,SUNBELT AIRLINES,SUNBELT AIRLINES,Airlines,Yes
 3134,Airlines,Airlines,,Airlines,Yes
 3135,SUDAN AIRWAYS,SUDAN AIRWAYS,SUDAN AIRWAYS,Airlines,Yes
-3136,Airlines,Airlines,,Airlines,Yes
+3136,QATAR AIRWAYS,QATAR AIRWAYS,,Airlines,Yes
 3137,SINGLETON,SINGLETON,SINGLETON,Airlines,Yes
 3138,SIMMONS AIRLINES,SIMMONS AIRLINES,SIMMONS AIRLINES,Airlines,Yes
 3139,Airlines,Airlines,,Airlines,Yes
@@ -161,7 +163,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3145,SAN JUAN AIRLINES,SAN JUAN AIRLINES,SAN JUAN AIRLINES,Airlines,Yes
 3146,LUXAIR,LUXAIR,LUXAIR,Airlines,Yes
 3147,Airlines,Airlines,,Airlines,Yes
-3148,Airlines,Airlines,,Airlines,Yes
+3148,AIR LITTORAL,AIR LITTORAL,,Airlines,Yes
 3149,Airlines,Airlines,,Airlines,Yes
 3150,Airlines,Airlines,,Airlines,Yes
 3151,AIR ZAIRE,AIR ZAIRE,AIR ZAIRE,Airlines,Yes
@@ -169,7 +171,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3153,Airlines,Airlines,,Airlines,Yes
 3154,PRINCEVILLE,PRINCEVILLE,PRINCEVILLE,Airlines,Yes
 3155,Airlines,Airlines,,Airlines,Yes
-3156,Airlines,Airlines,,Airlines,Yes
+3156,GO FLY,GO FLY,,Airlines,Yes
 3157,Airlines,Airlines,,Airlines,Yes
 3158,Airlines,Airlines,,Airlines,Yes
 3159,PBA,PBA,PBA,Airlines,Yes
@@ -183,25 +185,25 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3167,Airlines,Airlines,,Airlines,Yes
 3168,Airlines,Airlines,,Airlines,Yes
 3169,Airlines,Airlines,,Airlines,Yes
-3170,NOUNT COOK,NOUNT COOK,NOUNT COOK,Airlines,Yes
+3170,MOUNT COOK,MOUNT COOK,MOUNT COOK,Airlines,Yes
 3171,CANADIAN AIRLINES INTERNATIONAL,CANADIAN AIRLINES INTERNATIONAL,CANADIAN AIRLINES INTERNATIONAL,Airlines,Yes
 3172,NATIONAIR,NATIONAIR,NATIONAIR,Airlines,Yes
 3173,Airlines,Airlines,,Airlines,Yes
-3174,Airlines,Airlines,,Airlines,Yes
-3175,Airlines,Airlines,,Airlines,Yes
+3174,JETBLUE AIRWAYS,JETBLUE AIRWAYS,,Airlines,Yes
+3175,MIDDLE EAST AIR,MIDDLE EAST AIR,,Airlines,Yes
 3176,METROFLIGHT AIRLINES,METROFLIGHT AIRLINES,METROFLIGHT AIRLINES,Airlines,Yes
-3177,Airlines,Airlines,,Airlines,Yes
+3177,AIRTRAN AIRWAYS,AIRTRAN AIRWAYS,,Airlines,Yes
 3178,MESA AIR,MESA AIR,MESA AIR,Airlines,Yes
 3179,Airlines,Airlines,,Airlines,Yes
-3180,Airlines,Airlines,,Airlines,Yes
+3180,WESTJET AIRLINES,WESTJET AIRLINES,,Airlines,Yes
 3181,MALEV,MALEV,MALEV,Airlines,Yes
 3182,LOT (POLAND),LOT (POLAND),LOT (POLAND),Airlines,Yes
-3183,Airlines,Airlines,,Airlines,Yes
+3183,OMAN AIR,OMAN AIR,,Airlines,Yes
 3184,LIAT,LIAT,LIAT,Airlines,Yes
 3185,LAV (VENEZUELA),LAV (VENEZUELA),LAV (VENEZUELA),Airlines,Yes
 3186,LAP (PARAGUAY),LAP (PARAGUAY),LAP (PARAGUAY),Airlines,Yes
 3187,LACSA (COSTA RICA),LACSA (COSTA RICA),LACSA (COSTA RICA),Airlines,Yes
-3188,Airlines,Airlines,,Airlines,Yes
+3188,VIRGIN EXPRESS,VIRGIN EXPRESS,,Airlines,Yes
 3189,Airlines,Airlines,,Airlines,Yes
 3190,JUGOSLAV AIR,JUGOSLAV AIR,JUGOSLAV AIR,Airlines,Yes
 3191,ISLAND AIRLINES,ISLAND AIRLINES,ISLAND AIRLINES,Airlines,Yes
@@ -213,20 +215,20 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3197,HAVASU AIRLINES,HAVASU AIRLINES,HAVASU AIRLINES,Airlines,Yes
 3198,Airlines,Airlines,,Airlines,Yes
 3199,Airlines,Airlines,,Airlines,Yes
-3200,FUYANA AIRWAYS,FUYANA AIRWAYS,FUYANA AIRWAYS,Airlines,Yes
+3200,GUYANA AIRWAYS,GUYANA AIRWAYS,GUYANA AIRWAYS,Airlines,Yes
 3201,Airlines,Airlines,,Airlines,Yes
 3202,Airlines,Airlines,,Airlines,Yes
 3203,GOLDEN PACIFIC AIR,GOLDEN PACIFIC AIR,GOLDEN PACIFIC AIR,Airlines,Yes
 3204,FREEDOM AIR,FREEDOM AIR,FREEDOM AIR,Airlines,Yes
 3205,Airlines,Airlines,,Airlines,Yes
-3206,Airlines,Airlines,,Airlines,Yes
+3206,CHINA EASTERN AIRLINES,CHINA EASTERN AIRLINES,,Airlines,Yes
 3207,Airlines,Airlines,,Airlines,Yes
 3208,Airlines,Airlines,,Airlines,Yes
 3209,Airlines,Airlines,,Airlines,Yes
 3210,Airlines,Airlines,,Airlines,Yes
-3211,Airlines,Airlines,,Airlines,Yes
+3211,NORWEGIAN AIR SHUTTLE,NORWEGIAN AIR SHUTTLE,,Airlines,Yes
 3212,DOMINICANA,DOMINICANA,DOMINICANA,Airlines,Yes
-3213,Airlines,Airlines,,Airlines,Yes
+3213,MALMO AVIATION,MALMO AVIATION,,Airlines,Yes
 3214,Airlines,Airlines,,Airlines,Yes
 3215,DAN AIR SERVICES,DAN AIR SERVICES,DAN AIR SERVICES,Airlines,Yes
 3216,CUMBERLAND AIRLINES,CUMBERLAND AIRLINES,CUMBERLAND AIRLINES,Airlines,Yes
@@ -239,7 +241,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3223,COMAIR,COMAIR,COMAIR,Airlines,Yes
 3224,Airlines,Airlines,,Airlines,Yes
 3225,Airlines,Airlines,,Airlines,Yes
-3226,Airlines,Airlines,,Airlines,Yes
+3226,SKYWAYS,SKYWAYS,,Airlines,Yes
 3227,Airlines,Airlines,,Airlines,Yes
 3228,CAYMAN AIRWAYS,CAYMAN AIRWAYS,CAYMAN AIRWAYS,Airlines,Yes
 3229,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,Airlines,Yes
@@ -247,9 +249,9 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3231,SASHA SERVICIO AERO DE HONDURAS,SASHA SERVICIO AERO DE HONDURAS,SASHA SERVICIO AERO DE HONDURAS,Airlines,Yes
 3232,Airlines,Airlines,,Airlines,Yes
 3233,CAPITOL AIR,CAPITOL AIR,CAPITOL AIR,Airlines,Yes
-3234,BWIA,BWIA,BWIA,Airlines,Yes
+3234,CARIBBEAN AIRLINES,CARIBBEAN AIRLINES,CARIBBEAN AIRLINES,Airlines,Yes
 3235,BROKWAY AIR,BROKWAY AIR,BROKWAY AIR,Airlines,Yes
-3236,Airlines,Airlines,,Airlines,Yes
+3236,AIR ARABIA,AIR ARABIA,,Airlines,Yes
 3237,Airlines,Airlines,,Airlines,Yes
 3238,BEMIDJI AIRLINES,BEMIDJI AIRLINES,BEMIDJI AIRLINES,Airlines,Yes
 3239,BAR HARBOR AIRLINES,BAR HARBOR AIRLINES,BAR HARBOR AIRLINES,Airlines,Yes
@@ -258,25 +260,25 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3242,AVENSA,AVENSA,AVENSA,Airlines,Yes
 3243,AUSTRIAN AIR SERVICE,AUSTRIAN AIR SERVICE,AUSTRIAN AIR SERVICE,Airlines,Yes
 3244,Airlines,Airlines,,Airlines,Yes
-3245,Airlines,Airlines,,Airlines,Yes
-3246,Airlines,Airlines,,Airlines,Yes
-3247,Airlines,Airlines,,Airlines,Yes
-3248,Airlines,Airlines,,Airlines,Yes
+3245,EASYJET,EASYJET,,Airlines,Yes
+3246,RYANAIR,RYANAIR,,Airlines,Yes
+3247,GOL AIRLINES,GOL AIRLINES,,Airlines,Yes
+3248,TAM AIRLINES,TAM AIRLINES,,Airlines,Yes
 3249,Airlines,Airlines,,Airlines,Yes
 3250,Airlines,Airlines,,Airlines,Yes
 3251,ALOHA AIRLINES,ALOHA AIRLINES,ALOHA AIRLINES,Airlines,Yes
 3252,ALM,ALM,ALM,Airlines,Yes
 3253,AMERICA WEST,AMERICA WEST,AMERICA WEST,Airlines,Yes
-3254,TRUMP AIRLINE,TRUMP AIRLINE,TRUMP AIRLINE,Airlines,Yes
+3254,US AIR SHUTTLE,US AIR SHUTTLE,US AIR SHUTTLE,Airlines,Yes
 3255,Airlines,Airlines,,Airlines,Yes
 3256,ALASKA AIRLINES,ALASKA AIRLINES,ALASKA AIRLINES,Airlines,Yes
 3257,Airlines,Airlines,,Airlines,Yes
 3258,Airlines,Airlines,,Airlines,Yes
 3259,AMERICAN TRANS AIR,AMERICAN TRANS AIR,AMERICAN TRANS AIR,Airlines,Yes
-3260,Airlines,Airlines,,Airlines,Yes
+3260,SPIRIT AIRLINES,SPIRIT AIRLINES,,Airlines,Yes
 3261,AIR CHINA,AIR CHINA,AIR CHINA,Airlines,Yes
 3262,"RENO AIR, INC.","RENO AIR, INC.","RENO AIR, INC.",Airlines,Yes
-3263,Airlines,Airlines,,Airlines,Yes
+3263,AIR SERVICIO CARABOBO,AIR SERVICIO CARABOBO,,Airlines,Yes
 3264,Airlines,Airlines,,Airlines,Yes
 3265,Airlines,Airlines,,Airlines,Yes
 3266,AIR SEYCHELLES,AIR SEYCHELLES,AIR SEYCHELLES,Airlines,Yes
@@ -309,15 +311,15 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3293,ECUATORIANA,ECUATORIANA,ECUATORIANA,Airlines,Yes
 3294,ETHIOPIAN AIRLINES,ETHIOPIAN AIRLINES,ETHIOPIAN AIRLINES,Airlines,Yes
 3295,KENYA AIRLINES,KENYA AIRLINES,KENYA AIRLINES,Airlines,Yes
-3296,Airlines,Airlines,,Airlines,Yes
-3297,Airlines,Airlines,,Airlines,Yes
+3296,AIR BERLIN,AIR BERLIN,,Airlines,Yes
+3297,TAROM ROMANIAN AIR TRANSPORT,TAROM ROMANIAN AIR TRANSPORT,,Airlines,Yes
 3298,AIR MAURITIUS,AIR MAURITIUS,AIR MAURITIUS,Airlines,Yes
 3299,WIDERO’S FLYVESELSKAP,WIDERO’S FLYVESELSKAP,WIDERO’S FLYVESELSKAP,Airlines,Yes
 3351,AFFILIATED AUTO RENTAL,AFFILIATED AUTO RENTAL,AFFILIATED AUTO RENTAL,Car Rental,Yes
 3352,AMERICAN INTL RENT-A-CAR,AMERICAN INTL RENT-A-CAR,AMERICAN INTL RENT-A-CAR,Car Rental,Yes
 3353,BROOKS RENT-A-CAR,BROOKS RENT-A-CAR,BROOKS RENT-A-CAR,Car Rental,Yes
 3354,ACTION AUTO RENTAL,ACTION AUTO RENTAL,ACTION AUTO RENTAL,Car Rental,Yes
-3355,Car Rental,Car Rental,,Car Rental,Yes
+3355,SIXT CAR RENTAL,SIXT CAR RENTAL,,Car Rental,Yes
 3356,Car Rental,Car Rental,,Car Rental,Yes
 3357,HERTZ RENT-A-CAR,HERTZ RENT-A-CAR,HERTZ RENT-A-CAR,Car Rental,Yes
 3358,Car Rental,Car Rental,,Car Rental,Yes
@@ -330,19 +332,19 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3365,Car Rental,Car Rental,,Car Rental,Yes
 3366,BUDGET RENT-A-CAR,BUDGET RENT-A-CAR,BUDGET RENT-A-CAR,Car Rental,Yes
 3367,Car Rental,Car Rental,,Car Rental,Yes
-3368,HOLIDAY RENT-A-WRECK,HOLIDAY RENT-A-WRECK,HOLIDAY RENT-A-WRECK,Car Rental,Yes
+3368,HOLIDAY RENT-A-CAR,HOLIDAY RENT-A-CAR,HOLIDAY RENT-A-CAR,Car Rental,Yes
 3369,Car Rental,Car Rental,,Car Rental,Yes
 3370,RENT-A-WRECK,RENT-A-WRECK,RENT-A-WRECK,Car Rental,Yes
 3371,Car Rental,Car Rental,,Car Rental,Yes
 3372,Car Rental,Car Rental,,Car Rental,Yes
 3373,Car Rental,Car Rental,,Car Rental,Yes
-3374,Car Rental,Car Rental,,Car Rental,Yes
+3374,ACCENT RENT-A-CAR,ACCENT RENT-A-CAR,ACCENT RENT-A-CAR,Car Rental,Yes
 3375,Car Rental,Car Rental,,Car Rental,Yes
 3376,AJAX RENT-A-CAR,AJAX RENT-A-CAR,AJAX RENT-A-CAR,Car Rental,Yes
 3377,Car Rental,Car Rental,,Car Rental,Yes
 3378,Car Rental,Car Rental,,Car Rental,Yes
 3379,Car Rental,Car Rental,,Car Rental,Yes
-3380,Car Rental,Car Rental,,Car Rental,Yes
+3380,TRIANGLE RENT-A-CAR,TRIANGLE RENT-A-CAR,TRIANGLE RENT-A-CAR,Car Rental,Yes
 3381,EUROP CAR,EUROP CAR,EUROP CAR,Car Rental,Yes
 3382,Car Rental,Car Rental,,Car Rental,Yes
 3383,Car Rental,Car Rental,,Car Rental,Yes
@@ -350,7 +352,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3385,TROPICAL RENT-A-CAR,TROPICAL RENT-A-CAR,TROPICAL RENT-A-CAR,Car Rental,Yes
 3386,SHOWCASE RENTAL CARS,SHOWCASE RENTAL CARS,SHOWCASE RENTAL CARS,Car Rental,Yes
 3387,ALAMO RENT-A-CAR,ALAMO RENT-A-CAR,ALAMO RENT-A-CAR,Car Rental,Yes
-3388,Car Rental,Car Rental,,Car Rental,Yes
+3388,MERCHANTS RENT-A-CAR,MERCHANTS RENT-A-CAR,MERCHANTS RENT-A-CAR,Car Rental,Yes
 3389,AVIS RENT-A-CAR,AVIS RENT-A-CAR,AVIS RENT-A-CAR,Car Rental,Yes
 3390,DOLLAR RENT-A-CAR,DOLLAR RENT-A-CAR,DOLLAR RENT-A-CAR,Car Rental,Yes
 3391,EUROPE BY CAR,EUROPE BY CAR,EUROPE BY CAR,Car Rental,Yes
@@ -417,7 +419,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3511,ARABELLA HOTELS,ARABELLA HOTELS,ARABELLA HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3512,INTER-CONTINENTAL HOTELS,INTER-CONTINENTAL HOTELS,INTER-CONTINENTAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3513,WESTIN HOTELS,WESTIN HOTELS,WESTIN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3514,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3514,AMERISUITES,AMERISUITES,AMERISUITES,Hotels/Motels/Inns/Resorts,Yes
 3515,RODEWAY INNS,RODEWAY INNS,RODEWAY INNS,Hotels/Motels/Inns/Resorts,Yes
 3516,LA QUINTA MOTOR INNS,LA QUINTA MOTOR INNS,LA QUINTA MOTOR INNS,Hotels/Motels/Inns/Resorts,Yes
 3517,AMERICANA HOTELS,AMERICANA HOTELS,AMERICANA HOTELS,Hotels/Motels/Inns/Resorts,Yes
@@ -429,113 +431,113 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3523,PENNSULA HOTEL,PENNSULA HOTEL,PENNSULA HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3524,WELCOMGROUP HOTELS,WELCOMGROUP HOTELS,WELCOMGROUP HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3525,DUNFEY HOTELS,DUNFEY HOTELS,DUNFEY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3526,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3526,PRINCE HOTELS,PRINCE HOTELS,PRINCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3527,DOWNTOWNER-PASSPORT HOTEL,DOWNTOWNER-PASSPORT HOTEL,DOWNTOWNER-PASSPORT HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3528,"RED LION HOTELS, RED LION INNS","RED LION HOTELS, RED LION INNS",RED LION HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3528,"THUNDERBIRD, RED LION HOTELS, RED LION INNS","THUNDERBIRD, RED LION HOTELS, RED LION INNS",RED LION HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3529,CP HOTELS,CP HOTELS,CP HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3530,"RENAISSANCE HOTELS, STOUFFER HOTELS","RENAISSANCE HOTELS, STOUFFER HOTELS",RENAISSANCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3531,ASTIR HOTELS,ASTIR HOTELS,ASTIR HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3532,SUN ROUTE HOTELS,SUN ROUTE HOTELS,SUN ROUTE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3533,HOTEL IBIS,HOTEL IBIS,HOTEL IBIS,Hotels/Motels/Inns/Resorts,Yes
+3531,KAUAI COCONUT BEACH RESORT,KAUAI COCONUT BEACH RESORT,KAUAI COCONUT BEACH RESORT,Hotels/Motels/Inns/Resorts,Yes
+3532,ROYAL KONA RESORT,ROYAL KONA RESORT,ROYAL KONA RESORT,Hotels/Motels/Inns/Resorts,Yes
+3533,PARK INN BY RADISSON,PARK INN BY RADISSON,PARK INN BY RADISSON,Hotels/Motels/Inns/Resorts,Yes
 3534,SOUTHERN PACIFIC HOTELS,SOUTHERN PACIFIC HOTELS,SOUTHERN PACIFIC HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3535,HILTON INTERNATIONAL,HILTON INTERNATIONAL,HILTON INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
 3536,AMFAC HOTELS,AMFAC HOTELS,AMFAC HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3537,ANA HOTEL,ANA HOTEL,ANA HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3538,CONCORDE HOTELS,CONCORDE HOTELS,CONCORDE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3539,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3539,SUMMERFIELD SUITES HOTEL,SUMMERFIELD SUITES HOTEL,SUMMERFIELD SUITES HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3540,IBEROTEL HOTELS,IBEROTEL HOTELS,IBEROTEL HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3541,HOTEL OKURA,HOTEL OKURA,HOTEL OKURA,Hotels/Motels/Inns/Resorts,Yes
 3542,ROYAL HOTELS,ROYAL HOTELS,ROYAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3543,FOUR SEASONS HOTELS,FOUR SEASONS HOTELS,FOUR SEASONS HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3544,CIGA HOTELS,CIGA HOTELS,CIGA HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3545,SHANGRI-LA INTERNATIONAL,SHANGRI-LA INTERNATIONAL,SHANGRI-LA INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3546,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3547,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3546,HOTEL SIERRA,HOTEL SIERRA,HOTEL SIERRA,Hotels/Motels/Inns/Resorts,Yes
+3547,BREAKERS RESORT,BREAKERS RESORT,BREAKERS RESORT,Hotels/Motels/Inns/Resorts,Yes
 3548,HOTELES MELIA,HOTELES MELIA,HOTELES MELIA,Hotels/Motels/Inns/Resorts,Yes
 3549,AUBERGE DES GOVERNEURS,AUBERGE DES GOVERNEURS,AUBERGE DES GOVERNEURS,Hotels/Motels/Inns/Resorts,Yes
 3550,REGAL 8 INNS,REGAL 8 INNS,REGAL 8 INNS,Hotels/Motels/Inns/Resorts,Yes
-3551,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3551,MIRAGE HOTEL AND CASINO,MIRAGE HOTEL AND CASINO,MIRAGE HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3552,COAST HOTELS,COAST HOTELS,COAST HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3553,PARK INNS INTERNATIONAL,PARK INNS INTERNATIONAL,PARK INNS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3554,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3555,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3556,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3557,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3554,PINEHURST RESORT,PINEHURST RESORT,PINEHURST RESORT,Hotels/Motels/Inns/Resorts,Yes
+3555,TREASURE ISLAND HOTEL AND CASINO,TREASURE ISLAND HOTEL AND CASINO,TREASURE ISLAND HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3556,BARTON CREEK RESORT,BARTON CREEK RESORT,BARTON CREEK RESORT,Hotels/Motels/Inns/Resorts,Yes
+3557,MANHATTAN EAST SUITE HOTELS,MANHATTAN EAST SUITE HOTELS,MANHATTAN EAST SUITE HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3558,JOLLY HOTELS,JOLLY HOTELS,JOLLY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3559,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3560,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3561,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3559,CANDLEWOOD SUITES,CANDLEWOOD SUITES,CANDLEWOOD SUITES,Hotels/Motels/Inns/Resorts,Yes
+3560,ALADDIN RESORT AND CASINO,ALADDIN RESORT AND CASINO,ALADDIN RESORT AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3561,GOLDEN NUGGET,GOLDEN NUGGET,GOLDEN NUGGET,Hotels/Motels/Inns/Resorts,Yes
 3562,COMFORT INNS,COMFORT INNS,COMFORT INNS,Hotels/Motels/Inns/Resorts,Yes
 3563,JOURNEY’S END MOTLS,JOURNEY’S END MOTLS,JOURNEY’S END MOTLS,Hotels/Motels/Inns/Resorts,Yes
-3564,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3564,SAMS TOWN HOTEL AND CASINO,SAMS TOWN HOTEL AND CASINO,SAMS TOWN HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3565,RELAX INNS,RELAX INNS,RELAX INNS,Hotels/Motels/Inns/Resorts,Yes
-3566,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3567,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3566,GARDEN PALACE HOTEL,GARDEN PALACE HOTEL,GARDEN PALACE HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3567,SOHO GRAND HOTEL,SOHO GRAND HOTEL,SOHO GRAND HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3568,LADBROKE HOTELS,LADBROKE HOTELS,LADBROKE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3569,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3569,TRIBECA GRAND HOTEL,TRIBECA GRAND HOTEL,TRIBECA GRAND HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3570,FORUM HOTELS,FORUM HOTELS,FORUM HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3571,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3571,GRAND WAILEA RESORT,GRAND WAILEA RESORT,GRAND WAILEA RESORT,Hotels/Motels/Inns/Resorts,Yes
 3572,MIYAKO HOTELS,MIYAKO HOTELS,MIYAKO HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3573,SANDMAN HOTELS,SANDMAN HOTELS,SANDMAN HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3574,VENTURE INNS,VENTURE INNS,VENTURE INNS,Hotels/Motels/Inns/Resorts,Yes
 3575,VAGABOND HOTELS,VAGABOND HOTELS,VAGABOND HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3576,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3576,LA QUINTA RESORT,LA QUINTA RESORT,LA QUINTA RESORT,Hotels/Motels/Inns/Resorts,Yes
 3577,MANDARIN ORIENTAL HOTEL,MANDARIN ORIENTAL HOTEL,MANDARIN ORIENTAL HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3578,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3578,FRANKENMUTH BAVARIAN,FRANKENMUTH BAVARIAN,FRANKENMUTH BAVARIAN,Hotels/Motels/Inns/Resorts,Yes
 3579,HOTEL MERCURE,HOTEL MERCURE,HOTEL MERCURE,Hotels/Motels/Inns/Resorts,Yes
-3580,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3580,HOTEL DEL CORONADO,HOTEL DEL CORONADO,HOTEL DEL CORONADO,Hotels/Motels/Inns/Resorts,Yes
 3581,DELTA HOTEL,DELTA HOTEL,DELTA HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3582,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3583,SAS HOTELS,SAS HOTELS,SAS HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3582,CALIFORNIA HOTEL AND CASINO,CALIFORNIA HOTEL AND CASINO,CALIFORNIA HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3583,RADISSON BLU,RADISSON BLU,RADISSON BLU,Hotels/Motels/Inns/Resorts,Yes
 3584,PRINCESS HOTELS INTERNATIONAL,PRINCESS HOTELS INTERNATIONAL,PRINCESS HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
 3585,HUNGAR HOTELS,HUNGAR HOTELS,HUNGAR HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3586,SOKOS HOTELS,SOKOS HOTELS,SOKOS HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3587,DORAL HOTELS,DORAL HOTELS,DORAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3588,HELMSLEY HOTELS,HELMSLEY HOTELS,HELMSLEY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3589,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3589,DORAL GOLF RESORT,DORAL GOLF RESORT,DORAL GOLF RESORT,Hotels/Motels/Inns/Resorts,Yes
 3590,FAIRMONT HOTELS,FAIRMONT HOTELS,FAIRMONT HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3591,SONESTA HOTELS,SONESTA HOTELS,SONESTA HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3592,OMNI HOTELS,OMNI HOTELS,OMNI HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3593,CUNARD HOTELS,CUNARD HOTELS,CUNARD HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3594,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3594,ARIZONA BILTMORE,ARIZONA BILTMORE,ARIZONA BILTMORE,Hotels/Motels/Inns/Resorts,Yes
 3595,HOSPITALITY INTERNATIONAL,HOSPITALITY INTERNATIONAL,HOSPITALITY INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3596,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3597,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3596,WYNN LAS VEGAS,WYNN LAS VEGAS,WYNN LAS VEGAS,Hotels/Motels/Inns/Resorts,Yes
+3597,RIVERSIDE RESORT AND CASINO,RIVERSIDE RESORT AND CASINO,RIVERSIDE RESORT AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3598,REGENT INTERNATIONAL HOTELS,REGENT INTERNATIONAL HOTELS,REGENT INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3599,PANNONIA HOTELS,PANNONIA HOTELS,PANNONIA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3600,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3601,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3602,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3600,SADDLEBROOK RESORT-TAMPA,SADDLEBROOK RESORT-TAMPA,SADDLEBROOK RESORT-TAMPA,Hotels/Motels/Inns/Resorts,Yes
+3601,TRADEWINDS RESORT,TRADEWINDS RESORT,TRADEWINDS RESORT,Hotels/Motels/Inns/Resorts,Yes
+3602,HUDSON HOTEL,HUDSON HOTEL,HUDSON HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3603,NOAH’S HOTELS,NOAH’S HOTELS,NOAH’S HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3604,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3605,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3606,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3607,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3608,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3609,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3610,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3611,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3612,MOVENPICK HOTELS,MOVENPICK HOTELS,MOVENPICK HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3613,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3614,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3604,HILTON GARDEN INN,HILTON GARDEN INN,HILTON GARDEN INN,Hotels/Motels/Inns/Resorts,Yes
+3605,JURYS DOYLE HOTEL GROUP,JURYS DOYLE HOTEL GROUP,JURYS DOYLE HOTEL GROUP,Hotels/Motels/Inns/Resorts,Yes
+3606,JEFFERSON HOTEL,JEFFERSON HOTEL,JEFFERSON HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3607,FONTAINEBLEAU RESORT,FONTAINEBLEAU RESORT,FONTAINEBLEAU RESORT,Hotels/Motels/Inns/Resorts,Yes
+3608,GAYLORD OPRYLAND,GAYLORD OPRYLAND,GAYLORD OPRYLAND,Hotels/Motels/Inns/Resorts,Yes
+3609,GAYLORD PALMS,GAYLORD PALMS,GAYLORD PALMS,Hotels/Motels/Inns/Resorts,Yes
+3610,GAYLORD TEXAN,GAYLORD TEXAN,GAYLORD TEXAN,Hotels/Motels/Inns/Resorts,Yes
+3611,C MON INN,C MON INN,C MON INN,Hotels/Motels/Inns/Resorts,Yes
+3612,MOEVENPICK HOTELS,MOEVENPICK HOTELS,MOEVENPICK HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3613,MICROTEL INN AND SUITES,MICROTEL INN AND SUITES,MICROTEL INN AND SUITES,Hotels/Motels/Inns/Resorts,Yes
+3614,AMERICINN,AMERICINN,AMERICINN,Hotels/Motels/Inns/Resorts,Yes
 3615,TRAVELODGE,TRAVELODGE,TRAVELODGE,Hotels/Motels/Inns/Resorts,Yes
-3616,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3617,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3618,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3619,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3620,TELFORD INTERNATIONAL,TELFORD INTERNATIONAL,TELFORD INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3621,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3616,HERMITAGE HOTELS,HERMITAGE HOTELS,HERMITAGE HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3617,AMERICA'S BEST VALUE INN,AMERICA'S BEST VALUE INN,AMERICA'S BEST VALUE INN,Hotels/Motels/Inns/Resorts,Yes
+3618,GREAT WOLF,GREAT WOLF,GREAT WOLF,Hotels/Motels/Inns/Resorts,Yes
+3619,ALOFT,ALOFT,ALOFT,Hotels/Motels/Inns/Resorts,Yes
+3620,BINIONS HORSESHOE CLUB,BINIONS HORSESHOE CLUB,BINIONS HORSESHOE CLUB,Hotels/Motels/Inns/Resorts,Yes
+3621,EXTENDED STAY,EXTENDED STAY,EXTENDED STAY,Hotels/Motels/Inns/Resorts,Yes
 3622,MERLIN HOTELS,MERLIN HOTELS,MERLIN HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3623,DORINT HOTELS,DORINT HOTELS,DORINT HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3624,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3625,HOTLE UNIVERSALE,HOTLE UNIVERSALE,HOTLE UNIVERSALE,Hotels/Motels/Inns/Resorts,Yes
-3626,PRINCE HOTELS,PRINCE HOTELS,PRINCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3627,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3628,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3624,LADY LUCK HOTEL AND CASINO,LADY LUCK HOTEL AND CASINO,LADY LUCK HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3625,HOTLE UNIVERSAL,HOTLE UNIVERSAL,HOTLE UNIVERSAL,Hotels/Motels/Inns/Resorts,Yes
+3626,STUDIO PLUS,STUDIO PLUS,STUDIO PLUS,Hotels/Motels/Inns/Resorts,Yes
+3627,EXTENDED STAY AMERICA,EXTENDED STAY AMERICA,EXTENDED STAY AMERICA,Hotels/Motels/Inns/Resorts,Yes
+3628,EXCALIBUR HOTEL AND CASINO,EXCALIBUR HOTEL AND CASINO,EXCALIBUR HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3629,DAN HOTELS,DAN HOTELS,DAN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3630,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3631,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3632,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3630,EXTENDED STAY DELUXE,EXTENDED STAY DELUXE,EXTENDED STAY DELUXE,Hotels/Motels/Inns/Resorts,Yes
+3631,SLEEP INN,SLEEP INN,SLEEP INN,Hotels/Motels/Inns/Resorts,Yes
+3632,THE PHOENICIAN,THE PHOENICIAN,THE PHOENICIAN,Hotels/Motels/Inns/Resorts,Yes
 3633,RANK HOTELS,RANK HOTELS,RANK HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3634,SWISSOTEL,SWISSOTEL,SWISSOTEL,Hotels/Motels/Inns/Resorts,Yes
 3635,RESO HOTELS,RESO HOTELS,RESO HOTELS,Hotels/Motels/Inns/Resorts,Yes
@@ -553,7 +555,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3647,HUSA HOTELS,HUSA HOTELS,HUSA HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3648,DE VERE HOTELS,DE VERE HOTELS,DE VERE HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3649,RADISSON HOTELS,RADISSON HOTELS,RADISSON HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3650,RED ROOK INNS,RED ROOK INNS,RED ROOK INNS,Hotels/Motels/Inns/Resorts,Yes
+3650,RED ROOF INNS,RED ROOF INNS,RED ROOF INNS,Hotels/Motels/Inns/Resorts,Yes
 3651,IMPERIAL LONDON HOTEL,IMPERIAL LONDON HOTEL,IMPERIAL LONDON HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3652,EMBASSY HOTELS,EMBASSY HOTELS,EMBASSY HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3653,PENTA HOTELS,PENTA HOTELS,PENTA HOTELS,Hotels/Motels/Inns/Resorts,Yes
@@ -565,28 +567,28 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3659,TAJ HOTELS INTERNATIONAL,TAJ HOTELS INTERNATIONAL,TAJ HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
 3660,KNIGHTS INNS,KNIGHTS INNS,KNIGHTS INNS,Hotels/Motels/Inns/Resorts,Yes
 3661,METROPOLE HOTELS,METROPOLE HOTELS,METROPOLE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3662,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3662,CIRCUS CIRCUS HOTEL AND CASINO,CIRCUS CIRCUS HOTEL AND CASINO,CIRCUS CIRCUS HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3663,HOTELES EL PRESIDENTS,HOTELES EL PRESIDENTS,HOTELES EL PRESIDENTS,Hotels/Motels/Inns/Resorts,Yes
 3664,FLAG INN,FLAG INN,FLAG INN,Hotels/Motels/Inns/Resorts,Yes
 3665,HAMPTON INNS,HAMPTON INNS,HAMPTON INNS,Hotels/Motels/Inns/Resorts,Yes
 3666,STAKIS HOTELS,STAKIS HOTELS,STAKIS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3667,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3667,LUXOR HOTEL AND CASINO,LUXOR HOTEL AND CASINO,LUXOR HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3668,MARITIM HOTELS,MARITIM HOTELS,MARITIM HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3669,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3670,ARCARD HOTELS,ARCARD HOTELS,ARCARD HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3669,ELDORADO HOTEL AND CASINO,ELDORADO HOTEL AND CASINO,ELDORADO HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3670,ARCADE HOTELS,ARCADE HOTELS,ARCADE HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3671,ARCTIA HOTELS,ARCTIA HOTELS,ARCTIA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3672,CAMPANIEL HOTELS,CAMPANIEL HOTELS,CAMPANIEL HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3672,CAMPANILE HOTELS,CAMPANILE HOTELS,CAMPANILE HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3673,IBUSZ HOTELS,IBUSZ HOTELS,IBUSZ HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3674,RANTASIPI HOTELS,RANTASIPI HOTELS,RANTASIPI HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3675,INTERHOTEL CEDOK,INTERHOTEL CEDOK,INTERHOTEL CEDOK,Hotels/Motels/Inns/Resorts,Yes
-3676,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3676,MONTE CARLO HOTEL AND CASINO,MONTE CARLO HOTEL AND CASINO,MONTE CARLO HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3677,CLIMAT DE FRANCE HOTELS,CLIMAT DE FRANCE HOTELS,CLIMAT DE FRANCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3678,CUMULUS HOTELS,CUMULUS HOTELS,CUMULUS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3679,DANUBIUS HOTEL,DANUBIUS HOTEL,DANUBIUS HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3680,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3679,SILVER LEGACY HOTEL AND CASINO,SILVER LEGACY HOTEL AND CASINO,SILVER LEGACY HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3680,HOTEIS OTHAN,HOTEIS OTHAN,HOTEIS OTHAN,Hotels/Motels/Inns/Resorts,Yes
 3681,ADAMS MARK HOTELS,ADAMS MARK HOTELS,ADAMS MARK HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3682,ALLSTAR INNS,ALLSTAR INNS,ALLSTAR INNS,Hotels/Motels/Inns/Resorts,Yes
-3683,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3682,SAHARA HOTEL AND CASINO,SAHARA HOTEL AND CASINO,SAHARA HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3683,BRADBURY SUITES,BRADBURY SUITES,BRADBURY SUITES,Hotels/Motels/Inns/Resorts,Yes
 3684,BUDGET HOST INNS,BUDGET HOST INNS,BUDGET HOST INNS,Hotels/Motels/Inns/Resorts,Yes
 3685,BUDGETEL HOTELS,BUDGETEL HOTELS,BUDGETEL HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3686,SUISSE CHALETS,SUISSE CHALETS,SUISSE CHALETS,Hotels/Motels/Inns/Resorts,Yes
@@ -594,28 +596,28 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3688,COMPRI HOTELS,COMPRI HOTELS,COMPRI HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3689,CONSORT HOTELS,CONSORT HOTELS,CONSORT HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3690,COURTYARD BY MARRIOTT,COURTYARD BY MARRIOTT,COURTYARD BY MARRIOTT,Hotels/Motels/Inns/Resorts,Yes
-3691,DILLION INNS,DILLION INNS,DILLION INNS,Hotels/Motels/Inns/Resorts,Yes
+3691,DILLON INNS,DILLON INNS,DILLON INNS,Hotels/Motels/Inns/Resorts,Yes
 3692,DOUBLETREE HOTELS,DOUBLETREE HOTELS,DOUBLETREE HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3693,DRURY INNS,DRURY INNS,DRURY INNS,Hotels/Motels/Inns/Resorts,Yes
 3694,ECONOMY INNS OF AMERICA,ECONOMY INNS OF AMERICA,ECONOMY INNS OF AMERICA,Hotels/Motels/Inns/Resorts,Yes
 3695,EMBASSY SUITES,EMBASSY SUITES,EMBASSY SUITES,Hotels/Motels/Inns/Resorts,Yes
-3696,EXEL INNS,EXEL INNS,EXEL INNS,Hotels/Motels/Inns/Resorts,Yes
+3696,EXCEL INNS,EXCEL INNS,EXCEL INNS,Hotels/Motels/Inns/Resorts,Yes
 3697,FARFIELD HOTELS,FARFIELD HOTELS,FARFIELD HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3698,HARLEY HOTELS,HARLEY HOTELS,HARLEY HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3699,MIDWAY MOTOR LODGE,MIDWAY MOTOR LODGE,MIDWAY MOTOR LODGE,Hotels/Motels/Inns/Resorts,Yes
 3700,MOTEL 6,MOTEL 6,MOTEL 6,Hotels/Motels/Inns/Resorts,Yes
-3701,GUEST QUARTERS (Formally PICKETT SUITE HOTELS),GUEST QUARTERS (Formally PICKETT SUITE HOTELS),GUEST QUARTERS (Formally PICKETT SUITE HOTELS),Hotels/Motels/Inns/Resorts,Yes
+3701,LA MANSION DEL RIO,LA MANSION DEL RIO,LA MANSION DEL RIO,Hotels/Motels/Inns/Resorts,Yes
 3702,THE REGISTRY HOTELS,THE REGISTRY HOTELS,THE REGISTRY HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3703,RESIDENCE INNS,RESIDENCE INNS,RESIDENCE INNS,Hotels/Motels/Inns/Resorts,Yes
 3704,ROYCE HOTELS,ROYCE HOTELS,ROYCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3705,SANDMAN INNS,SANDMAN INNS,SANDMAN INNS,Hotels/Motels/Inns/Resorts,Yes
 3706,SHILO INNS,SHILO INNS,SHILO INNS,Hotels/Motels/Inns/Resorts,Yes
 3707,SHONEY’S INNS,SHONEY’S INNS,SHONEY’S INNS,Hotels/Motels/Inns/Resorts,Yes
-3708,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3708,VIRGIN RIVER HOTEL AND CASINO,VIRGIN RIVER HOTEL AND CASINO,VIRGIN RIVER HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3709,SUPER8 MOTELS,SUPER8 MOTELS,SUPER8 MOTELS,Hotels/Motels/Inns/Resorts,Yes
 3710,THE RITZ CARLTON HOTELS,THE RITZ CARLTON HOTELS,THE RITZ CARLTON HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3711,FLAG INNS (AUSRALIA),FLAG INNS (AUSRALIA),FLAG INNS (AUSRALIA),Hotels/Motels/Inns/Resorts,Yes
-3712,GOLDEN CHAIN HOTEL,GOLDEN CHAIN HOTEL,GOLDEN CHAIN HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3712,BUFFALO BILLS HOTEL AND CASINO,BUFFALO BILLS HOTEL AND CASINO,BUFFALO BILLS HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3713,QUALITY PACIFIC HOTEL,QUALITY PACIFIC HOTEL,QUALITY PACIFIC HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3714,FOUR SEASONS HOTEL (AUSTRALIA),FOUR SEASONS HOTEL (AUSTRALIA),FOUR SEASONS HOTEL (AUSTRALIA),Hotels/Motels/Inns/Resorts,Yes
 3715,FARIFIELD INN,FARIFIELD INN,FARIFIELD INN,Hotels/Motels/Inns/Resorts,Yes
@@ -627,8 +629,8 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3721,HILTON CONRAD,HILTON CONRAD,HILTON CONRAD,Hotels/Motels/Inns/Resorts,Yes
 3722,WYNDHAM HOTEL AND RESORTS,WYNDHAM HOTEL AND RESORTS,WYNDHAM HOTEL AND RESORTS,Hotels/Motels/Inns/Resorts,Yes
 3723,RICA HOTELS,RICA HOTELS,RICA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3724,INER NOR HOTELS,INER NOR HOTELS,INER NOR HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3725,SEAINES PLANATION,SEAINES PLANATION,SEAINES PLANATION,Hotels/Motels/Inns/Resorts,Yes
+3724,INTER NOR HOTELS,INTER NOR HOTELS,INTER NOR HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3725,SEA PINES PLANATION,SEA PINES PLANATION,SEA PINES PLANATION,Hotels/Motels/Inns/Resorts,Yes
 3726,RIO SUITES,RIO SUITES,RIO SUITES,Hotels/Motels/Inns/Resorts,Yes
 3727,BROADMOOR HOTEL,BROADMOOR HOTEL,BROADMOOR HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3728,BALLY’S HOTEL AND CASINO,BALLY’S HOTEL AND CASINO,BALLY’S HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
@@ -638,12 +640,12 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3732,OPRYLAND HOTEL,OPRYLAND HOTEL,OPRYLAND HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3733,BOCA RATON RESORT,BOCA RATON RESORT,BOCA RATON RESORT,Hotels/Motels/Inns/Resorts,Yes
 3734,HARVEY/BRISTOL HOTELS,HARVEY/BRISTOL HOTELS,HARVEY/BRISTOL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3735,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
+3735,MASTERS ECONOMY INNS,MASTERS ECONOMY INNS,MASTERS ECONOMY INNS,Hotels/Motels/Inns/Resorts,Yes
 3736,COLORADO BELLE/EDGEWATER RESORT,COLORADO BELLE/EDGEWATER RESORT,COLORADO BELLE/EDGEWATER RESORT,Hotels/Motels/Inns/Resorts,Yes
 3737,RIVIERA HOTEL AND CASINO,RIVIERA HOTEL AND CASINO,RIVIERA HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3738,TROPICANA RESORT AND CASINO,TROPICANA RESORT AND CASINO,TROPICANA RESORT AND CASINO,Hotels/Motels/Inns/Resorts,Yes
 3739,WOODSIDE HOTELS AND RESORTS,WOODSIDE HOTELS AND RESORTS,WOODSIDE HOTELS AND RESORTS,Hotels/Motels/Inns/Resorts,Yes
-3740,TOWNPLACE SUITES,TOWNPLACE SUITES,TOWNPLACE SUITES,Hotels/Motels/Inns/Resorts,Yes
+3740,TOWNEPLACE SUITES,TOWNEPLACE SUITES,TOWNEPLACE SUITES,Hotels/Motels/Inns/Resorts,Yes
 3741,MILLENIUM BROADWAY HOTEL,MILLENIUM BROADWAY HOTEL,MILLENIUM BROADWAY HOTEL,Hotels/Motels/Inns/Resorts,Yes
 3742,CLUB MED,CLUB MED,CLUB MED,Hotels/Motels/Inns/Resorts,Yes
 3743,BILTMORE HOTEL AND SUITES,BILTMORE HOTEL AND SUITES,BILTMORE HOTEL AND SUITES,Hotels/Motels/Inns/Resorts,Yes
@@ -656,48 +658,86 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3750,CROWNE PLAZA HOTELS,CROWNE PLAZA HOTELS,CROWNE PLAZA HOTELS,Hotels/Motels/Inns/Resorts,Yes
 3751,HOMEWOOD SUITES,HOMEWOOD SUITES,HOMEWOOD SUITES,Hotels/Motels/Inns/Resorts,Yes
 3752,PEABODY HOTELS,PEABODY HOTELS,PEABODY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3753,GREENBRIAH RESORTS,GREENBRIAH RESORTS,GREENBRIAH RESORTS,Hotels/Motels/Inns/Resorts,Yes
+3753,GREENBRIAR RESORTS,GREENBRIAR RESORTS,GREENBRIAR RESORTS,Hotels/Motels/Inns/Resorts,Yes
 3754,AMELIA ISLAND PLANATION,AMELIA ISLAND PLANATION,AMELIA ISLAND PLANATION,Hotels/Motels/Inns/Resorts,Yes
 3755,THE HOMESTEAD,THE HOMESTEAD,THE HOMESTEAD,Hotels/Motels/Inns/Resorts,Yes
 3756,SOUTH SEAS RESORTS,SOUTH SEAS RESORTS,SOUTH SEAS RESORTS,Hotels/Motels/Inns/Resorts,Yes
-3757,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3758,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3759,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3760,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3761,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3762,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3763,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3764,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3765,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3766,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3767,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3768,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3769,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3770,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3771,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3772,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3773,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3774,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3775,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3776,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3777,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3778,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3779,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3780,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3781,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3782,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3783,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3784,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3785,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3786,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3787,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3788,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3789,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3790,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3816,Home2Suites,,,,
-3832,Curio Hotels,,,,
-3833,Canopy,,,,
-3835,* MASTERS ECONOMY INNS,* MASTERS ECONOMY INNS,* MASTERS ECONOMY INNS,,
+3757,CANYON RANCH,CANYON RANCH,CANYON RANCH,Hotels/Motels/Inns/Resorts,Yes
+3758,KAHALA MANDARIN ORIENTAL HOTEL,KAHALA MANDARIN ORIENTAL HOTEL,KAHALA MANDARIN ORIENTAL HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3759,ORCHID AT MAUNA LAI,ORCHID AT MAUNA LAI,ORCHID AT MAUNA LAI,Hotels/Motels/Inns/Resorts,Yes
+3760,HALEKULANI HOTEL/WIKIKI PARC,HALEKULANI HOTEL/WIKIKI PARC,HALEKULANI HOTEL/WIKIKI PARC,Hotels/Motels/Inns/Resorts,Yes
+3761,PRIMADONNA HOTEL AND CASINO,PRIMADONNA HOTEL AND CASINO,PRIMADONNA HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3762,WHISKEY PETE'S HOTEL AND CASINO,WHISKEY PETE'S HOTEL AND CASINO,WHISKEY PETE'S HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3763,CHATEAU ELAN WINERY AND RESORT,CHATEAU ELAN WINERY AND RESORT,CHATEAU ELAN WINERY AND RESORT,Hotels/Motels/Inns/Resorts,Yes
+3764,BEAU RIVAGE HOTEL AND CASINO,BEAU RIVAGE HOTEL AND CASINO,BEAU RIVAGE HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3765,BELLAGIO,BELLAGIO,BELLAGIO,Hotels/Motels/Inns/Resorts,Yes
+3766,FREMONT HOTEL AND CASINO,FREMONT HOTEL AND CASINO,FREMONT HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3767,MAIN STREET STATION HOTEL AND CASINO,MAIN STREET STATION HOTEL AND CASINO,MAIN STREET STATION HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3768,SILVER STAR HOTEL AND CASINO,SILVER STAR HOTEL AND CASINO,SILVER STAR HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3769,STRATOSPHERE HOTEL AND CASINO,STRATOSPHERE HOTEL AND CASINO,STRATOSPHERE HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3770,SPRINGHILL SUITES,SPRINGHILL SUITES,SPRINGHILL SUITES,Hotels/Motels/Inns/Resorts,Yes
+3771,CAESARS HOTEL AND CASINO,CAESARS HOTEL AND CASINO,CAESARS HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3772,NEMACOLIN WOODLANDS,NEMACOLIN WOODLANDS,NEMACOLIN WOODLANDS,Hotels/Motels/Inns/Resorts,Yes
+3773,VENETIAN RESORT HOTEL AND CASINO,VENETIAN RESORT HOTEL AND CASINO,VENETIAN RESORT HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3774,NEW YORK - NEW YORK HOTEL AND CASINO,NEW YORK - NEW YORK HOTEL AND CASINO,NEW YORK - NEW YORK HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
+3775,SANDS RESORT,SANDS RESORT,SANDS RESORT,Hotels/Motels/Inns/Resorts,Yes
+3776,NEVELE GRANDE RESORT AND COUNTRY CLUB,NEVELE GRANDE RESORT AND COUNTRY CLUB,NEVELE GRANDE RESORT AND COUNTRY CLUB,Hotels/Motels/Inns/Resorts,Yes
+3777,MANDALAY BAY RESORT,MANDALAY BAY RESORT,MANDALAY BAY RESORT,Hotels/Motels/Inns/Resorts,Yes
+3778,FOUR POINTS HOTELS,FOUR POINTS HOTELS,FOUR POINTS HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3779,W HOTELS,W HOTELS,W HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3780,DISNEYLAND RESORTS,DISNEYLAND RESORTS,DISNEYLAND RESORTS,Hotels/Motels/Inns/Resorts,Yes
+3781,PATRICIA GRAND RESORT HOTELS,PATRICIA GRAND RESORT HOTELS,PATRICIA GRAND RESORT HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3782,ROSEN HOTEL AND RESORTS,ROSEN HOTEL AND RESORTS,ROSEN HOTEL AND RESORTS,Hotels/Motels/Inns/Resorts,Yes
+3783,TOWN AND COUNTRY RESORT AND CONVENTION CENTER,TOWN AND COUNTRY RESORT AND CONVENTION CENTER,TOWN AND COUNTRY RESORT AND CONVENTION CENTER,Hotels/Motels/Inns/Resorts,Yes
+3784,FIRST HOSPITALITY HOTELS,FIRST HOSPITALITY HOTELS,FIRST HOSPITALITY HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3785,OUTRIGGER HOTELS AND RESORTS,OUTRIGGER HOTELS AND RESORTS,OUTRIGGER HOTELS AND RESORTS,Hotels/Motels/Inns/Resorts,Yes
+3786,OHANA HOTELS OF HAWAII,OHANA HOTELS OF HAWAII,OHANA HOTELS OF HAWAII,Hotels/Motels/Inns/Resorts,Yes
+3787,CARIBE ROYAL RESORT SUITE AND VILLAS,CARIBE ROYAL RESORT SUITE AND VILLAS,CARIBE ROYAL RESORT SUITE AND VILLAS,Hotels/Motels/Inns/Resorts,Yes
+3788,ALA MOANA HOTEL,ALA MOANA HOTEL,ALA MOANA HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3789,SMUGGLERS NOTCH RESORT,SMUGGLERS NOTCH RESORT,SMUGGLERS NOTCH RESORT,Hotels/Motels/Inns/Resorts,Yes
+3790,RAFFLES HOTELS,RAFFLES HOTELS,RAFFLES HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3791,STAYBRIDGE SUITES,STAYBRIDGE SUITES,STAYBRIDGE SUITES,Hotels/Motels/Inns/Resorts,Yes
+3792,CLARIDGE CASINO HOTEL,CLARIDGE CASINO HOTEL,CLARIDGE CASINO HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3793,THE FLAMINGO HOTELS,THE FLAMINGO HOTELS,THE FLAMINGO HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3794,GRAND CASINO HOTELS,GRAND CASINO HOTELS,GRAND CASINO HOTELS,Hotels/Motels/Inns/Resorts,Yes
+3795,PARIS LAS VEGAS HOTEL,PARIS LAS VEGAS HOTEL,PARIS LAS VEGAS HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3796,PEPPERMILL HOTEL CASINO,PEPPERMILL HOTEL CASINO,PEPPERMILL HOTEL CASINO,Hotels/Motels/Inns/Resorts,Yes
+3797,ATLANTIC CITY HILTON,ATLANTIC CITY HILTON,ATLANTIC CITY HILTON,Hotels/Motels/Inns/Resorts,Yes
+3798,EMBASSY VACATION RESORT,EMBASSY VACATION RESORT,EMBASSY VACATION RESORT,Hotels/Motels/Inns/Resorts,Yes
+3799,HALE KOA HOTEL,HALE KOA HOTEL,HALE KOA HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3800,HOMESTEAD SUITES,HOMESTEAD SUITES,HOMESTEAD SUITES,Hotels/Motels/Inns/Resorts,Yes
+3801,WILDERNESS HOTEL AND RESORT,WILDERNESS HOTEL AND RESORT,WILDERNESS HOTEL AND RESORT,Hotels/Motels/Inns/Resorts,Yes
+3802,THE PALACE HOTEL,THE PALACE HOTEL,THE PALACE HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3803,THE WIGWAM GOLF RESORT AND SPA,THE WIGWAM GOLF RESORT AND SPA,THE WIGWAM GOLF RESORT AND SPA,Hotels/Motels/Inns/Resorts,Yes
+3804,THE DIPLOMAT COUNTRY CLUB AND SPA,THE DIPLOMAT COUNTRY CLUB AND SPA,THE DIPLOMAT COUNTRY CLUB AND SPA,Hotels/Motels/Inns/Resorts,Yes
+3805,THE ATLANTIC,THE ATLANTIC,THE ATLANTIC,Hotels/Motels/Inns/Resorts,Yes
+3806,PRINCEVILLE RESORT,PRINCEVILLE RESORT,PRINCEVILLE RESORT,Hotels/Motels/Inns/Resorts,Yes
+3807,ELEMENT,ELEMENT,ELEMENT,Hotels/Motels/Inns/Resorts,Yes
+3808,LXR (LUXURY RESORTS),LXR (LUXURY RESORTS),LXR (LUXURY RESORTS),Hotels/Motels/Inns/Resorts,Yes
+3809,SETTLE INN,SETTLE INN,SETTLE INN,Hotels/Motels/Inns/Resorts,Yes
+3810,LA COSTA RESORT,LA COSTA RESORT,LA COSTA RESORT,Hotels/Motels/Inns/Resorts,Yes
+3811,PREMIER TRAVEL INNS,PREMIER TRAVEL INNS,PREMIER TRAVEL INNS,Hotels/Motels/Inns/Resorts,Yes
+3812,HYATT PLACE,HYATT PLACE,HYATT PLACE,Hotels/Motels/Inns/Resorts,Yes
+3813,HOTEL INDIGO,HOTEL INDIGO,HOTEL INDIGO,Hotels/Motels/Inns/Resorts,Yes
+3814,THE ROOSEVELT HOTEL NY,THE ROOSEVELT HOTEL NY,THE ROOSEVELT HOTEL NY,Hotels/Motels/Inns/Resorts,Yes
+3815,NICKELODEON FAMILY SUITES BY HOLIDAY INN,NICKELODEON FAMILY SUITES BY HOLIDAY INN,NICKELODEON FAMILY SUITES BY HOLIDAY INN,Hotels/Motels/Inns/Resorts,Yes
+3816,HOME2SUITES,HOME2SUITES,HOME2SUITES,Hotels/Motels/Inns/Resorts,Yes
+3817,AFFINIA,AFFINIA,AFFINIA,Hotels/Motels/Inns/Resorts,Yes
+3818,MAINSTAY SUITES,MAINSTAY SUITES,MAINSTAY SUITES,Hotels/Motels/Inns/Resorts,Yes
+3819,OXFORD SUITES,OXFORD SUITES,OXFORD SUITES,Hotels/Motels/Inns/Resorts,Yes
+3820,JUMEIRAH ESSEX HOUSE,JUMEIRAH ESSEX HOUSE,JUMEIRAH ESSEX HOUSE,Hotels/Motels/Inns/Resorts,Yes
+3821,CARIBE ROYAL,CARIBE ROYAL,CARIBE ROYAL,Hotels/Motels/Inns/Resorts,Yes
+3822,CROSSLAND,CROSSLAND,CROSSLAND,Hotels/Motels/Inns/Resorts,Yes
+3823,GRAND SIERRA RESORT,GRAND SIERRA RESORT,GRAND SIERRA RESORT,Hotels/Motels/Inns/Resorts,Yes
+3824,ARIA,ARIA,ARIA,Hotels/Motels/Inns/Resorts,Yes
+3825,VDARA,VDARA,VDARA,Hotels/Motels/Inns/Resorts,Yes
+3826,AUTOGRAPH,AUTOGRAPH,AUTOGRAPH,Hotels/Motels/Inns/Resorts,Yes
+3827,GALT HOUSE,GALT HOUSE,GALT HOUSE,Hotels/Motels/Inns/Resorts,Yes
+3828,COSMOPOLITAN OF LAS VEGAS,COSMOPOLITAN OF LAS VEGAS,COSMOPOLITAN OF LAS VEGAS,Hotels/Motels/Inns/Resorts,Yes
+3829,COUNTRY INN BY CARLSON,COUNTRY INN BY CARLSON,COUNTRY INN BY CARLSON,Hotels/Motels/Inns/Resorts,Yes
+3830,PARK PLAZA HOTEL,PARK PLAZA HOTEL,PARK PLAZA HOTEL,Hotels/Motels/Inns/Resorts,Yes
+3831,WALDORF,WALDORF,WALDORF,Hotels/Motels/Inns/Resorts,Yes
+3835,* MASTERS ECONOMY INNS,* MASTERS ECONOMY INNS,* MASTERS ECONOMY INNS,Hotels/Motels/Inns/Resorts,Yes
 4011,Railroads,Railroads,,Railroads,No1.6041-3(c)
 4111,"Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",Yes
 4112,Passenger Railways,Passenger Railways,Passenger Railways,Passenger Railways,Yes
