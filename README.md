@@ -10,6 +10,7 @@ The same data is available in several formats:
 * formatted json - indented for legibility
 * ods (LibreOffice and OpenOffice.org compatible)
 * xls (Microsoft Office & useful with many other systems that can read xls)
+* sql (tested on MySQL database)
 
 Fields
 ======
