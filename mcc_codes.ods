@@ -558,7 +558,7 @@
       <text:p>3012</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3" office:value-type="string">
-      <text:p>QUANTAS</text:p>
+      <text:p>QANTAS</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
       <text:p>Airlines</text:p>
