@@ -1,982 +1,1032 @@
-mcc,edited_description,combined_description,usda_description,irs_description,irs_reportable
-0742,Veterinary Services,Veterinary Services,Veterinary Services,Veterinary Services,Yes
-0763,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Cooperative,Yes
-0780,"Horticultural Services, Landscaping Services","Horticultural Services, Landscaping Services",Horticultural Services,Landscaping Services,Yes
-1520,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors,Yes
-1711,"Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation","Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation",Air Conditioning Contractors – Sales and Installation,"Heating, Plumbing, A/C",Yes
-1731,Electrical Contractors,Electrical Contractors,Electrical Contractors,Electrical Contractors,Yes
-1740,"Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors","Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors",Insulation – Contractors,"Masonry, Stonework, and Plaster",Yes
-1750,Carpentry Contractors,Carpentry Contractors,Carpentry Contractors,Carpentry Contractors,Yes
-1761,"Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors","Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors",Roofing - Contractors,"Roofing/Siding, Sheet Metal",Yes
-1771,Contractors – Concrete Work,Contractors – Concrete Work,Contractors – Concrete Work,Concrete Work Contractors,Yes
-1799,"Contractors – Special Trade, Not Elsewhere Classified","Contractors – Special Trade, Not Elsewhere Classified","Contractors – Special Trade, Not Elsewhere Classified",Special Trade Contractors,Yes
-2741,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Yes
-2791,"Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, and Related Services",Yes
-2842,"Specialty Cleaning, Polishing, and Sanitation Preparations","Specialty Cleaning, Polishing, and Sanitation Preparations","Specialty Cleaning, Polishing, and Sanitation Preparations",Specialty Cleaning,Yes
-3000,UNITED AIRLINES,UNITED AIRLINES,UNITED AIRLINES,Airlines,Yes
-3001,AMERICAN AIRLINES,AMERICAN AIRLINES,AMERICAN AIRLINES,Airlines,Yes
-3002,PAN AMERICAN,PAN AMERICAN,PAN AMERICAN,Airlines,Yes
-3003,Airlines,Airlines,,Airlines,Yes
-3004,TRANS WORLD AIRLINES,TRANS WORLD AIRLINES,TRANS WORLD AIRLINES,Airlines,Yes
-3005,BRITISH AIRWAYS,BRITISH AIRWAYS,BRITISH AIRWAYS,Airlines,Yes
-3006,JAPAN AIRLINES,JAPAN AIRLINES,JAPAN AIRLINES,Airlines,Yes
-3007,AIR FRANCE,AIR FRANCE,AIR FRANCE,Airlines,Yes
-3008,LUFTHANSA,LUFTHANSA,LUFTHANSA,Airlines,Yes
-3009,AIR CANADA,AIR CANADA,AIR CANADA,Airlines,Yes
-3010,KLM (ROYAL DUTCH AIRLINES),KLM (ROYAL DUTCH AIRLINES),KLM (ROYAL DUTCH AIRLINES),Airlines,Yes
-3011,AEORFLOT,AEORFLOT,AEORFLOT,Airlines,Yes
-3012,QANTAS,QANTAS,QANTAS,Airlines,Yes
-3013,ALITALIA,ALITALIA,ALITALIA,Airlines,Yes
-3014,SAUDIA ARABIAN AIRLINES,SAUDIA ARABIAN AIRLINES,SAUDIA ARABIAN AIRLINES,Airlines,Yes
-3015,SWISSAIR,SWISSAIR,SWISSAIR,Airlines,Yes
-3016,SAS,SAS,SAS,Airlines,Yes
-3017,SOUTH AFRICAN AIRWAYS,SOUTH AFRICAN AIRWAYS,SOUTH AFRICAN AIRWAYS,Airlines,Yes
-3018,VARIG (BRAZIL),VARIG (BRAZIL),VARIG (BRAZIL),Airlines,Yes
-3019,Airlines,Airlines,,Airlines,Yes
-3020,AIR-INDIA,AIR-INDIA,AIR-INDIA,Airlines,Yes
-3021,AIR ALGERIE,AIR ALGERIE,AIR ALGERIE,Airlines,Yes
-3022,PHILIPPINE AIRLINES,PHILIPPINE AIRLINES,PHILIPPINE AIRLINES,Airlines,Yes
-3023,MEXICANA,MEXICANA,MEXICANA,Airlines,Yes
-3024,PAKISTAN INTERNATIONAL,PAKISTAN INTERNATIONAL,PAKISTAN INTERNATIONAL,Airlines,Yes
-3025,AIR NEW ZEALAND,AIR NEW ZEALAND,AIR NEW ZEALAND,Airlines,Yes
-3026,Airlines,Airlines,,Airlines,Yes
-3027,UTA/INTERAIR,UTA/INTERAIR,UTA/INTERAIR,Airlines,Yes
-3028,AIR MALTA,AIR MALTA,AIR MALTA,Airlines,Yes
-3029,SABENA,SABENA,SABENA,Airlines,Yes
-3030,AEROLINEAS ARGENTINAS,AEROLINEAS ARGENTINAS,AEROLINEAS ARGENTINAS,Airlines,Yes
-3031,OLYMPIC AIRWAYS,OLYMPIC AIRWAYS,OLYMPIC AIRWAYS,Airlines,Yes
-3032,EL AL,EL AL,EL AL,Airlines,Yes
-3033,ANSETT AIRLINES,ANSETT AIRLINES,ANSETT AIRLINES,Airlines,Yes
-3034,AUSTRAINLIAN AIRLINES,AUSTRAINLIAN AIRLINES,AUSTRAINLIAN AIRLINES,Airlines,Yes
-3035,TAP (PORTUGAL),TAP (PORTUGAL),TAP (PORTUGAL),Airlines,Yes
-3036,VASP (BRAZIL),VASP (BRAZIL),VASP (BRAZIL),Airlines,Yes
-3037,EGYPTAIR,EGYPTAIR,EGYPTAIR,Airlines,Yes
-3038,KUWAIT AIRLINES,KUWAIT AIRLINES,KUWAIT AIRLINES,Airlines,Yes
-3039,AVIANCA,AVIANCA,AVIANCA,Airlines,Yes
-3040,GULF AIR (BAHRAIN),GULF AIR (BAHRAIN),GULF AIR (BAHRAIN),Airlines,Yes
-3041,BALKAN-BULGARIAN AIRLINES,BALKAN-BULGARIAN AIRLINES,BALKAN-BULGARIAN AIRLINES,Airlines,Yes
-3042,FINNAIR,FINNAIR,FINNAIR,Airlines,Yes
-3043,AER LINGUS,AER LINGUS,AER LINGUS,Airlines,Yes
-3044,AIR LANKA,AIR LANKA,AIR LANKA,Airlines,Yes
-3045,NIGERIA AIRWAYS,NIGERIA AIRWAYS,NIGERIA AIRWAYS,Airlines,Yes
-3046,CRUZEIRO DO SUL (BRAZIJ),CRUZEIRO DO SUL (BRAZIJ),CRUZEIRO DO SUL (BRAZIJ),Airlines,Yes
-3047,THY (TURKEY),THY (TURKEY),THY (TURKEY),Airlines,Yes
-3048,ROYAL AIR MAROC,ROYAL AIR MAROC,ROYAL AIR MAROC,Airlines,Yes
-3049,TUNIS AIR,TUNIS AIR,TUNIS AIR,Airlines,Yes
-3050,ICELANDAIR,ICELANDAIR,ICELANDAIR,Airlines,Yes
-3051,AUSTRIAN AIRLINES,AUSTRIAN AIRLINES,AUSTRIAN AIRLINES,Airlines,Yes
-3052,LANCHILE,LANCHILE,LANCHILE,Airlines,Yes
-3053,AVIACO (SPAIN),AVIACO (SPAIN),AVIACO (SPAIN),Airlines,Yes
-3054,LADECO (CHILE),LADECO (CHILE),LADECO (CHILE),Airlines,Yes
-3055,LAB (BOLIVIA),LAB (BOLIVIA),LAB (BOLIVIA),Airlines,Yes
-3056,QUEBECAIRE,QUEBECAIRE,QUEBECAIRE,Airlines,Yes
-3057,EASTWEST AIRLINES (AUSTRALIA),EASTWEST AIRLINES (AUSTRALIA),EASTWEST AIRLINES (AUSTRALIA),Airlines,Yes
-3058,DELTA,DELTA,DELTA,Airlines,Yes
-3059,Airlines,Airlines,,Airlines,Yes
-3060,NORTHWEST,NORTHWEST,NORTHWEST,Airlines,Yes
-3061,CONTINENTAL,CONTINENTAL,CONTINENTAL,Airlines,Yes
-3062,WESTERN,WESTERN,WESTERN,Airlines,Yes
-3063,US AIR,US AIR,US AIR,Airlines,Yes
-3064,Airlines,Airlines,,Airlines,Yes
-3065,AIRINTER,AIRINTER,AIRINTER,Airlines,Yes
-3066,SOUTHWEST,SOUTHWEST,SOUTHWEST,Airlines,Yes
-3067,Airlines,Airlines,,Airlines,Yes
-3068,Airlines,Airlines,,Airlines,Yes
-3069,SUN COUNTRY AIRLINES,SUN COUNTRY AIRLINES,SUN COUNTRY AIRLINES,Airlines,Yes
-3070,Airlines,Airlines,,Airlines,Yes
-3071,AIR BRITISH COLUBIA,AIR BRITISH COLUBIA,AIR BRITISH COLUBIA,Airlines,Yes
-3072,Airlines,Airlines,,Airlines,Yes
-3073,Airlines,Airlines,,Airlines,Yes
-3074,Airlines,Airlines,,Airlines,Yes
-3075,SINGAPORE AIRLINES,SINGAPORE AIRLINES,SINGAPORE AIRLINES,Airlines,Yes
-3076,AEROMEXICO,AEROMEXICO,AEROMEXICO,Airlines,Yes
-3077,THAI AIRWAYS,THAI AIRWAYS,THAI AIRWAYS,Airlines,Yes
-3078,CHINA AIRLINES,CHINA AIRLINES,CHINA AIRLINES,Airlines,Yes
-3079,Airlines,Airlines,,Airlines,Yes
-3080,Airlines,Airlines,,Airlines,Yes
-3081,NORDAIR,NORDAIR,NORDAIR,Airlines,Yes
-3082,KOREAN AIRLINES,KOREAN AIRLINES,KOREAN AIRLINES,Airlines,Yes
-3083,AIR AFRIGUE,AIR AFRIGUE,AIR AFRIGUE,Airlines,Yes
-3084,EVA AIRLINES,EVA AIRLINES,EVA AIRLINES,Airlines,Yes
-3085,"MIDWEST EXPRESS AIRLINES, INC.","MIDWEST EXPRESS AIRLINES, INC.","MIDWEST EXPRESS AIRLINES, INC.",Airlines,Yes
-3086,Airlines,Airlines,,Airlines,Yes
-3087,METRO AIRLINES,METRO AIRLINES,METRO AIRLINES,Airlines,Yes
-3088,CROATIA AIRLINES,CROATIA AIRLINES,CROATIA AIRLINES,Airlines,Yes
-3089,TRANSAERO,TRANSAERO,TRANSAERO,Airlines,Yes
-3090,Airlines,Airlines,,Airlines,Yes
-3091,Airlines,Airlines,,Airlines,Yes
-3092,Airlines,Airlines,,Airlines,Yes
-3093,Airlines,Airlines,,Airlines,Yes
-3094,ZAMBIA AIRWAYS,ZAMBIA AIRWAYS,ZAMBIA AIRWAYS,Airlines,Yes
-3095,Airlines,Airlines,,Airlines,Yes
-3096,AIR ZIMBABWE,AIR ZIMBABWE,AIR ZIMBABWE,Airlines,Yes
-3097,Airlines,Airlines,,Airlines,Yes
-3098,Airlines,Airlines,,Airlines,Yes
-3099,CATHAY PACIFIC,CATHAY PACIFIC,CATHAY PACIFIC,Airlines,Yes
-3100,MALAYSIAN AIRLINE SYSTEM,MALAYSIAN AIRLINE SYSTEM,MALAYSIAN AIRLINE SYSTEM,Airlines,Yes
-3101,Airlines,Airlines,,Airlines,Yes
-3102,IBERIA,IBERIA,IBERIA,Airlines,Yes
-3103,GARUDA (INDONESIA),GARUDA (INDONESIA),GARUDA (INDONESIA),Airlines,Yes
-3104,Airlines,Airlines,,Airlines,Yes
-3105,Airlines,Airlines,,Airlines,Yes
-3106,BRAATHENS S.A.F.E. (NORWAY),BRAATHENS S.A.F.E. (NORWAY),BRAATHENS S.A.F.E. (NORWAY),Airlines,Yes
-3107,Airlines,Airlines,,Airlines,Yes
-3108,Airlines,Airlines,,Airlines,Yes
-3109,Airlines,Airlines,,Airlines,Yes
-3110,WINGS AIRWAYS,WINGS AIRWAYS,WINGS AIRWAYS,Airlines,Yes
-3111,BRITISH MIDLAND,BRITISH MIDLAND,BRITISH MIDLAND,Airlines,Yes
-3112,WINDWARD ISLAND,WINDWARD ISLAND,WINDWARD ISLAND,Airlines,Yes
-3113,Airlines,Airlines,,Airlines,Yes
-3114,Airlines,Airlines,,Airlines,Yes
-3115,Airlines,Airlines,,Airlines,Yes
-3116,Airlines,Airlines,,Airlines,Yes
-3117,VIASA,VIASA,VIASA,Airlines,Yes
-3118,VALLEY AIRLINES,VALLEY AIRLINES,VALLEY AIRLINES,Airlines,Yes
-3119,Airlines,Airlines,,Airlines,Yes
-3120,Airlines,Airlines,,Airlines,Yes
-3121,Airlines,Airlines,,Airlines,Yes
-3122,Airlines,Airlines,,Airlines,Yes
-3123,Airlines,Airlines,,Airlines,Yes
-3124,Airlines,Airlines,,Airlines,Yes
-3125,TAN,TAN,TAN,Airlines,Yes
-3126,TALAIR,TALAIR,TALAIR,Airlines,Yes
-3127,TACA INTERNATIONAL,TACA INTERNATIONAL,TACA INTERNATIONAL,Airlines,Yes
-3128,Airlines,Airlines,,Airlines,Yes
-3129,SURINAM AIRWAYS,SURINAM AIRWAYS,SURINAM AIRWAYS,Airlines,Yes
-3130,SUN WORLD INTERNATIONAL,SUN WORLD INTERNATIONAL,SUN WORLD INTERNATIONAL,Airlines,Yes
-3131,Airlines,Airlines,,Airlines,Yes
-3132,Airlines,Airlines,,Airlines,Yes
-3133,SUNBELT AIRLINES,SUNBELT AIRLINES,SUNBELT AIRLINES,Airlines,Yes
-3134,Airlines,Airlines,,Airlines,Yes
-3135,SUDAN AIRWAYS,SUDAN AIRWAYS,SUDAN AIRWAYS,Airlines,Yes
-3136,Airlines,Airlines,,Airlines,Yes
-3137,SINGLETON,SINGLETON,SINGLETON,Airlines,Yes
-3138,SIMMONS AIRLINES,SIMMONS AIRLINES,SIMMONS AIRLINES,Airlines,Yes
-3139,Airlines,Airlines,,Airlines,Yes
-3140,Airlines,Airlines,,Airlines,Yes
-3141,Airlines,Airlines,,Airlines,Yes
-3142,Airlines,Airlines,,Airlines,Yes
-3143,SCENIC AIRLINES,SCENIC AIRLINES,SCENIC AIRLINES,Airlines,Yes
-3144,VIRGIN ATLANTIC,VIRGIN ATLANTIC,VIRGIN ATLANTIC,Airlines,Yes
-3145,SAN JUAN AIRLINES,SAN JUAN AIRLINES,SAN JUAN AIRLINES,Airlines,Yes
-3146,LUXAIR,LUXAIR,LUXAIR,Airlines,Yes
-3147,Airlines,Airlines,,Airlines,Yes
-3148,Airlines,Airlines,,Airlines,Yes
-3149,Airlines,Airlines,,Airlines,Yes
-3150,Airlines,Airlines,,Airlines,Yes
-3151,AIR ZAIRE,AIR ZAIRE,AIR ZAIRE,Airlines,Yes
-3152,Airlines,Airlines,,Airlines,Yes
-3153,Airlines,Airlines,,Airlines,Yes
-3154,PRINCEVILLE,PRINCEVILLE,PRINCEVILLE,Airlines,Yes
-3155,Airlines,Airlines,,Airlines,Yes
-3156,Airlines,Airlines,,Airlines,Yes
-3157,Airlines,Airlines,,Airlines,Yes
-3158,Airlines,Airlines,,Airlines,Yes
-3159,PBA,PBA,PBA,Airlines,Yes
-3160,Airlines,Airlines,,Airlines,Yes
-3161,ALL NIPPON AIRWAYS,ALL NIPPON AIRWAYS,ALL NIPPON AIRWAYS,Airlines,Yes
-3162,Airlines,Airlines,,Airlines,Yes
-3163,Airlines,Airlines,,Airlines,Yes
-3164,NORONTAIR,NORONTAIR,NORONTAIR,Airlines,Yes
-3165,NEW YORK HELICOPTER,NEW YORK HELICOPTER,NEW YORK HELICOPTER,Airlines,Yes
-3166,Airlines,Airlines,,Airlines,Yes
-3167,Airlines,Airlines,,Airlines,Yes
-3168,Airlines,Airlines,,Airlines,Yes
-3169,Airlines,Airlines,,Airlines,Yes
-3170,NOUNT COOK,NOUNT COOK,NOUNT COOK,Airlines,Yes
-3171,CANADIAN AIRLINES INTERNATIONAL,CANADIAN AIRLINES INTERNATIONAL,CANADIAN AIRLINES INTERNATIONAL,Airlines,Yes
-3172,NATIONAIR,NATIONAIR,NATIONAIR,Airlines,Yes
-3173,Airlines,Airlines,,Airlines,Yes
-3174,Airlines,Airlines,,Airlines,Yes
-3175,Airlines,Airlines,,Airlines,Yes
-3176,METROFLIGHT AIRLINES,METROFLIGHT AIRLINES,METROFLIGHT AIRLINES,Airlines,Yes
-3177,Airlines,Airlines,,Airlines,Yes
-3178,MESA AIR,MESA AIR,MESA AIR,Airlines,Yes
-3179,Airlines,Airlines,,Airlines,Yes
-3180,Airlines,Airlines,,Airlines,Yes
-3181,MALEV,MALEV,MALEV,Airlines,Yes
-3182,LOT (POLAND),LOT (POLAND),LOT (POLAND),Airlines,Yes
-3183,Airlines,Airlines,,Airlines,Yes
-3184,LIAT,LIAT,LIAT,Airlines,Yes
-3185,LAV (VENEZUELA),LAV (VENEZUELA),LAV (VENEZUELA),Airlines,Yes
-3186,LAP (PARAGUAY),LAP (PARAGUAY),LAP (PARAGUAY),Airlines,Yes
-3187,LACSA (COSTA RICA),LACSA (COSTA RICA),LACSA (COSTA RICA),Airlines,Yes
-3188,Airlines,Airlines,,Airlines,Yes
-3189,Airlines,Airlines,,Airlines,Yes
-3190,JUGOSLAV AIR,JUGOSLAV AIR,JUGOSLAV AIR,Airlines,Yes
-3191,ISLAND AIRLINES,ISLAND AIRLINES,ISLAND AIRLINES,Airlines,Yes
-3192,IRAN AIR,IRAN AIR,IRAN AIR,Airlines,Yes
-3193,INDIAN AIRLINES,INDIAN AIRLINES,INDIAN AIRLINES,Airlines,Yes
-3194,Airlines,Airlines,,Airlines,Yes
-3195,Airlines,Airlines,,Airlines,Yes
-3196,HAWAIIAN AIR,HAWAIIAN AIR,HAWAIIAN AIR,Airlines,Yes
-3197,HAVASU AIRLINES,HAVASU AIRLINES,HAVASU AIRLINES,Airlines,Yes
-3198,Airlines,Airlines,,Airlines,Yes
-3199,Airlines,Airlines,,Airlines,Yes
-3200,FUYANA AIRWAYS,FUYANA AIRWAYS,FUYANA AIRWAYS,Airlines,Yes
-3201,Airlines,Airlines,,Airlines,Yes
-3202,Airlines,Airlines,,Airlines,Yes
-3203,GOLDEN PACIFIC AIR,GOLDEN PACIFIC AIR,GOLDEN PACIFIC AIR,Airlines,Yes
-3204,FREEDOM AIR,FREEDOM AIR,FREEDOM AIR,Airlines,Yes
-3205,Airlines,Airlines,,Airlines,Yes
-3206,Airlines,Airlines,,Airlines,Yes
-3207,Airlines,Airlines,,Airlines,Yes
-3208,Airlines,Airlines,,Airlines,Yes
-3209,Airlines,Airlines,,Airlines,Yes
-3210,Airlines,Airlines,,Airlines,Yes
-3211,Airlines,Airlines,,Airlines,Yes
-3212,DOMINICANA,DOMINICANA,DOMINICANA,Airlines,Yes
-3213,Airlines,Airlines,,Airlines,Yes
-3214,Airlines,Airlines,,Airlines,Yes
-3215,DAN AIR SERVICES,DAN AIR SERVICES,DAN AIR SERVICES,Airlines,Yes
-3216,CUMBERLAND AIRLINES,CUMBERLAND AIRLINES,CUMBERLAND AIRLINES,Airlines,Yes
-3217,CSA,CSA,CSA,Airlines,Yes
-3218,CROWN AIR,CROWN AIR,CROWN AIR,Airlines,Yes
-3219,COPA,COPA,COPA,Airlines,Yes
-3220,COMPANIA FAUCETT,COMPANIA FAUCETT,COMPANIA FAUCETT,Airlines,Yes
-3221,TRANSPORTES AEROS MILITARES ECCUATORANOS,TRANSPORTES AEROS MILITARES ECCUATORANOS,TRANSPORTES AEROS MILITARES ECCUATORANOS,Airlines,Yes
-3222,COMMAND AIRWAYS,COMMAND AIRWAYS,COMMAND AIRWAYS,Airlines,Yes
-3223,COMAIR,COMAIR,COMAIR,Airlines,Yes
-3224,Airlines,Airlines,,Airlines,Yes
-3225,Airlines,Airlines,,Airlines,Yes
-3226,Airlines,Airlines,,Airlines,Yes
-3227,Airlines,Airlines,,Airlines,Yes
-3228,CAYMAN AIRWAYS,CAYMAN AIRWAYS,CAYMAN AIRWAYS,Airlines,Yes
-3229,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,Airlines,Yes
-3230,Airlines,Airlines,,Airlines,Yes
-3231,SASHA SERVICIO AERO DE HONDURAS,SASHA SERVICIO AERO DE HONDURAS,SASHA SERVICIO AERO DE HONDURAS,Airlines,Yes
-3232,Airlines,Airlines,,Airlines,Yes
-3233,CAPITOL AIR,CAPITOL AIR,CAPITOL AIR,Airlines,Yes
-3234,BWIA,BWIA,BWIA,Airlines,Yes
-3235,BROKWAY AIR,BROKWAY AIR,BROKWAY AIR,Airlines,Yes
-3236,Airlines,Airlines,,Airlines,Yes
-3237,Airlines,Airlines,,Airlines,Yes
-3238,BEMIDJI AIRLINES,BEMIDJI AIRLINES,BEMIDJI AIRLINES,Airlines,Yes
-3239,BAR HARBOR AIRLINES,BAR HARBOR AIRLINES,BAR HARBOR AIRLINES,Airlines,Yes
-3240,BAHAMASAIR,BAHAMASAIR,BAHAMASAIR,Airlines,Yes
-3241,AVIATECA (GUATEMALA),AVIATECA (GUATEMALA),AVIATECA (GUATEMALA),Airlines,Yes
-3242,AVENSA,AVENSA,AVENSA,Airlines,Yes
-3243,AUSTRIAN AIR SERVICE,AUSTRIAN AIR SERVICE,AUSTRIAN AIR SERVICE,Airlines,Yes
-3244,Airlines,Airlines,,Airlines,Yes
-3245,Airlines,Airlines,,Airlines,Yes
-3246,Airlines,Airlines,,Airlines,Yes
-3247,Airlines,Airlines,,Airlines,Yes
-3248,Airlines,Airlines,,Airlines,Yes
-3249,Airlines,Airlines,,Airlines,Yes
-3250,Airlines,Airlines,,Airlines,Yes
-3251,ALOHA AIRLINES,ALOHA AIRLINES,ALOHA AIRLINES,Airlines,Yes
-3252,ALM,ALM,ALM,Airlines,Yes
-3253,AMERICA WEST,AMERICA WEST,AMERICA WEST,Airlines,Yes
-3254,TRUMP AIRLINE,TRUMP AIRLINE,TRUMP AIRLINE,Airlines,Yes
-3255,Airlines,Airlines,,Airlines,Yes
-3256,ALASKA AIRLINES,ALASKA AIRLINES,ALASKA AIRLINES,Airlines,Yes
-3257,Airlines,Airlines,,Airlines,Yes
-3258,Airlines,Airlines,,Airlines,Yes
-3259,AMERICAN TRANS AIR,AMERICAN TRANS AIR,AMERICAN TRANS AIR,Airlines,Yes
-3260,Airlines,Airlines,,Airlines,Yes
-3261,AIR CHINA,AIR CHINA,AIR CHINA,Airlines,Yes
-3262,"RENO AIR, INC.","RENO AIR, INC.","RENO AIR, INC.",Airlines,Yes
-3263,Airlines,Airlines,,Airlines,Yes
-3264,Airlines,Airlines,,Airlines,Yes
-3265,Airlines,Airlines,,Airlines,Yes
-3266,AIR SEYCHELLES,AIR SEYCHELLES,AIR SEYCHELLES,Airlines,Yes
-3267,AIR PANAMA,AIR PANAMA,AIR PANAMA,Airlines,Yes
-3268,Airlines,Airlines,,Airlines,Yes
-3269,Airlines,Airlines,,Airlines,Yes
-3270,Airlines,Airlines,,Airlines,Yes
-3271,Airlines,Airlines,,Airlines,Yes
-3272,Airlines,Airlines,,Airlines,Yes
-3273,Airlines,Airlines,,Airlines,Yes
-3274,Airlines,Airlines,,Airlines,Yes
-3275,Airlines,Airlines,,Airlines,Yes
-3276,Airlines,Airlines,,Airlines,Yes
-3277,Airlines,Airlines,,Airlines,Yes
-3278,Airlines,Airlines,,Airlines,Yes
-3279,Airlines,Airlines,,Airlines,Yes
-3280,AIR JAMAICA,AIR JAMAICA,AIR JAMAICA,Airlines,Yes
-3281,Airlines,Airlines,,Airlines,Yes
-3282,AIR DJIBOUTI,AIR DJIBOUTI,AIR DJIBOUTI,Airlines,Yes
-3283,Airlines,Airlines,,Airlines,Yes
-3284,AERO VIRGIN ISLANDS,AERO VIRGIN ISLANDS,AERO VIRGIN ISLANDS,Airlines,Yes
-3285,AERO PERU,AERO PERU,AERO PERU,Airlines,Yes
-3286,AEROLINEAS NICARAGUENSIS,AEROLINEAS NICARAGUENSIS,AEROLINEAS NICARAGUENSIS,Airlines,Yes
-3287,AERO COACH AVAIATION,AERO COACH AVAIATION,AERO COACH AVAIATION,Airlines,Yes
-3288,Airlines,Airlines,,Airlines,Yes
-3289,Airlines,Airlines,,Airlines,Yes
-3290,Airlines,Airlines,,Airlines,Yes
-3291,ARIANA AFGHAN,ARIANA AFGHAN,ARIANA AFGHAN,Airlines,Yes
-3292,CYPRUS AIRWAYS,CYPRUS AIRWAYS,CYPRUS AIRWAYS,Airlines,Yes
-3293,ECUATORIANA,ECUATORIANA,ECUATORIANA,Airlines,Yes
-3294,ETHIOPIAN AIRLINES,ETHIOPIAN AIRLINES,ETHIOPIAN AIRLINES,Airlines,Yes
-3295,KENYA AIRLINES,KENYA AIRLINES,KENYA AIRLINES,Airlines,Yes
-3296,Airlines,Airlines,,Airlines,Yes
-3297,Airlines,Airlines,,Airlines,Yes
-3298,AIR MAURITIUS,AIR MAURITIUS,AIR MAURITIUS,Airlines,Yes
-3299,WIDERO’S FLYVESELSKAP,WIDERO’S FLYVESELSKAP,WIDERO’S FLYVESELSKAP,Airlines,Yes
-3351,AFFILIATED AUTO RENTAL,AFFILIATED AUTO RENTAL,AFFILIATED AUTO RENTAL,Car Rental,Yes
-3352,AMERICAN INTL RENT-A-CAR,AMERICAN INTL RENT-A-CAR,AMERICAN INTL RENT-A-CAR,Car Rental,Yes
-3353,BROOKS RENT-A-CAR,BROOKS RENT-A-CAR,BROOKS RENT-A-CAR,Car Rental,Yes
-3354,ACTION AUTO RENTAL,ACTION AUTO RENTAL,ACTION AUTO RENTAL,Car Rental,Yes
-3355,Car Rental,Car Rental,,Car Rental,Yes
-3356,Car Rental,Car Rental,,Car Rental,Yes
-3357,HERTZ RENT-A-CAR,HERTZ RENT-A-CAR,HERTZ RENT-A-CAR,Car Rental,Yes
-3358,Car Rental,Car Rental,,Car Rental,Yes
-3359,PAYLESS CAR RENTAL,PAYLESS CAR RENTAL,PAYLESS CAR RENTAL,Car Rental,Yes
-3360,SNAPPY CAR RENTAL,SNAPPY CAR RENTAL,SNAPPY CAR RENTAL,Car Rental,Yes
-3361,AIRWAYS RENT-A-CAR,AIRWAYS RENT-A-CAR,AIRWAYS RENT-A-CAR,Car Rental,Yes
-3362,ALTRA AUTO RENTAL,ALTRA AUTO RENTAL,ALTRA AUTO RENTAL,Car Rental,Yes
-3363,Car Rental,Car Rental,,Car Rental,Yes
-3364,AGENCY RENT-A-CAR,AGENCY RENT-A-CAR,AGENCY RENT-A-CAR,Car Rental,Yes
-3365,Car Rental,Car Rental,,Car Rental,Yes
-3366,BUDGET RENT-A-CAR,BUDGET RENT-A-CAR,BUDGET RENT-A-CAR,Car Rental,Yes
-3367,Car Rental,Car Rental,,Car Rental,Yes
-3368,HOLIDAY RENT-A-WRECK,HOLIDAY RENT-A-WRECK,HOLIDAY RENT-A-WRECK,Car Rental,Yes
-3369,Car Rental,Car Rental,,Car Rental,Yes
-3370,RENT-A-WRECK,RENT-A-WRECK,RENT-A-WRECK,Car Rental,Yes
-3371,Car Rental,Car Rental,,Car Rental,Yes
-3372,Car Rental,Car Rental,,Car Rental,Yes
-3373,Car Rental,Car Rental,,Car Rental,Yes
-3374,Car Rental,Car Rental,,Car Rental,Yes
-3375,Car Rental,Car Rental,,Car Rental,Yes
-3376,AJAX RENT-A-CAR,AJAX RENT-A-CAR,AJAX RENT-A-CAR,Car Rental,Yes
-3377,Car Rental,Car Rental,,Car Rental,Yes
-3378,Car Rental,Car Rental,,Car Rental,Yes
-3379,Car Rental,Car Rental,,Car Rental,Yes
-3380,Car Rental,Car Rental,,Car Rental,Yes
-3381,EUROP CAR,EUROP CAR,EUROP CAR,Car Rental,Yes
-3382,Car Rental,Car Rental,,Car Rental,Yes
-3383,Car Rental,Car Rental,,Car Rental,Yes
-3384,Car Rental,Car Rental,,Car Rental,Yes
-3385,TROPICAL RENT-A-CAR,TROPICAL RENT-A-CAR,TROPICAL RENT-A-CAR,Car Rental,Yes
-3386,SHOWCASE RENTAL CARS,SHOWCASE RENTAL CARS,SHOWCASE RENTAL CARS,Car Rental,Yes
-3387,ALAMO RENT-A-CAR,ALAMO RENT-A-CAR,ALAMO RENT-A-CAR,Car Rental,Yes
-3388,Car Rental,Car Rental,,Car Rental,Yes
-3389,AVIS RENT-A-CAR,AVIS RENT-A-CAR,AVIS RENT-A-CAR,Car Rental,Yes
-3390,DOLLAR RENT-A-CAR,DOLLAR RENT-A-CAR,DOLLAR RENT-A-CAR,Car Rental,Yes
-3391,EUROPE BY CAR,EUROPE BY CAR,EUROPE BY CAR,Car Rental,Yes
-3392,Car Rental,Car Rental,,Car Rental,Yes
-3393,NATIONAL CAR RENTAL,NATIONAL CAR RENTAL,NATIONAL CAR RENTAL,Car Rental,Yes
-3394,KEMWELL GROUP RENT-A-CAR,KEMWELL GROUP RENT-A-CAR,KEMWELL GROUP RENT-A-CAR,Car Rental,Yes
-3395,THRIFTY RENT-A-CAR,THRIFTY RENT-A-CAR,THRIFTY RENT-A-CAR,Car Rental,Yes
-3396,TILDEN TENT-A-CAR,TILDEN TENT-A-CAR,TILDEN TENT-A-CAR,Car Rental,Yes
-3397,Car Rental,Car Rental,,Car Rental,Yes
-3398,ECONO-CAR RENT-A-CAR,ECONO-CAR RENT-A-CAR,ECONO-CAR RENT-A-CAR,Car Rental,Yes
-3399,Car Rental,Car Rental,,Car Rental,Yes
-3400,AUTO HOST COST CAR RENTALS,AUTO HOST COST CAR RENTALS,AUTO HOST COST CAR RENTALS,Car Rental,Yes
-3401,Car Rental,Car Rental,,Car Rental,Yes
-3402,Car Rental,Car Rental,,Car Rental,Yes
-3403,Car Rental,Car Rental,,Car Rental,Yes
-3404,Car Rental,Car Rental,,Car Rental,Yes
-3405,ENTERPRISE RENT-A-CAR,ENTERPRISE RENT-A-CAR,ENTERPRISE RENT-A-CAR,Car Rental,Yes
-3406,Car Rental,Car Rental,,Car Rental,Yes
-3407,Car Rental,Car Rental,,Car Rental,Yes
-3408,Car Rental,Car Rental,,Car Rental,Yes
-3409,GENERAL RENT-A-CAR,GENERAL RENT-A-CAR,GENERAL RENT-A-CAR,Car Rental,Yes
-3410,Car Rental,Car Rental,,Car Rental,Yes
-3411,Car Rental,Car Rental,,Car Rental,Yes
-3412,A-1 RENT-A-CAR,A-1 RENT-A-CAR,A-1 RENT-A-CAR,Car Rental,Yes
-3413,Car Rental,Car Rental,,Car Rental,Yes
-3414,GODFREY NATL RENT-A-CAR,GODFREY NATL RENT-A-CAR,GODFREY NATL RENT-A-CAR,Car Rental,Yes
-3415,Car Rental,Car Rental,,Car Rental,Yes
-3416,Car Rental,Car Rental,,Car Rental,Yes
-3417,Car Rental,Car Rental,,Car Rental,Yes
-3418,Car Rental,Car Rental,,Car Rental,Yes
-3419,ALPHA RENT-A-CAR,ALPHA RENT-A-CAR,ALPHA RENT-A-CAR,Car Rental,Yes
-3420,ANSA INTL RENT-A-CAR,ANSA INTL RENT-A-CAR,ANSA INTL RENT-A-CAR,Car Rental,Yes
-3421,ALLSTAE RENT-A-CAR,ALLSTAE RENT-A-CAR,ALLSTAE RENT-A-CAR,Car Rental,Yes
-3422,Car Rental,Car Rental,,Car Rental,Yes
-3423,AVCAR RENT-A-CAR,AVCAR RENT-A-CAR,AVCAR RENT-A-CAR,Car Rental,Yes
-3424,Car Rental,Car Rental,,Car Rental,Yes
-3425,AUTOMATE RENT-A-CAR,AUTOMATE RENT-A-CAR,AUTOMATE RENT-A-CAR,Car Rental,Yes
-3426,Car Rental,Car Rental,,Car Rental,Yes
-3427,AVON RENT-A-CAR,AVON RENT-A-CAR,AVON RENT-A-CAR,Car Rental,Yes
-3428,CAREY RENT-A-CAR,CAREY RENT-A-CAR,CAREY RENT-A-CAR,Car Rental,Yes
-3429,INSURANCE RENT-A-CAR,INSURANCE RENT-A-CAR,INSURANCE RENT-A-CAR,Car Rental,Yes
-3430,MAJOR RENT-A-CAR,MAJOR RENT-A-CAR,MAJOR RENT-A-CAR,Car Rental,Yes
-3431,REPLACEMENT RENT-A-CAR,REPLACEMENT RENT-A-CAR,REPLACEMENT RENT-A-CAR,Car Rental,Yes
-3432,RESERVE RENT-A-CAR,RESERVE RENT-A-CAR,RESERVE RENT-A-CAR,Car Rental,Yes
-3433,UGLY DUCKLING RENT-A-CAR,UGLY DUCKLING RENT-A-CAR,UGLY DUCKLING RENT-A-CAR,Car Rental,Yes
-3434,USA RENT-A-CAR,USA RENT-A-CAR,USA RENT-A-CAR,Car Rental,Yes
-3435,VALUE RENT-A-CAR,VALUE RENT-A-CAR,VALUE RENT-A-CAR,Car Rental,Yes
-3436,AUTOHANSA RENT-A-CAR,AUTOHANSA RENT-A-CAR,AUTOHANSA RENT-A-CAR,Car Rental,Yes
-3437,CITE RENT-A-CAR,CITE RENT-A-CAR,CITE RENT-A-CAR,Car Rental,Yes
-3438,INTERENT RENT-A-CAR,INTERENT RENT-A-CAR,INTERENT RENT-A-CAR,Car Rental,Yes
-3439,MILLEVILLE RENT-A-CAR,MILLEVILLE RENT-A-CAR,MILLEVILLE RENT-A-CAR,Car Rental,Yes
-3440,VIA ROUTE RENT-A-CAR,VIA ROUTE RENT-A-CAR,VIA ROUTE RENT-A-CAR,Car Rental,Yes
-3441,Car Rental,Car Rental,,Car Rental,Yes
-3501,"HOLIDAY INNS, HOLIDAY INN EXPRESS","HOLIDAY INNS, HOLIDAY INN EXPRESS",HOLIDAY INNS,Hotels/Motels/Inns/Resorts,Yes
-3502,BEST WESTERN HOTELS,BEST WESTERN HOTELS,BEST WESTERN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3503,SHERATON HOTELS,SHERATON HOTELS,SHERATON HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3504,HILTON HOTELS,HILTON HOTELS,HILTON HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3505,FORTE HOTELS,FORTE HOTELS,FORTE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3506,GOLDEN TULIP HOTELS,GOLDEN TULIP HOTELS,GOLDEN TULIP HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3507,FRIENDSHIP INNS,FRIENDSHIP INNS,FRIENDSHIP INNS,Hotels/Motels/Inns/Resorts,Yes
-3508,"QUALITY INNS, QUALITY SUITES","QUALITY INNS, QUALITY SUITES",QUALITY INNS,Hotels/Motels/Inns/Resorts,Yes
-3509,MARRIOTT HOTELS,MARRIOTT HOTELS,MARRIOTT HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3510,"DAYS INN, DAYSTOP","DAYS INN, DAYSTOP",DAYS INN,Hotels/Motels/Inns/Resorts,Yes
-3511,ARABELLA HOTELS,ARABELLA HOTELS,ARABELLA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3512,INTER-CONTINENTAL HOTELS,INTER-CONTINENTAL HOTELS,INTER-CONTINENTAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3513,WESTIN HOTELS,WESTIN HOTELS,WESTIN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3514,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3515,RODEWAY INNS,RODEWAY INNS,RODEWAY INNS,Hotels/Motels/Inns/Resorts,Yes
-3516,LA QUINTA MOTOR INNS,LA QUINTA MOTOR INNS,LA QUINTA MOTOR INNS,Hotels/Motels/Inns/Resorts,Yes
-3517,AMERICANA HOTELS,AMERICANA HOTELS,AMERICANA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3518,SOL HOTELS,SOL HOTELS,SOL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3519,PULLMAN INTERNATIONAL HOTELS,PULLMAN INTERNATIONAL HOTELS,PULLMAN INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3520,MERIDIEN HOTELS,MERIDIEN HOTELS,MERIDIEN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3521,CREST HOTELS (see FORTE HOTELS),CREST HOTELS (see FORTE HOTELS),CREST HOTELS (see FORTE HOTELS),Hotels/Motels/Inns/Resorts,Yes
-3522,TOKYO HOTEL,TOKYO HOTEL,TOKYO HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3523,PENNSULA HOTEL,PENNSULA HOTEL,PENNSULA HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3524,WELCOMGROUP HOTELS,WELCOMGROUP HOTELS,WELCOMGROUP HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3525,DUNFEY HOTELS,DUNFEY HOTELS,DUNFEY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3526,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3527,DOWNTOWNER-PASSPORT HOTEL,DOWNTOWNER-PASSPORT HOTEL,DOWNTOWNER-PASSPORT HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3528,"RED LION HOTELS, RED LION INNS","RED LION HOTELS, RED LION INNS",RED LION HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3529,CP HOTELS,CP HOTELS,CP HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3530,"RENAISSANCE HOTELS, STOUFFER HOTELS","RENAISSANCE HOTELS, STOUFFER HOTELS",RENAISSANCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3531,ASTIR HOTELS,ASTIR HOTELS,ASTIR HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3532,SUN ROUTE HOTELS,SUN ROUTE HOTELS,SUN ROUTE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3533,HOTEL IBIS,HOTEL IBIS,HOTEL IBIS,Hotels/Motels/Inns/Resorts,Yes
-3534,SOUTHERN PACIFIC HOTELS,SOUTHERN PACIFIC HOTELS,SOUTHERN PACIFIC HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3535,HILTON INTERNATIONAL,HILTON INTERNATIONAL,HILTON INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3536,AMFAC HOTELS,AMFAC HOTELS,AMFAC HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3537,ANA HOTEL,ANA HOTEL,ANA HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3538,CONCORDE HOTELS,CONCORDE HOTELS,CONCORDE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3539,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3540,IBEROTEL HOTELS,IBEROTEL HOTELS,IBEROTEL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3541,HOTEL OKURA,HOTEL OKURA,HOTEL OKURA,Hotels/Motels/Inns/Resorts,Yes
-3542,ROYAL HOTELS,ROYAL HOTELS,ROYAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3543,FOUR SEASONS HOTELS,FOUR SEASONS HOTELS,FOUR SEASONS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3544,CIGA HOTELS,CIGA HOTELS,CIGA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3545,SHANGRI-LA INTERNATIONAL,SHANGRI-LA INTERNATIONAL,SHANGRI-LA INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3546,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3547,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3548,HOTELES MELIA,HOTELES MELIA,HOTELES MELIA,Hotels/Motels/Inns/Resorts,Yes
-3549,AUBERGE DES GOVERNEURS,AUBERGE DES GOVERNEURS,AUBERGE DES GOVERNEURS,Hotels/Motels/Inns/Resorts,Yes
-3550,REGAL 8 INNS,REGAL 8 INNS,REGAL 8 INNS,Hotels/Motels/Inns/Resorts,Yes
-3551,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3552,COAST HOTELS,COAST HOTELS,COAST HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3553,PARK INNS INTERNATIONAL,PARK INNS INTERNATIONAL,PARK INNS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3554,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3555,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3556,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3557,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3558,JOLLY HOTELS,JOLLY HOTELS,JOLLY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3559,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3560,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3561,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3562,COMFORT INNS,COMFORT INNS,COMFORT INNS,Hotels/Motels/Inns/Resorts,Yes
-3563,JOURNEY’S END MOTLS,JOURNEY’S END MOTLS,JOURNEY’S END MOTLS,Hotels/Motels/Inns/Resorts,Yes
-3564,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3565,RELAX INNS,RELAX INNS,RELAX INNS,Hotels/Motels/Inns/Resorts,Yes
-3566,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3567,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3568,LADBROKE HOTELS,LADBROKE HOTELS,LADBROKE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3569,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3570,FORUM HOTELS,FORUM HOTELS,FORUM HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3571,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3572,MIYAKO HOTELS,MIYAKO HOTELS,MIYAKO HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3573,SANDMAN HOTELS,SANDMAN HOTELS,SANDMAN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3574,VENTURE INNS,VENTURE INNS,VENTURE INNS,Hotels/Motels/Inns/Resorts,Yes
-3575,VAGABOND HOTELS,VAGABOND HOTELS,VAGABOND HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3576,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3577,MANDARIN ORIENTAL HOTEL,MANDARIN ORIENTAL HOTEL,MANDARIN ORIENTAL HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3578,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3579,HOTEL MERCURE,HOTEL MERCURE,HOTEL MERCURE,Hotels/Motels/Inns/Resorts,Yes
-3580,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3581,DELTA HOTEL,DELTA HOTEL,DELTA HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3582,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3583,SAS HOTELS,SAS HOTELS,SAS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3584,PRINCESS HOTELS INTERNATIONAL,PRINCESS HOTELS INTERNATIONAL,PRINCESS HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3585,HUNGAR HOTELS,HUNGAR HOTELS,HUNGAR HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3586,SOKOS HOTELS,SOKOS HOTELS,SOKOS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3587,DORAL HOTELS,DORAL HOTELS,DORAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3588,HELMSLEY HOTELS,HELMSLEY HOTELS,HELMSLEY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3589,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3590,FAIRMONT HOTELS,FAIRMONT HOTELS,FAIRMONT HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3591,SONESTA HOTELS,SONESTA HOTELS,SONESTA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3592,OMNI HOTELS,OMNI HOTELS,OMNI HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3593,CUNARD HOTELS,CUNARD HOTELS,CUNARD HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3594,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3595,HOSPITALITY INTERNATIONAL,HOSPITALITY INTERNATIONAL,HOSPITALITY INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3596,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3597,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3598,REGENT INTERNATIONAL HOTELS,REGENT INTERNATIONAL HOTELS,REGENT INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3599,PANNONIA HOTELS,PANNONIA HOTELS,PANNONIA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3600,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3601,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3602,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3603,NOAH’S HOTELS,NOAH’S HOTELS,NOAH’S HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3604,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3605,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3606,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3607,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3608,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3609,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3610,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3611,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3612,MOVENPICK HOTELS,MOVENPICK HOTELS,MOVENPICK HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3613,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3614,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3615,TRAVELODGE,TRAVELODGE,TRAVELODGE,Hotels/Motels/Inns/Resorts,Yes
-3616,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3617,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3618,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3619,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3620,TELFORD INTERNATIONAL,TELFORD INTERNATIONAL,TELFORD INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3621,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3622,MERLIN HOTELS,MERLIN HOTELS,MERLIN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3623,DORINT HOTELS,DORINT HOTELS,DORINT HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3624,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3625,HOTLE UNIVERSALE,HOTLE UNIVERSALE,HOTLE UNIVERSALE,Hotels/Motels/Inns/Resorts,Yes
-3626,PRINCE HOTELS,PRINCE HOTELS,PRINCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3627,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3628,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3629,DAN HOTELS,DAN HOTELS,DAN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3630,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3631,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3632,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3633,RANK HOTELS,RANK HOTELS,RANK HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3634,SWISSOTEL,SWISSOTEL,SWISSOTEL,Hotels/Motels/Inns/Resorts,Yes
-3635,RESO HOTELS,RESO HOTELS,RESO HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3636,SAROVA HOTELS,SAROVA HOTELS,SAROVA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3637,"RAMADA INNS, RAMADA LIMITED","RAMADA INNS, RAMADA LIMITED",RAMADA INNS,Hotels/Motels/Inns/Resorts,Yes
-3638,"HO JO INN, HOWARD JOHNSON","HO JO INN, HOWARD JOHNSON",HO JO INN,Hotels/Motels/Inns/Resorts,Yes
-3639,MOUNT CHARLOTTE THISTLE,MOUNT CHARLOTTE THISTLE,MOUNT CHARLOTTE THISTLE,Hotels/Motels/Inns/Resorts,Yes
-3640,HYATT HOTEL,HYATT HOTEL,HYATT HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3641,SOFITEL HOTELS,SOFITEL HOTELS,SOFITEL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3642,NOVOTEL HOTELS,NOVOTEL HOTELS,NOVOTEL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3643,STEIGENBERGER HOTELS,STEIGENBERGER HOTELS,STEIGENBERGER HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3644,ECONO LODGES,ECONO LODGES,ECONO LODGES,Hotels/Motels/Inns/Resorts,Yes
-3645,QUEENS MOAT HOUSES,QUEENS MOAT HOUSES,QUEENS MOAT HOUSES,Hotels/Motels/Inns/Resorts,Yes
-3646,SWALLOW HOTELS,SWALLOW HOTELS,SWALLOW HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3647,HUSA HOTELS,HUSA HOTELS,HUSA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3648,DE VERE HOTELS,DE VERE HOTELS,DE VERE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3649,RADISSON HOTELS,RADISSON HOTELS,RADISSON HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3650,RED ROOK INNS,RED ROOK INNS,RED ROOK INNS,Hotels/Motels/Inns/Resorts,Yes
-3651,IMPERIAL LONDON HOTEL,IMPERIAL LONDON HOTEL,IMPERIAL LONDON HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3652,EMBASSY HOTELS,EMBASSY HOTELS,EMBASSY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3653,PENTA HOTELS,PENTA HOTELS,PENTA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3654,LOEWS HOTELS,LOEWS HOTELS,LOEWS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3655,SCANDIC HOTELS,SCANDIC HOTELS,SCANDIC HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3656,SARA HOTELS,SARA HOTELS,SARA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3657,OBEROI HOTELS,OBEROI HOTELS,OBEROI HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3658,OTANI HOTELS,OTANI HOTELS,OTANI HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3659,TAJ HOTELS INTERNATIONAL,TAJ HOTELS INTERNATIONAL,TAJ HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes
-3660,KNIGHTS INNS,KNIGHTS INNS,KNIGHTS INNS,Hotels/Motels/Inns/Resorts,Yes
-3661,METROPOLE HOTELS,METROPOLE HOTELS,METROPOLE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3662,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3663,HOTELES EL PRESIDENTS,HOTELES EL PRESIDENTS,HOTELES EL PRESIDENTS,Hotels/Motels/Inns/Resorts,Yes
-3664,FLAG INN,FLAG INN,FLAG INN,Hotels/Motels/Inns/Resorts,Yes
-3665,HAMPTON INNS,HAMPTON INNS,HAMPTON INNS,Hotels/Motels/Inns/Resorts,Yes
-3666,STAKIS HOTELS,STAKIS HOTELS,STAKIS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3667,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3668,MARITIM HOTELS,MARITIM HOTELS,MARITIM HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3669,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3670,ARCARD HOTELS,ARCARD HOTELS,ARCARD HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3671,ARCTIA HOTELS,ARCTIA HOTELS,ARCTIA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3672,CAMPANIEL HOTELS,CAMPANIEL HOTELS,CAMPANIEL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3673,IBUSZ HOTELS,IBUSZ HOTELS,IBUSZ HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3674,RANTASIPI HOTELS,RANTASIPI HOTELS,RANTASIPI HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3675,INTERHOTEL CEDOK,INTERHOTEL CEDOK,INTERHOTEL CEDOK,Hotels/Motels/Inns/Resorts,Yes
-3676,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3677,CLIMAT DE FRANCE HOTELS,CLIMAT DE FRANCE HOTELS,CLIMAT DE FRANCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3678,CUMULUS HOTELS,CUMULUS HOTELS,CUMULUS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3679,DANUBIUS HOTEL,DANUBIUS HOTEL,DANUBIUS HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3680,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3681,ADAMS MARK HOTELS,ADAMS MARK HOTELS,ADAMS MARK HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3682,ALLSTAR INNS,ALLSTAR INNS,ALLSTAR INNS,Hotels/Motels/Inns/Resorts,Yes
-3683,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3684,BUDGET HOST INNS,BUDGET HOST INNS,BUDGET HOST INNS,Hotels/Motels/Inns/Resorts,Yes
-3685,BUDGETEL HOTELS,BUDGETEL HOTELS,BUDGETEL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3686,SUISSE CHALETS,SUISSE CHALETS,SUISSE CHALETS,Hotels/Motels/Inns/Resorts,Yes
-3687,CLARION HOTELS,CLARION HOTELS,CLARION HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3688,COMPRI HOTELS,COMPRI HOTELS,COMPRI HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3689,CONSORT HOTELS,CONSORT HOTELS,CONSORT HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3690,COURTYARD BY MARRIOTT,COURTYARD BY MARRIOTT,COURTYARD BY MARRIOTT,Hotels/Motels/Inns/Resorts,Yes
-3691,DILLION INNS,DILLION INNS,DILLION INNS,Hotels/Motels/Inns/Resorts,Yes
-3692,DOUBLETREE HOTELS,DOUBLETREE HOTELS,DOUBLETREE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3693,DRURY INNS,DRURY INNS,DRURY INNS,Hotels/Motels/Inns/Resorts,Yes
-3694,ECONOMY INNS OF AMERICA,ECONOMY INNS OF AMERICA,ECONOMY INNS OF AMERICA,Hotels/Motels/Inns/Resorts,Yes
-3695,EMBASSY SUITES,EMBASSY SUITES,EMBASSY SUITES,Hotels/Motels/Inns/Resorts,Yes
-3696,EXEL INNS,EXEL INNS,EXEL INNS,Hotels/Motels/Inns/Resorts,Yes
-3697,FARFIELD HOTELS,FARFIELD HOTELS,FARFIELD HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3698,HARLEY HOTELS,HARLEY HOTELS,HARLEY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3699,MIDWAY MOTOR LODGE,MIDWAY MOTOR LODGE,MIDWAY MOTOR LODGE,Hotels/Motels/Inns/Resorts,Yes
-3700,MOTEL 6,MOTEL 6,MOTEL 6,Hotels/Motels/Inns/Resorts,Yes
-3701,GUEST QUARTERS (Formally PICKETT SUITE HOTELS),GUEST QUARTERS (Formally PICKETT SUITE HOTELS),GUEST QUARTERS (Formally PICKETT SUITE HOTELS),Hotels/Motels/Inns/Resorts,Yes
-3702,THE REGISTRY HOTELS,THE REGISTRY HOTELS,THE REGISTRY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3703,RESIDENCE INNS,RESIDENCE INNS,RESIDENCE INNS,Hotels/Motels/Inns/Resorts,Yes
-3704,ROYCE HOTELS,ROYCE HOTELS,ROYCE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3705,SANDMAN INNS,SANDMAN INNS,SANDMAN INNS,Hotels/Motels/Inns/Resorts,Yes
-3706,SHILO INNS,SHILO INNS,SHILO INNS,Hotels/Motels/Inns/Resorts,Yes
-3707,SHONEY’S INNS,SHONEY’S INNS,SHONEY’S INNS,Hotels/Motels/Inns/Resorts,Yes
-3708,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3709,SUPER8 MOTELS,SUPER8 MOTELS,SUPER8 MOTELS,Hotels/Motels/Inns/Resorts,Yes
-3710,THE RITZ CARLTON HOTELS,THE RITZ CARLTON HOTELS,THE RITZ CARLTON HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3711,FLAG INNS (AUSRALIA),FLAG INNS (AUSRALIA),FLAG INNS (AUSRALIA),Hotels/Motels/Inns/Resorts,Yes
-3712,GOLDEN CHAIN HOTEL,GOLDEN CHAIN HOTEL,GOLDEN CHAIN HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3713,QUALITY PACIFIC HOTEL,QUALITY PACIFIC HOTEL,QUALITY PACIFIC HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3714,FOUR SEASONS HOTEL (AUSTRALIA),FOUR SEASONS HOTEL (AUSTRALIA),FOUR SEASONS HOTEL (AUSTRALIA),Hotels/Motels/Inns/Resorts,Yes
-3715,FARIFIELD INN,FARIFIELD INN,FARIFIELD INN,Hotels/Motels/Inns/Resorts,Yes
-3716,CARLTON HOTELS,CARLTON HOTELS,CARLTON HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3717,CITY LODGE HOTELS,CITY LODGE HOTELS,CITY LODGE HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3718,KAROS HOTELS,KAROS HOTELS,KAROS HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3719,PROTEA HOTELS,PROTEA HOTELS,PROTEA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3720,SOUTHERN SUN HOTELS,SOUTHERN SUN HOTELS,SOUTHERN SUN HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3721,HILTON CONRAD,HILTON CONRAD,HILTON CONRAD,Hotels/Motels/Inns/Resorts,Yes
-3722,WYNDHAM HOTEL AND RESORTS,WYNDHAM HOTEL AND RESORTS,WYNDHAM HOTEL AND RESORTS,Hotels/Motels/Inns/Resorts,Yes
-3723,RICA HOTELS,RICA HOTELS,RICA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3724,INER NOR HOTELS,INER NOR HOTELS,INER NOR HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3725,SEAINES PLANATION,SEAINES PLANATION,SEAINES PLANATION,Hotels/Motels/Inns/Resorts,Yes
-3726,RIO SUITES,RIO SUITES,RIO SUITES,Hotels/Motels/Inns/Resorts,Yes
-3727,BROADMOOR HOTEL,BROADMOOR HOTEL,BROADMOOR HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3728,BALLY’S HOTEL AND CASINO,BALLY’S HOTEL AND CASINO,BALLY’S HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
-3729,JOHN ASCUAGA’S NUGGET,JOHN ASCUAGA’S NUGGET,JOHN ASCUAGA’S NUGGET,Hotels/Motels/Inns/Resorts,Yes
-3730,MGM GRAND HOTEL,MGM GRAND HOTEL,MGM GRAND HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3731,HARRAH’S HOTELS AND CASINOS,HARRAH’S HOTELS AND CASINOS,HARRAH’S HOTELS AND CASINOS,Hotels/Motels/Inns/Resorts,Yes
-3732,OPRYLAND HOTEL,OPRYLAND HOTEL,OPRYLAND HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3733,BOCA RATON RESORT,BOCA RATON RESORT,BOCA RATON RESORT,Hotels/Motels/Inns/Resorts,Yes
-3734,HARVEY/BRISTOL HOTELS,HARVEY/BRISTOL HOTELS,HARVEY/BRISTOL HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3735,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3736,COLORADO BELLE/EDGEWATER RESORT,COLORADO BELLE/EDGEWATER RESORT,COLORADO BELLE/EDGEWATER RESORT,Hotels/Motels/Inns/Resorts,Yes
-3737,RIVIERA HOTEL AND CASINO,RIVIERA HOTEL AND CASINO,RIVIERA HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes
-3738,TROPICANA RESORT AND CASINO,TROPICANA RESORT AND CASINO,TROPICANA RESORT AND CASINO,Hotels/Motels/Inns/Resorts,Yes
-3739,WOODSIDE HOTELS AND RESORTS,WOODSIDE HOTELS AND RESORTS,WOODSIDE HOTELS AND RESORTS,Hotels/Motels/Inns/Resorts,Yes
-3740,TOWNPLACE SUITES,TOWNPLACE SUITES,TOWNPLACE SUITES,Hotels/Motels/Inns/Resorts,Yes
-3741,MILLENIUM BROADWAY HOTEL,MILLENIUM BROADWAY HOTEL,MILLENIUM BROADWAY HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3742,CLUB MED,CLUB MED,CLUB MED,Hotels/Motels/Inns/Resorts,Yes
-3743,BILTMORE HOTEL AND SUITES,BILTMORE HOTEL AND SUITES,BILTMORE HOTEL AND SUITES,Hotels/Motels/Inns/Resorts,Yes
-3744,CAREFREE RESORTS,CAREFREE RESORTS,CAREFREE RESORTS,Hotels/Motels/Inns/Resorts,Yes
-3745,ST. REGIS HOTEL,ST. REGIS HOTEL,ST. REGIS HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3746,THE ELIOT HOTEL,THE ELIOT HOTEL,THE ELIOT HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3747,CLUBCORP/CLUB RESORTS,CLUBCORP/CLUB RESORTS,CLUBCORP/CLUB RESORTS,Hotels/Motels/Inns/Resorts,Yes
-3748,WELESLEY INNS,WELESLEY INNS,WELESLEY INNS,Hotels/Motels/Inns/Resorts,Yes
-3749,THE BEVERLY HILLS HOTEL,THE BEVERLY HILLS HOTEL,THE BEVERLY HILLS HOTEL,Hotels/Motels/Inns/Resorts,Yes
-3750,CROWNE PLAZA HOTELS,CROWNE PLAZA HOTELS,CROWNE PLAZA HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3751,HOMEWOOD SUITES,HOMEWOOD SUITES,HOMEWOOD SUITES,Hotels/Motels/Inns/Resorts,Yes
-3752,PEABODY HOTELS,PEABODY HOTELS,PEABODY HOTELS,Hotels/Motels/Inns/Resorts,Yes
-3753,GREENBRIAH RESORTS,GREENBRIAH RESORTS,GREENBRIAH RESORTS,Hotels/Motels/Inns/Resorts,Yes
-3754,AMELIA ISLAND PLANATION,AMELIA ISLAND PLANATION,AMELIA ISLAND PLANATION,Hotels/Motels/Inns/Resorts,Yes
-3755,THE HOMESTEAD,THE HOMESTEAD,THE HOMESTEAD,Hotels/Motels/Inns/Resorts,Yes
-3756,SOUTH SEAS RESORTS,SOUTH SEAS RESORTS,SOUTH SEAS RESORTS,Hotels/Motels/Inns/Resorts,Yes
-3757,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3758,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3759,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3760,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3761,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3762,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3763,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3764,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3765,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3766,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3767,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3768,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3769,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3770,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3771,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3772,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3773,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3774,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3775,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3776,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3777,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3778,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3779,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3780,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3781,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3782,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3783,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3784,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3785,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3786,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3787,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3788,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3789,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3790,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,,Hotels/Motels/Inns/Resorts,Yes
-3816,Home2Suites,,,,
-3835,* MASTERS ECONOMY INNS,* MASTERS ECONOMY INNS,* MASTERS ECONOMY INNS,,
-4011,Railroads,Railroads,,Railroads,No1.6041-3(c)
-4111,"Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",Yes
-4112,Passenger Railways,Passenger Railways,Passenger Railways,Passenger Railways,Yes
-4119,Ambulance Services,Ambulance Services,Ambulance Services,Ambulance Services,Yes
-4121,Taxicabs and Limousines,Taxicabs and Limousines,Taxicabs and Limousines,Taxicabs/Limousines,Yes
-4131,"Bus Lines, Including Charters, Tour Buses","Bus Lines, Including Charters, Tour Buses","Bus Lines, Including Charters, Tour Buses",Bus Lines,Yes
-4214,"Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local","Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local",Motor Freight Carriers,"Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services ",No1.6041-3(c)
-4215,"Courier Services – Air or Ground, Freight forwarders","Courier Services – Air or Ground, Freight forwarders",Courier Services – Air or Ground,Courier Services ,Yes
-4225,"Public warehousing, Storage","Public warehousing, Storage","Warehousing, Public","Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage ",No1.6041-3(c)
-4411,Cruise and Steamship Lines,Cruise and Steamship Lines,Cruise Lines,Cruise Lines,Yes
-4457,Boat Rentals and Leases,Boat Rentals and Leases,Boat Rentals and Leases,Boat Rentals and Leases,Yes
-4468,"Marinas, Marine Service, and Supplies","Marinas, Marine Service, and Supplies","Marinas, Marine Service, and Supplies","Marinas, Service and Supplies",Yes
-4511,"Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers",Yes
-4582,"Airports, Airport Terminals, Flying Fields","Airports, Airport Terminals, Flying Fields","Airports, Airport Terminals","Airports, Flying Fields",Yes
-4722,Travel Agencies and Tour Operations,Travel Agencies and Tour Operations,Travel Agencies and Tour Operations,"Travel Agencies, Tour Operators",Yes
-4723,Package Tour Operators (For use in Germany only),Package Tour Operators (For use in Germany only),Package Tour Operators (For use in Germany only),TUI Travel - Germany,Yes
-4784,Toll and Bridge Fees,Toll and Bridge Fees,Toll and Bridge Fees,Tolls/Bridge Fees,No1.6041-3(c)
-4789,"Transportation Services, Not elsewhere classified)","Transportation Services, Not elsewhere classified)","Transportation Services, Not elsewhere classified)",Transportation Services (Not Elsewhere Classified),Yes
-4812,Telecommunications Equipment including telephone sales,Telecommunications Equipment including telephone sales,Telecommunications Equipment including telephone sales,Telecommunication Equipment and Telephone Sales,No1.6041-3(c)
-4814,"Fax services, Telecommunication Services","Fax services, Telecommunication Services",Fax services,Telecommunication Services,No1.6041-3(c)
-4815,VisaPhone,VisaPhone,VisaPhone,,
-4816,Computer Network Services,Computer Network Services,,Computer Network Services,No1.6041-3(c)
-4821,Telegraph services,Telegraph services,Telegraph services,Telegraph Services,No1.6041-3(c)
-4829,Money Orders – Wire Transfer,Money Orders – Wire Transfer,Money Orders – Wire Transfer,"Wires, Money Orders",No1.6041-3(c)
-4899,Cable and other pay television (previously Cable Services),Cable and other pay television (previously Cable Services),Cable and other pay television (previously Cable Services),"Cable, Satellite, and Other Pay Television and Radio",No1.6041-3(c)
-4900,"Electric, Gas, Sanitary and Water Utilities","Electric, Gas, Sanitary and Water Utilities","Electric, Gas, Sanitary and Water Utilities",Utilities ,No1.6041-3(c)
-5013,Motor vehicle supplies and new parts,Motor vehicle supplies and new parts,Motor vehicle supplies and new parts,Motor Vehicle Supplies and New Parts,No1.6041-3(c)
-5021,Office and Commercial Furniture,Office and Commercial Furniture,Office and Commercial Furniture,Office and Commercial Furniture,No1.6041-3(c)
-5039,"Construction Materials, Not Elsewhere Classified","Construction Materials, Not Elsewhere Classified","Construction Materials, Not Elsewhere Classified",Construction Materials (Not Elsewhere Classified),No1.6041-3(c)
-5044,"Office, Photographic, Photocopy, and Microfilm Equipment","Office, Photographic, Photocopy, and Microfilm Equipment","Office, Photographic, Photocopy, and Microfilm Equipment","Photographic, Photocopy, Microfilm Equipment, and Supplies",No1.6041-3(c)
-5045,"Computers, Computer Peripheral Equipment, Software","Computers, Computer Peripheral Equipment, Software","Computers, Computer Peripheral Equipment, Software","Computers, Peripherals, and Software",No1.6041-3(c)
-5046,"Commercial Equipment, Not Elsewhere Classified","Commercial Equipment, Not Elsewhere Classified","Commercial Equipment, Not Elsewhere Classified",Commercial Equipment (Not Elsewhere Classified),No1.6041-3(c)
-5047,"Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental, Ophthalmic, and Hospital Equipment and Supplies",No1.6041-3(c)
-5051,Metal Service Centers and Offices,Metal Service Centers and Offices,Metal Service Centers and Offices,Metal Service Centers,No1.6041-3(c)
-5065,Electrical Parts and Equipment,Electrical Parts and Equipment,Electrical Parts and Equipment,Electrical Parts and Equipment,No1.6041-3(c)
-5072,Hardware Equipment and Supplies,Hardware Equipment and Supplies,Hardware Equipment and Supplies,"Hardware, Equipment, and Supplies",No1.6041-3(c)
-5074,Plumbing and Heating Equipment and Supplies,Plumbing and Heating Equipment and Supplies,Plumbing and Heating Equipment and Supplies,"Plumbing, Heating Equipment, and Supplies",No1.6041-3(c)
-5085,"Industrial Supplies, Not Elsewhere Classified","Industrial Supplies, Not Elsewhere Classified","Industrial Supplies, Not Elsewhere Classified",Industrial Supplies (Not Elsewhere Classified),No1.6041-3(c)
-5094,"Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry",No1.6041-3(c)
-5099,"Durable Goods, Not Elsewhere Classified","Durable Goods, Not Elsewhere Classified","Durable Goods, Not Elsewhere Classified",Durable Goods (Not Elsewhere Classified),No1.6041-3(c)
-5111,"Stationery, Office Supplies, Printing, and Writing Paper","Stationery, Office Supplies, Printing, and Writing Paper","Stationery, Office Supplies, Printing, and Writing Paper","Stationary, Office Supplies, Printing and Writing Paper",No1.6041-3(c)
-5122,"Drugs, Drug Proprietors, and Druggist’s Sundries","Drugs, Drug Proprietors, and Druggist’s Sundries","Drugs, Drug Proprietors, and Druggist’s Sundries","Drugs, Drug Proprietaries, and Druggist Sundries",No1.6041-3(c)
-5131,"Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods",No1.6041-3(c)
-5137,Men’s Women’s and Children’s Uniforms and Commercial Clothing,Men’s Women’s and Children’s Uniforms and Commercial Clothing,Men’s Women’s and Children’s Uniforms and Commercial Clothing,"Uniforms, Commercial Clothing",No1.6041-3(c)
-5139,Commercial Footwear,Commercial Footwear,Commercial Footwear,Commercial Footwear,No1.6041-3(c)
-5169,"Chemicals and Allied Products, Not Elsewhere Classified","Chemicals and Allied Products, Not Elsewhere Classified","Chemicals and Allied Products, Not Elsewhere Classified",Chemicals and Allied Products (Not Elsewhere Classified),No1.6041-3(c)
-5172,Petroleum and Petroleum Products,Petroleum and Petroleum Products,Petroleum and Petroleum Products,Petroleum and Petroleum Products,No1.6041-3(c)
-5192,"Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers",No1.6041-3(c)
-5193,"Florists’ Supplies, Nursery Stock and Flowers","Florists’ Supplies, Nursery Stock and Flowers","Florists’ Supplies, Nursery Stock and Flowers","Florists Supplies, Nursery Stock, and Flowers",No1.6041-3(c)
-5198,"Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies",No1.6041-3(c)
-5199,"Non-durable Goods, Not Elsewhere Classified","Non-durable Goods, Not Elsewhere Classified","Non-durable Goods, Not Elsewhere Classified",Nondurable Goods (Not Elsewhere Classified),No1.6041-3(c)
-5200,Home Supply Warehouse Stores,Home Supply Warehouse Stores,Home Supply Warehouse Stores,Home Supply Warehouse Stores,No1.6041-3(c)
-5211,Lumber and Building Materials Stores,Lumber and Building Materials Stores,Lumber and Building Materials Stores,"Lumber, Building Materials Stores",No1.6041-3(c)
-5231,"Glass, Paint, and Wallpaper Stores","Glass, Paint, and Wallpaper Stores",Wallpaper Stores,"Glass, Paint, and Wallpaper Stores",No1.6041-3(c)
-5251,Hardware Stores,Hardware Stores,Hardware Stores,Hardware Stores,No1.6041-3(c)
-5261,Nurseries – Lawn and Garden Supply Store,Nurseries – Lawn and Garden Supply Store,Nurseries – Lawn and Garden Supply Store,"Nurseries, Lawn and Garden Supply Stores",No1.6041-3(c)
-5271,Mobile Home Dealers,Mobile Home Dealers,Mobile Home Dealers,Mobile Home Dealers,No1.6041-3(c)
-5300,Wholesale Clubs,Wholesale Clubs,Wholesale Clubs,Wholesale Clubs,No1.6041-3(c)
-5309,Duty Free Store,Duty Free Store,Duty Free Store,Duty Free Stores,No1.6041-3(c)
-5310,Discount Stores,Discount Stores,Discount Stores,Discount Stores,No1.6041-3(c)
-5311,Department Stores,Department Stores,Department Stores,Department Stores,No1.6041-3(c)
-5331,Variety Stores,Variety Stores,Variety Stores,Variety Stores,No1.6041-3(c)
-5399,Misc. General Merchandise,Misc. General Merchandise,Misc. General Merchandise,Miscellaneous General Merchandise,No1.6041-3(c)
-5411,"Grocery Stores, Supermarkets","Grocery Stores, Supermarkets",Grocery Stores,"Grocery Stores, Supermarkets",No1.6041-3(c)
-5422,Meat Provisioners – Freezer and Locker,Meat Provisioners – Freezer and Locker,Meat Provisioners – Freezer and Locker,Freezer and Locker Meat Provisioners,No1.6041-3(c)
-5441,"Candy, Nut, and Confectionery Stores","Candy, Nut, and Confectionery Stores",Candy Stores,"Candy, Nut, and Confectionery Stores",No1.6041-3(c)
-5451,Dairy Products Stores,Dairy Products Stores,Dairy Products Stores,Dairy Products Stores,No1.6041-3(c)
-5462,Bakeries,Bakeries,Bakeries,Bakeries,No1.6041-3(c)
-5499,Misc. Food Stores – Convenience Stores and Specialty Markets,Misc. Food Stores – Convenience Stores and Specialty Markets,Misc. Food Stores – Convenience Stores and Specialty Markets,Miscellaneous Food Stores - Convenience Stores and Specialty Markets,No1.6041-3(c)
-5511,"Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Car and Truck Dealers (New & Used) Sales, Service, Repairs Parts and Leasing ",No1.6041-3(c)
-5521,Automobile and Truck Dealers (Used Only),Automobile and Truck Dealers (Used Only),Automobile and Truck Dealers (Used Only),"Car and Truck Dealers (Used Only) Sales, Service, Repairs Parts and Leasing ",No1.6041-3(c)
-5531,Automobile Supply Stores,Automobile Supply Stores,Automobile Supply Stores,Auto and Home Supply Stores,No1.6041-3(c)
-5532,Automotive Tire Stores,Automotive Tire Stores,Automotive Tire Stores,Automotive Tire Stores,No1.6041-3(c)
-5533,"Automotive Parts, Accessories Stores","Automotive Parts, Accessories Stores","Automotive Parts, Accessories Stores",Automotive Parts and Accessories Stores,No1.6041-3(c)
-5541,Service Stations ( with or without ancillary services),Service Stations ( with or without ancillary services),Service Stations ( with or without ancillary services),Service Stations ,No1.6041-3(c)
-5542,Automated Fuel Dispensers,Automated Fuel Dispensers,Automated Fuel Dispensers,Automated Fuel Dispensers,No1.6041-3(c)
-5551,Boat Dealers,Boat Dealers,Boat Dealers,Boat Dealers,No1.6041-3(c)
-5561,"Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Motorcycle Shops, Dealers",No1.6041-3(c)
-5571,Motorcycle Dealers,Motorcycle Dealers,Motorcycle Dealers,Motorcycle Shops and Dealers,No1.6041-3(c)
-5592,Motor Home Dealers,Motor Home Dealers,Motor Home Dealers,Motor Homes Dealers,No1.6041-3(c)
-5598,Snowmobile Dealers,Snowmobile Dealers,Snowmobile Dealers,Snowmobile Dealers,No1.6041-3(c)
-5599,Miscellaneous Auto Dealers ,Miscellaneous Auto Dealers ,,Miscellaneous Auto Dealers ,No1.6041-3(c)
-5611,Men’s and Boy’s Clothing and Accessories Stores,Men’s and Boy’s Clothing and Accessories Stores,Men’s and Boy’s Clothing and Accessories Stores,Men’s and Boy’s Clothing and Accessories Stores,No1.6041-3(c)
-5621,Women’s Ready-to-Wear Stores,Women’s Ready-to-Wear Stores,Women’s Ready-to-Wear Stores,Women’s Ready-To-Wear Stores,No1.6041-3(c)
-5631,Women’s Accessory and Specialty Shops,Women’s Accessory and Specialty Shops,Women’s Accessory and Specialty Shops,Women’s Accessory and Specialty Shops,No1.6041-3(c)
-5641,Children’s and Infant’s Wear Stores,Children’s and Infant’s Wear Stores,Children’s and Infant’s Wear Stores,Children’s and Infant’s Wear Stores,No1.6041-3(c)
-5651,Family Clothing Stores,Family Clothing Stores,Family Clothing Stores,Family Clothing Stores,No1.6041-3(c)
-5655,"Sports Apparel, Riding Apparel Stores","Sports Apparel, Riding Apparel Stores","Sports Apparel, Riding Apparel Stores",Sports and Riding Apparel Stores,No1.6041-3(c)
-5661,Shoe Stores,Shoe Stores,Shoe Stores,Shoe Stores,No1.6041-3(c)
-5681,Furriers and Fur Shops,Furriers and Fur Shops,Furriers and Fur Shops,Furriers and Fur Shops,No1.6041-3(c)
-5691,Men’s and Women’s Clothing Stores,Men’s and Women’s Clothing Stores,Men’s and Women’s Clothing Stores,"Men’s, Women’s Clothing Stores",No1.6041-3(c)
-5697,"Tailors, Seamstress, Mending, and Alterations","Tailors, Seamstress, Mending, and Alterations","Tailors, Seamstress, Mending, and Alterations","Tailors, Alterations",Yes
-5698,Wig and Toupee Stores,Wig and Toupee Stores,Wig and Toupee Stores,Wig and Toupee Stores,No1.6041-3(c)
-5699,Miscellaneous Apparel and Accessory Shops,Miscellaneous Apparel and Accessory Shops,Miscellaneous Apparel and Accessory Shops,Miscellaneous Apparel and Accessory Shops,No1.6041-3(c)
-5712,"Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances","Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances","Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances","Furniture, Home Furnishings, and Equipment Stores, Except Appliances",No1.6041-3(c)
-5713,Floor Covering Stores,Floor Covering Stores,Floor Covering Stores,Floor Covering Stores,No1.6041-3(c)
-5714,"Drapery, Window Covering and Upholstery Stores","Drapery, Window Covering and Upholstery Stores","Drapery, Window Covering and Upholstery Stores","Drapery, Window Covering, and Upholstery Stores",No1.6041-3(c)
-5718,"Fireplace, Fireplace Screens, and Accessories Stores","Fireplace, Fireplace Screens, and Accessories Stores","Fireplace, Fireplace Screens, and Accessories Stores","Fireplace, Fireplace Screens, and Accessories Stores",No1.6041-3(c)
-5719,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,No1.6041-3(c)
-5722,Household Appliance Stores,Household Appliance Stores,Household Appliance Stores,Household Appliance Stores,No1.6041-3(c)
-5732,Electronic Sales,Electronic Sales,Electronic Sales,Electronics Stores,No1.6041-3(c)
-5733,"Music Stores, Musical Instruments, Piano Sheet Music","Music Stores, Musical Instruments, Piano Sheet Music","Music Stores, Musical Instruments, Piano Sheet Music","Music Stores-Musical Instruments, Pianos, and Sheet Music",No1.6041-3(c)
-5734,Computer Software Stores,Computer Software Stores,Computer Software Stores,Computer Software Stores,No1.6041-3(c)
-5735,Record Shops,Record Shops,Record Shops,Record Stores,No1.6041-3(c)
-5811,Caterers,Caterers,Caterers,Caterers,Yes
-5812,Eating places and Restaurants,Eating places and Restaurants,Eating places and Restaurants,"Eating Places, Restaurants",No1.6041-3(c)
-5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,No1.6041-3(c)
-5814,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,No1.6041-3(c)
-5815,"Digital Goods: Media, Books, Movies, Music",,,,
-5816,"Digital Goods: Games",,,,
-5817,"Digital Goods: Applications (Excludes Games)",,,,
-5818,"Digital Goods: Large Digital Goods Merchant",,,,
-5832,"Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services",,
-5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,No1.6041-3(c)
-5921,"Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",No1.6041-3(c)
-5931,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,No1.6041-3(c)
-5932,Antique Shops,Antique Shops,,Antique Shops,No1.6041-3(c)
-5933,Pawn Shops and Salvage Yards,Pawn Shops and Salvage Yards,Pawn Shops and Salvage Yards,Pawn Shops,No1.6041-3(c)
-5935,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Yes
-5937,Antique Reproductions,Antique Reproductions,Antique Reproductions,Antique Reproductions,No1.6041-3(c)
-5940,Bicycle Shops – Sales and Service,Bicycle Shops – Sales and Service,Bicycle Shops – Sales and Service,Bicycle Shops,No1.6041-3(c)
-5941,Sporting Goods Stores,Sporting Goods Stores,Sporting Goods Stores,Sporting Goods Stores,No1.6041-3(c)
-5942,Book Stores,Book Stores,Book Stores,Book Stores,No1.6041-3(c)
-5943,"Stationery Stores, Office and School Supply Stores","Stationery Stores, Office and School Supply Stores","Stationery Stores, Office and School Supply Stores","Stationery Stores, Office, and School Supply Stores",No1.6041-3(c)
-5944,"Watch, Clock, Jewelry, and Silverware Stores","Watch, Clock, Jewelry, and Silverware Stores","Watch, Clock, Jewelry, and Silverware Stores","Jewelry Stores, Watches, Clocks, and Silverware Stores",No1.6041-3(c)
-5945,"Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops",No1.6041-3(c)
-5946,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,No1.6041-3(c)
-5947,"Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Gift, Card, Novelty, and Souvenir Shops",No1.6041-3(c)
-5948,Leather Goods Stores,Leather Goods Stores,Leather Goods Stores,Luggage and Leather Goods Stores,No1.6041-3(c)
-5949,"Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needlework, Fabric, and Piece Goods Stores",No1.6041-3(c)
-5950,Glassware/Crystal Stores,Glassware/Crystal Stores,Glassware/Crystal Stores,"Glassware, Crystal Stores",No1.6041-3(c)
-5960,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing - Insurance Services,Yes
-5961,"Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)","Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)","Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)",,
-5962,Direct Marketing – Travel Related Arrangements Services,Direct Marketing – Travel Related Arrangements Services,Direct Marketing – Travel Related Arrangements Services,Direct Marketing - Travel,Yes
-5963,Door-to-Door Sales,Door-to-Door Sales,Door-to-Door Sales,Door-To-Door Sales,No1.6041-3(c)
-5964,Direct Marketing – Catalog Merchant,Direct Marketing – Catalog Merchant,Direct Marketing – Catalog Merchant,Direct Marketing - Catalog Merchant,No1.6041-3(c)
-5965,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing - Combination Catalog and Retail Merchant,No1.6041-3(c)
-5966,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing - Outbound Tele,No1.6041-3(c)
-5967,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing - Inbound Tele,No1.6041-3(c)
-5968,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing - Subscription,No1.6041-3(c)
-5969,Direct Marketing – Not Elsewhere Classified,Direct Marketing – Not Elsewhere Classified,Direct Marketing – Not Elsewhere Classified,Direct Marketing - Other ,No1.6041-3(c)
-5970,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,No1.6041-3(c)
-5971,Art Dealers and Galleries,Art Dealers and Galleries,Art Dealers and Galleries,Art Dealers and Galleries,No1.6041-3(c)
-5972,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores,No1.6041-3(c)
-5973,Religious Goods Stores,Religious Goods Stores,Religious Goods Stores,Religious Goods Stores,No1.6041-3(c)
-5975,"Hearing Aids – Sales, Service, and Supply Stores","Hearing Aids – Sales, Service, and Supply Stores","Hearing Aids – Sales, Service, and Supply Stores",Hearing Aids Sales and Supplies,No1.6041-3(c)
-5976,Orthopedic Goods Prosthetic Devices,Orthopedic Goods Prosthetic Devices,Orthopedic Goods Prosthetic Devices,Orthopedic Goods - Prosthetic Devices,No1.6041-3(c)
-5977,Cosmetic Stores,Cosmetic Stores,Cosmetic Stores,Cosmetic Stores,No1.6041-3(c)
-5978,"Typewriter Stores – Sales, Rental, Service","Typewriter Stores – Sales, Rental, Service","Typewriter Stores – Sales, Rental, Service",Typewriter Stores,No1.6041-3(c)
-5983,"Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum","Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum","Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum",Fuel Dealers (Non Automotive),No1.6041-3(c)
-5992,Florists,Florists,Florists,Florists,No1.6041-3(c)
-5993,Cigar Stores and Stands,Cigar Stores and Stands,Cigar Stores and Stands,Cigar Stores and Stands,No1.6041-3(c)
-5994,News Dealers and Newsstands,News Dealers and Newsstands,News Dealers and Newsstands,News Dealers and Newsstands,No1.6041-3(c)
-5995,"Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Food, and Supplies",No1.6041-3(c)
-5996,"Swimming Pools – Sales, Service, and Supplies","Swimming Pools – Sales, Service, and Supplies","Swimming Pools – Sales, Service, and Supplies",Swimming Pools Sales,No1.6041-3(c)
-5997,Electric Razor Stores – Sales and Service,Electric Razor Stores – Sales and Service,Electric Razor Stores – Sales and Service,Electric Razor Stores,No1.6041-3(c)
-5998,Tent and Awning Shops,Tent and Awning Shops,Tent and Awning Shops,Tent and Awning Shops,No1.6041-3(c)
-5999,Miscellaneous and Specialty Retail Stores,Miscellaneous and Specialty Retail Stores,Miscellaneous and Specialty Retail Stores,Miscellaneous Specialty Retail,No1.6041-3(c)
-6010,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Manual Cash Disburse,No1.6041-3(c)
-6011,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Automated Cash Disburse,No1.6041-3(c)
-6012,Financial Institutions – Merchandise and Services,Financial Institutions – Merchandise and Services,Financial Institutions – Merchandise and Services,Financial Institutions,Yes
-6051,"Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-FI, Money Orders",No1.6041-3(c)
-6211,Security Brokers/Dealers,Security Brokers/Dealers,Security Brokers/Dealers,Security Brokers/Dealers,Yes
-6300,"Insurance Sales, Underwriting, and Premiums","Insurance Sales, Underwriting, and Premiums","Insurance Sales, Underwriting, and Premiums","Insurance Underwriting, Premiums",No1.6041-3(c)
-6381,"Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)",,
-6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,No1.6041-3(c)
-6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,,Real Estate Agents and Managers - Rentals,Yes
-7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",Yes
-7012,Timeshares,Timeshares,Timeshares,Timeshares,Yes
-7032,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting/Recreation Camps,Yes
-7033,Trailer Parks and Camp Grounds,Trailer Parks and Camp Grounds,Trailer Parks and Camp Grounds,"Trailer Parks, Campgrounds",Yes
-7210,"Laundry, Cleaning, and Garment Services","Laundry, Cleaning, and Garment Services","Laundry, Cleaning, and Garment Services","Laundry, Cleaning Services",Yes
-7211,Laundry – Family and Commercial,Laundry – Family and Commercial,Laundry – Family and Commercial,Laundries ,Yes
-7216,Dry Cleaners,Dry Cleaners,Dry Cleaners,Dry Cleaners,Yes
-7217,Carpet and Upholstery Cleaning,Carpet and Upholstery Cleaning,Carpet and Upholstery Cleaning,Carpet/Upholstery Cleaning,Yes
-7221,Photographic Studios,Photographic Studios,Photographic Studios,Photographic Studios,Yes
-7230,Barber and Beauty Shops,Barber and Beauty Shops,Barber and Beauty Shops,Barber and Beauty Shops,Yes
-7251,"Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops","Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops","Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops",Shoe Repair/Hat Cleaning,Yes
-7261,Funeral Service and Crematories,Funeral Service and Crematories,Funeral Service and Crematories,"Funeral Services, Crematories",Yes
-7273,Dating and Escort Services,Dating and Escort Services,Dating and Escort Services,Dating/Escort Services,Yes
-7276,Tax Preparation Service,Tax Preparation Service,Tax Preparation Service,Tax Preparation Services,Yes
-7277,"Counseling Service – Debt, Marriage, Personal","Counseling Service – Debt, Marriage, Personal","Counseling Service – Debt, Marriage, Personal",Counseling Services,Yes
-7278,"Buying/Shopping Services, Clubs","Buying/Shopping Services, Clubs","Buying/Shopping Services, Clubs",Buying/Shopping Services,Yes
-7296,"Clothing Rental – Costumes, Formal Wear, Uniforms","Clothing Rental – Costumes, Formal Wear, Uniforms","Clothing Rental – Costumes, Formal Wear, Uniforms",Clothing Rental ,Yes
-7297,Massage Parlors,Massage Parlors,Massage Parlors,Massage Parlors,Yes
-7298,Health and Beauty Shops,Health and Beauty Shops,Health and Beauty Shops,Health and Beauty Spas,Yes
-7299,Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous General Services,Yes
-7311,Advertising Services,Advertising Services,Advertising Services,Advertising Services,Yes
-7321,Consumer Credit Reporting Agencies,Consumer Credit Reporting Agencies,Consumer Credit Reporting Agencies,Credit Reporting Agencies,Yes
-7332,Blueprinting and Photocopying Services,Blueprinting and Photocopying Services,Blueprinting and Photocopying Services,,
-7333,"Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics",Yes
-7338,"Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Repro, and Blueprint",Yes
-7339,Stenographic and Secretarial Support Services,Stenographic and Secretarial Support Services,Stenographic and Secretarial Support Services,Secretarial Support Services,Yes
-7342,Exterminating and Disinfecting Services,Exterminating and Disinfecting Services,Exterminating and Disinfecting Services,Exterminating Services,Yes
-7349,"Cleaning and Maintenance, Janitorial Services","Cleaning and Maintenance, Janitorial Services","Cleaning and Maintenance, Janitorial Services",Cleaning and Maintenance,Yes
-7361,"Employment Agencies, Temporary Help Services","Employment Agencies, Temporary Help Services","Employment Agencies, Temporary Help Services",Employment/Temp Agencies,Yes
-7372,"Computer Programming, Integrated Systems Design and Data Processing Services","Computer Programming, Integrated Systems Design and Data Processing Services","Computer Programming, Integrated Systems Design and Data Processing Services",Computer Programming,Yes
-7375,Information Retrieval Services,Information Retrieval Services,Information Retrieval Services,Information Retrieval Services,Yes
-7379,"Computer Maintenance and Repair Services, Not Elsewhere Classified","Computer Maintenance and Repair Services, Not Elsewhere Classified","Computer Maintenance and Repair Services, Not Elsewhere Classified",Computer Repair,Yes
-7392,"Management, Consulting, and Public Relations Services","Management, Consulting, and Public Relations Services","Management, Consulting, and Public Relations Services","Consulting, Public Relations",Yes
-7393,Protective and Security Services – Including Armored Carsand Guard Dogs,Protective and Security Services – Including Armored Carsand Guard Dogs,Protective and Security Services – Including Armored Carsand Guard Dogs,Detective Agencies,Yes
-7394,"Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental","Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental","Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental",Equipment Rental ,Yes
-7395,"Photofinishing Laboratories, Photo Developing","Photofinishing Laboratories, Photo Developing","Photofinishing Laboratories, Photo Developing",Photo Developing,Yes
-7399,"Business Services, Not Elsewhere Classified","Business Services, Not Elsewhere Classified","Business Services, Not Elsewhere Classified",Miscellaneous Business Services ,Yes
-7511,Truck Stop,Truck Stop,,Truck Stop,Yes
-7512,Car Rental Companies ( Not Listed Below),Car Rental Companies ( Not Listed Below),Car Rental Companies ( Not Listed Below),Car Rental Agencies,Yes
-7513,Truck and Utility Trailer Rentals,Truck and Utility Trailer Rentals,Truck and Utility Trailer Rentals,Truck/Utility Trailer Rentals,Yes
-7519,Motor Home and Recreational Vehicle Rentals,Motor Home and Recreational Vehicle Rentals,Motor Home and Recreational Vehicle Rentals,Recreational Vehicle Rentals,Yes
-7523,Automobile Parking Lots and Garages,Automobile Parking Lots and Garages,Automobile Parking Lots and Garages,"Parking Lots, Garages",Yes
-7531,Automotive Body Repair Shops,Automotive Body Repair Shops,Automotive Body Repair Shops,Auto Body Repair Shops,Yes
-7534,Tire Re-treading and Repair Shops,Tire Re-treading and Repair Shops,Tire Re-treading and Repair Shops,Tire Retreading and Repair,Yes
-7535,Paint Shops – Automotive,Paint Shops – Automotive,Paint Shops – Automotive,Auto Paint Shops,Yes
-7538,Automotive Service Shops,Automotive Service Shops,Automotive Service Shops,Auto Service Shops,Yes
-7542,Car Washes,Car Washes,Car Washes,Car Washes,Yes
-7549,Towing Services,Towing Services,Towing Services,Towing Services,Yes
-7622,Radio Repair Shops,Radio Repair Shops,Radio Repair Shops,Electronics Repair Shops,Yes
-7623,Air Conditioning and Refrigeration Repair Shops,Air Conditioning and Refrigeration Repair Shops,Air Conditioning and Refrigeration Repair Shops,"A/C, Refrigeration Repair",Yes
-7629,Electrical And Small Appliance Repair Shops,Electrical And Small Appliance Repair Shops,Electrical And Small Appliance Repair Shops,Small Appliance Repair,Yes
-7631,"Watch, Clock, and Jewelry Repair","Watch, Clock, and Jewelry Repair","Watch, Clock, and Jewelry Repair",Watch/Jewelry Repair,Yes
-7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",Yes
-7692,Welding Repair,Welding Repair,Welding Repair,Welding Repair,Yes
-7699,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Miscellaneous Repair Shops,Yes
-7800,Government-Owned Lotteries,,,,
-7801,"Government-Licensed On-Line Casinos (On-Line Gambling)",,,,
-7802,"Government-Licensed Horse/Dog Racing",,,,
-7829,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,Yes
-7832,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Yes
-7841,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Yes
-7911,"Dance Halls, Studios and Schools","Dance Halls, Studios and Schools","Dance Halls, Studios and Schools","Dance Hall, Studios, Schools",Yes
-7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies","Theatrical Producers (Except Motion Pictures), Ticket Agencies","Theatrical Producers (Except Motion Pictures), Ticket Agencies",Theatrical Ticket Agencies,Yes
-7929,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras",Yes
-7932,Billiard and Pool Establishments,Billiard and Pool Establishments,Billiard and Pool Establishments,Billiard/Pool Establishments,Yes
-7933,Bowling Alleys,Bowling Alleys,Bowling Alleys,Bowling Alleys,Yes
-7941,"Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters","Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters","Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters",Sports Clubs/Fields,Yes
-7991,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Yes
-7992,Golf Courses – Public,Golf Courses – Public,Golf Courses – Public,Golf Courses - Public,Yes
-7993,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,No1.6041-3(c)
-7994,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades,Yes
-7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)",Betting/Casino Gambling,Yes
-7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers",Amusement Parks/Carnivals,Yes
-7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",Country Clubs,Yes
-7998,"Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums",Aquariums,Yes
-7999,Recreation Services (Not Elsewhere Classified),Recreation Services (Not Elsewhere Classified),Recreation Services (Not Elsewhere Classified),Miscellaneous Recreation Services,Yes
-8011,Doctors and Physicians (Not Elsewhere Classified),Doctors and Physicians (Not Elsewhere Classified),Doctors and Physicians (Not Elsewhere Classified),Doctors,Yes
-8021,Dentists and Orthodontists,Dentists and Orthodontists,Dentists and Orthodontists,"Dentists, Orthodontists",Yes
-8031,Osteopaths,Osteopaths,Osteopaths,Osteopaths,Yes
-8041,Chiropractors,Chiropractors,Chiropractors,Chiropractors,Yes
-8042,Optometrists and Ophthalmologists,Optometrists and Ophthalmologists,Optometrists and Ophthalmologists,"Optometrists, Ophthalmologist",Yes
-8043,"Opticians, Opticians Goods and Eyeglasses","Opticians, Opticians Goods and Eyeglasses","Opticians, Opticians Goods and Eyeglasses","Opticians, Eyeglasses",Yes
-8044,"Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)","Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)","Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)",,
-8049,Podiatrists and Chiropodists,Podiatrists and Chiropodists,Podiatrists and Chiropodists,"Chiropodists, Podiatrists",Yes
-8050,Nursing and Personal Care Facilities,Nursing and Personal Care Facilities,Nursing and Personal Care Facilities,Nursing/Personal Care ,Yes
-8062,Hospitals,Hospitals,Hospitals,Hospitals,Yes
-8071,Medical and Dental Laboratories,Medical and Dental Laboratories,Medical and Dental Laboratories,Medical and Dental Labs,Yes
-8099,Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services ,Yes
-8111,Legal Services and Attorneys,Legal Services and Attorneys,Legal Services and Attorneys,"Legal Services, Attorneys",Yes
-8211,Elementary and Secondary Schools,Elementary and Secondary Schools,Elementary and Secondary Schools,"Elementary, Secondary Schools",No1.6041-3(p)(2)
-8220,"Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Universities",No1.6041-3(p)(2)
-8241,Correspondence Schools,Correspondence Schools,Correspondence Schools,Correspondence Schools,No1.6041-3(p)(2)
-8244,Business and Secretarial Schools,Business and Secretarial Schools,Business and Secretarial Schools,Business/Secretarial Schools,No1.6041-3(p)(2)
-8249,Vocational Schools and Trade Schools,Vocational Schools and Trade Schools,Vocational Schools and Trade Schools,Vocational/Trade Schools,No1.6041-3(p)(2)
-8299,Schools and Educational Services ( Not Elsewhere Classified),Schools and Educational Services ( Not Elsewhere Classified),Schools and Educational Services ( Not Elsewhere Classified),Educational Services ,Yes
-8351,Child Care Services,Child Care Services,Child Care Services,Child Care Services,Yes
-8398,Charitable and Social Service Organizations,Charitable and Social Service Organizations,Charitable and Social Service Organizations,Charitable and Social Service Organizations - Fundraising,No1.6041-3(p)(2)
-8641,"Civic, Fraternal, and Social Associations","Civic, Fraternal, and Social Associations","Civic, Fraternal, and Social Associations","Civic, Social, Fraternal Associations",No1.6041-3(p)(2)
-8651,Political Organizations,Political Organizations,Political Organizations,Political Organizations,Yes
-8661,Religious Organizations,Religious Organizations,Religious Organizations,Religious Organizations,No1.6041-3(p)(2)
-8675,Automobile Associations,Automobile Associations,Automobile Associations,Automobile Associations,Yes
-8699,Membership Organizations ( Not Elsewhere Classified),Membership Organizations ( Not Elsewhere Classified),Membership Organizations ( Not Elsewhere Classified),Membership Organizations,Yes
-8734,Testing Laboratories ( non-medical),Testing Laboratories ( non-medical),Testing Laboratories ( non-medical),Testing Laboratories,Yes
-8911,Architectural – Engineering and Surveying Services,Architectural – Engineering and Surveying Services,Architectural – Engineering and Surveying Services,Architectural/Surveying Services,Yes
-8931,"Accounting, Auditing, and Bookkeeping Services","Accounting, Auditing, and Bookkeeping Services","Accounting, Auditing, and Bookkeeping Services",Accounting/Bookkeeping Services,Yes
-8999,Professional Services ( Not Elsewhere Defined),Professional Services ( Not Elsewhere Defined),Professional Services ( Not Elsewhere Defined),Professional Services,Yes
-9211,"Court Costs, including Alimony and Child Support","Court Costs, including Alimony and Child Support","Court Costs, including Alimony and Child Support","Court Costs, Including Alimony and Child Support - Courts of Law",No1.6041-3(p)(4)
-9222,Fines,Fines,Fines,Fines - Government Administrative Entities,No1.6041-3(p)(4)
-9223,Bail and Bond Payments,Bail and Bond Payments,Bail and Bond Payments,"Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency) ",Yes
-9311,Tax Payments,Tax Payments,Tax Payments,Tax Payments - Government Agencies,No1.6041-3(p)(4)
-9399,Government Services ( Not Elsewhere Classified),Government Services ( Not Elsewhere Classified),Government Services ( Not Elsewhere Classified),Government Services (Not Elsewhere Classified),No1.6041-3(p)(4)
-9402,Postal Services – Government Only,Postal Services – Government Only,Postal Services – Government Only,Postal Services - Government Only,No1.6041-3(p)(3)
-9405,Intra – Government Transactions,Intra – Government Transactions,Intra – Government Transactions,U.S. Federal Government Agencies or Departments,No1.6041-3(p)(3)
-9700,Automated Referral Service ( For Visa Only),Automated Referral Service ( For Visa Only),Automated Referral Service ( For Visa Only),,
-9701,Visa Credential Service ( For Visa Only),Visa Credential Service ( For Visa Only),Visa Credential Service ( For Visa Only),,
-9702,GCAS Emergency Services ( For Visa Only),GCAS Emergency Services ( For Visa Only),GCAS Emergency Services ( For Visa Only),,
-9950,Intra – Company Purchases ( For Visa Only),Intra – Company Purchases ( For Visa Only),Intra – Company Purchases ( For Visa Only),Intra-Company Purchases,No1.6041-3(c)
+mcc,mcc_description,usda_description,irs_description,irs_reportable,mcc_num,mcc_category
+0742,Veterinary Services,Veterinary Services,Veterinary Services,Yes,742,Agricultural Services
+0743,Wine Producers,NA,NA,NA,NA,Agricultural Services
+0744,Champagne Producers,NA,NA,NA,NA,Agricultural Services
+0763,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Cooperative,Yes,763,Agricultural Services
+0780,"Horticultural Services, Landscaping Services",Horticultural Services,Landscaping Services,Yes,780,Agricultural Services
+1520,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors,Yes,1520,Contracted Services
+1711,"Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation",Air Conditioning Contractors – Sales and Installation,"Heating, Plumbing, A/C",Yes,1711,Contracted Services
+1731,Electrical Contractors,Electrical Contractors,Electrical Contractors,Yes,1731,Contracted Services
+1740,"Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors",Insulation – Contractors,"Masonry, Stonework, and Plaster",Yes,1740,Contracted Services
+1750,Carpentry Contractors,Carpentry Contractors,Carpentry Contractors,Yes,1750,Contracted Services
+1761,"Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors",Roofing - Contractors,"Roofing/Siding, Sheet Metal",Yes,1761,Contracted Services
+1771,Contractors – Concrete Work,Contractors – Concrete Work,Concrete Work Contractors,Yes,1771,Contracted Services
+1799,"Contractors – Special Trade, Not Elsewhere Classified","Contractors – Special Trade, Not Elsewhere Classified",Special Trade Contractors,Yes,1799,Contracted Services
+2741,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Yes,2741,Contracted Services
+2791,"Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, and Related Services",Yes,2791,Contracted Services
+2842,"Specialty Cleaning, Polishing, and Sanitation Preparations","Specialty Cleaning, Polishing, and Sanitation Preparations",Specialty Cleaning,Yes,2842,Contracted Services
+3000,United Airlines,UNITED AIRLINES,Airlines,Yes,3000,Airlines
+3001,American Airlines,AMERICAN AIRLINES,Airlines,Yes,3001,Airlines
+3002,Pan American,PAN AMERICAN,Airlines,Yes,3002,Airlines
+3003,Airlines,NA,Airlines,Yes,3003,Airlines
+3004,Trans World Airlines,TRANS WORLD AIRLINES,Airlines,Yes,3004,Airlines
+3005,British Airways,BRITISH AIRWAYS,Airlines,Yes,3005,Airlines
+3006,Japan Airlines,JAPAN AIRLINES,Airlines,Yes,3006,Airlines
+3007,Air France,AIR FRANCE,Airlines,Yes,3007,Airlines
+3008,Lufthansa,LUFTHANSA,Airlines,Yes,3008,Airlines
+3009,Air Canada,AIR CANADA,Airlines,Yes,3009,Airlines
+3010,Klm (Royal Dutch Airlines),KLM (ROYAL DUTCH AIRLINES),Airlines,Yes,3010,Airlines
+3011,Aeorflot,AEORFLOT,Airlines,Yes,3011,Airlines
+3012,Qantas,QANTAS,Airlines,Yes,3012,Airlines
+3013,Alitalia,ALITALIA,Airlines,Yes,3013,Airlines
+3014,Saudia Arabian Airlines,SAUDIA ARABIAN AIRLINES,Airlines,Yes,3014,Airlines
+3015,Swissair,SWISSAIR,Airlines,Yes,3015,Airlines
+3016,Sas,SAS,Airlines,Yes,3016,Airlines
+3017,South African Airways,SOUTH AFRICAN AIRWAYS,Airlines,Yes,3017,Airlines
+3018,Varig (Brazil),VARIG (BRAZIL),Airlines,Yes,3018,Airlines
+3019,Airlines,NA,Airlines,Yes,3019,Airlines
+3020,Air-India,AIR-INDIA,Airlines,Yes,3020,Airlines
+3021,Air Algerie,AIR ALGERIE,Airlines,Yes,3021,Airlines
+3022,Philippine Airlines,PHILIPPINE AIRLINES,Airlines,Yes,3022,Airlines
+3023,Mexicana,MEXICANA,Airlines,Yes,3023,Airlines
+3024,Pakistan International,PAKISTAN INTERNATIONAL,Airlines,Yes,3024,Airlines
+3025,Air New Zealand,AIR NEW ZEALAND,Airlines,Yes,3025,Airlines
+3026,Airlines,NA,Airlines,Yes,3026,Airlines
+3027,Uta/Interair,UTA/INTERAIR,Airlines,Yes,3027,Airlines
+3028,Air Malta,AIR MALTA,Airlines,Yes,3028,Airlines
+3029,Sabena,SABENA,Airlines,Yes,3029,Airlines
+3030,Aerolineas Argentinas,AEROLINEAS ARGENTINAS,Airlines,Yes,3030,Airlines
+3031,Olympic Airways,OLYMPIC AIRWAYS,Airlines,Yes,3031,Airlines
+3032,El Al,EL AL,Airlines,Yes,3032,Airlines
+3033,Ansett Airlines,ANSETT AIRLINES,Airlines,Yes,3033,Airlines
+3034,Austrainlian Airlines,AUSTRAINLIAN AIRLINES,Airlines,Yes,3034,Airlines
+3035,Tap (Portugal),TAP (PORTUGAL),Airlines,Yes,3035,Airlines
+3036,Vasp (Brazil),VASP (BRAZIL),Airlines,Yes,3036,Airlines
+3037,Egyptair,EGYPTAIR,Airlines,Yes,3037,Airlines
+3038,Kuwait Airlines,KUWAIT AIRLINES,Airlines,Yes,3038,Airlines
+3039,Avianca,AVIANCA,Airlines,Yes,3039,Airlines
+3040,Gulf Air (Bahrain),GULF AIR (BAHRAIN),Airlines,Yes,3040,Airlines
+3041,Balkan-Bulgarian Airlines,BALKAN-BULGARIAN AIRLINES,Airlines,Yes,3041,Airlines
+3042,Finnair,FINNAIR,Airlines,Yes,3042,Airlines
+3043,Aer Lingus,AER LINGUS,Airlines,Yes,3043,Airlines
+3044,Air Lanka,AIR LANKA,Airlines,Yes,3044,Airlines
+3045,Nigeria Airways,NIGERIA AIRWAYS,Airlines,Yes,3045,Airlines
+3046,Cruzeiro Do Sul (Brazij),CRUZEIRO DO SUL (BRAZIJ),Airlines,Yes,3046,Airlines
+3047,Thy (Turkey),THY (TURKEY),Airlines,Yes,3047,Airlines
+3048,Royal Air Maroc,ROYAL AIR MAROC,Airlines,Yes,3048,Airlines
+3049,Tunis Air,TUNIS AIR,Airlines,Yes,3049,Airlines
+3050,Icelandair,ICELANDAIR,Airlines,Yes,3050,Airlines
+3051,Austrian Airlines,AUSTRIAN AIRLINES,Airlines,Yes,3051,Airlines
+3052,Lanchile,LANCHILE,Airlines,Yes,3052,Airlines
+3053,Aviaco (Spain),AVIACO (SPAIN),Airlines,Yes,3053,Airlines
+3054,Ladeco (Chile),LADECO (CHILE),Airlines,Yes,3054,Airlines
+3055,Lab (Bolivia),LAB (BOLIVIA),Airlines,Yes,3055,Airlines
+3056,Quebecaire,QUEBECAIRE,Airlines,Yes,3056,Airlines
+3057,Eastwest Airlines (Australia),EASTWEST AIRLINES (AUSTRALIA),Airlines,Yes,3057,Airlines
+3058,Delta,DELTA,Airlines,Yes,3058,Airlines
+3059,Airlines,NA,Airlines,Yes,3059,Airlines
+3060,Northwest,NORTHWEST,Airlines,Yes,3060,Airlines
+3061,Continental,CONTINENTAL,Airlines,Yes,3061,Airlines
+3062,Western,WESTERN,Airlines,Yes,3062,Airlines
+3063,Us Air,US AIR,Airlines,Yes,3063,Airlines
+3064,Airlines,NA,Airlines,Yes,3064,Airlines
+3065,Airinter,AIRINTER,Airlines,Yes,3065,Airlines
+3066,Southwest,SOUTHWEST,Airlines,Yes,3066,Airlines
+3067,Airlines,NA,Airlines,Yes,3067,Airlines
+3068,Airlines,NA,Airlines,Yes,3068,Airlines
+3069,Sun Country Airlines,SUN COUNTRY AIRLINES,Airlines,Yes,3069,Airlines
+3070,Airlines,NA,Airlines,Yes,3070,Airlines
+3071,Air British Colubia,AIR BRITISH COLUBIA,Airlines,Yes,3071,Airlines
+3072,Airlines,NA,Airlines,Yes,3072,Airlines
+3073,Airlines,NA,Airlines,Yes,3073,Airlines
+3074,Airlines,NA,Airlines,Yes,3074,Airlines
+3075,Singapore Airlines,SINGAPORE AIRLINES,Airlines,Yes,3075,Airlines
+3076,Aeromexico,AEROMEXICO,Airlines,Yes,3076,Airlines
+3077,Thai Airways,THAI AIRWAYS,Airlines,Yes,3077,Airlines
+3078,China Airlines,CHINA AIRLINES,Airlines,Yes,3078,Airlines
+3079,Airlines,NA,Airlines,Yes,3079,Airlines
+3080,Airlines,NA,Airlines,Yes,3080,Airlines
+3081,Nordair,NORDAIR,Airlines,Yes,3081,Airlines
+3082,Korean Airlines,KOREAN AIRLINES,Airlines,Yes,3082,Airlines
+3083,Air Afrigue,AIR AFRIGUE,Airlines,Yes,3083,Airlines
+3084,Eva Airlines,EVA AIRLINES,Airlines,Yes,3084,Airlines
+3085,"Midwest Express Airlines, Inc.","MIDWEST EXPRESS AIRLINES, INC.",Airlines,Yes,3085,Airlines
+3086,Airlines,NA,Airlines,Yes,3086,Airlines
+3087,Metro Airlines,METRO AIRLINES,Airlines,Yes,3087,Airlines
+3088,Croatia Airlines,CROATIA AIRLINES,Airlines,Yes,3088,Airlines
+3089,Transaero,TRANSAERO,Airlines,Yes,3089,Airlines
+3090,Airlines,NA,Airlines,Yes,3090,Airlines
+3091,Airlines,NA,Airlines,Yes,3091,Airlines
+3092,Airlines,NA,Airlines,Yes,3092,Airlines
+3093,Airlines,NA,Airlines,Yes,3093,Airlines
+3094,Zambia Airways,ZAMBIA AIRWAYS,Airlines,Yes,3094,Airlines
+3095,Airlines,NA,Airlines,Yes,3095,Airlines
+3096,Air Zimbabwe,AIR ZIMBABWE,Airlines,Yes,3096,Airlines
+3097,Airlines,NA,Airlines,Yes,3097,Airlines
+3098,Airlines,NA,Airlines,Yes,3098,Airlines
+3099,Cathay Pacific,CATHAY PACIFIC,Airlines,Yes,3099,Airlines
+3100,Malaysian Airline System,MALAYSIAN AIRLINE SYSTEM,Airlines,Yes,3100,Airlines
+3101,Airlines,NA,Airlines,Yes,3101,Airlines
+3102,Iberia,IBERIA,Airlines,Yes,3102,Airlines
+3103,Garuda (Indonesia),GARUDA (INDONESIA),Airlines,Yes,3103,Airlines
+3104,Airlines,NA,Airlines,Yes,3104,Airlines
+3105,Airlines,NA,Airlines,Yes,3105,Airlines
+3106,Braathens S.a.f.e. (Norway),BRAATHENS S.A.F.E. (NORWAY),Airlines,Yes,3106,Airlines
+3107,Airlines,NA,Airlines,Yes,3107,Airlines
+3108,Airlines,NA,Airlines,Yes,3108,Airlines
+3109,Airlines,NA,Airlines,Yes,3109,Airlines
+3110,Wings Airways,WINGS AIRWAYS,Airlines,Yes,3110,Airlines
+3111,British Midland,BRITISH MIDLAND,Airlines,Yes,3111,Airlines
+3112,Windward Island,WINDWARD ISLAND,Airlines,Yes,3112,Airlines
+3113,Airlines,NA,Airlines,Yes,3113,Airlines
+3114,Airlines,NA,Airlines,Yes,3114,Airlines
+3115,Airlines,NA,Airlines,Yes,3115,Airlines
+3116,Airlines,NA,Airlines,Yes,3116,Airlines
+3117,Viasa,VIASA,Airlines,Yes,3117,Airlines
+3118,Valley Airlines,VALLEY AIRLINES,Airlines,Yes,3118,Airlines
+3119,Airlines,NA,Airlines,Yes,3119,Airlines
+3120,Airlines,NA,Airlines,Yes,3120,Airlines
+3121,Airlines,NA,Airlines,Yes,3121,Airlines
+3122,Airlines,NA,Airlines,Yes,3122,Airlines
+3123,Airlines,NA,Airlines,Yes,3123,Airlines
+3124,Airlines,NA,Airlines,Yes,3124,Airlines
+3125,Tan,TAN,Airlines,Yes,3125,Airlines
+3126,Talair,TALAIR,Airlines,Yes,3126,Airlines
+3127,Taca International,TACA INTERNATIONAL,Airlines,Yes,3127,Airlines
+3128,Airlines,NA,Airlines,Yes,3128,Airlines
+3129,Surinam Airways,SURINAM AIRWAYS,Airlines,Yes,3129,Airlines
+3130,Sun World International,SUN WORLD INTERNATIONAL,Airlines,Yes,3130,Airlines
+3131,Airlines,NA,Airlines,Yes,3131,Airlines
+3132,Airlines,NA,Airlines,Yes,3132,Airlines
+3133,Sunbelt Airlines,SUNBELT AIRLINES,Airlines,Yes,3133,Airlines
+3134,Airlines,NA,Airlines,Yes,3134,Airlines
+3135,Sudan Airways,SUDAN AIRWAYS,Airlines,Yes,3135,Airlines
+3136,Airlines,NA,Airlines,Yes,3136,Airlines
+3137,Singleton,SINGLETON,Airlines,Yes,3137,Airlines
+3138,Simmons Airlines,SIMMONS AIRLINES,Airlines,Yes,3138,Airlines
+3139,Airlines,NA,Airlines,Yes,3139,Airlines
+3140,Airlines,NA,Airlines,Yes,3140,Airlines
+3141,Airlines,NA,Airlines,Yes,3141,Airlines
+3142,Airlines,NA,Airlines,Yes,3142,Airlines
+3143,Scenic Airlines,SCENIC AIRLINES,Airlines,Yes,3143,Airlines
+3144,Virgin Atlantic,VIRGIN ATLANTIC,Airlines,Yes,3144,Airlines
+3145,San Juan Airlines,SAN JUAN AIRLINES,Airlines,Yes,3145,Airlines
+3146,Luxair,LUXAIR,Airlines,Yes,3146,Airlines
+3147,Airlines,NA,Airlines,Yes,3147,Airlines
+3148,Airlines,NA,Airlines,Yes,3148,Airlines
+3149,Airlines,NA,Airlines,Yes,3149,Airlines
+3150,Airlines,NA,Airlines,Yes,3150,Airlines
+3151,Air Zaire,AIR ZAIRE,Airlines,Yes,3151,Airlines
+3152,Airlines,NA,Airlines,Yes,3152,Airlines
+3153,Airlines,NA,Airlines,Yes,3153,Airlines
+3154,Princeville,PRINCEVILLE,Airlines,Yes,3154,Airlines
+3155,Airlines,NA,Airlines,Yes,3155,Airlines
+3156,Airlines,NA,Airlines,Yes,3156,Airlines
+3157,Airlines,NA,Airlines,Yes,3157,Airlines
+3158,Airlines,NA,Airlines,Yes,3158,Airlines
+3159,Pba,PBA,Airlines,Yes,3159,Airlines
+3160,Airlines,NA,Airlines,Yes,3160,Airlines
+3161,All Nippon Airways,ALL NIPPON AIRWAYS,Airlines,Yes,3161,Airlines
+3162,Airlines,NA,Airlines,Yes,3162,Airlines
+3163,Airlines,NA,Airlines,Yes,3163,Airlines
+3164,Norontair,NORONTAIR,Airlines,Yes,3164,Airlines
+3165,New York Helicopter,NEW YORK HELICOPTER,Airlines,Yes,3165,Airlines
+3166,Airlines,NA,Airlines,Yes,3166,Airlines
+3167,Airlines,NA,Airlines,Yes,3167,Airlines
+3168,Airlines,NA,Airlines,Yes,3168,Airlines
+3169,Airlines,NA,Airlines,Yes,3169,Airlines
+3170,Nount Cook,NOUNT COOK,Airlines,Yes,3170,Airlines
+3171,Canadian Airlines International,CANADIAN AIRLINES INTERNATIONAL,Airlines,Yes,3171,Airlines
+3172,Nationair,NATIONAIR,Airlines,Yes,3172,Airlines
+3173,Airlines,NA,Airlines,Yes,3173,Airlines
+3174,Airlines,NA,Airlines,Yes,3174,Airlines
+3175,Airlines,NA,Airlines,Yes,3175,Airlines
+3176,Metroflight Airlines,METROFLIGHT AIRLINES,Airlines,Yes,3176,Airlines
+3177,Airlines,NA,Airlines,Yes,3177,Airlines
+3178,Mesa Air,MESA AIR,Airlines,Yes,3178,Airlines
+3179,Airlines,NA,Airlines,Yes,3179,Airlines
+3180,Airlines,NA,Airlines,Yes,3180,Airlines
+3181,Malev,MALEV,Airlines,Yes,3181,Airlines
+3182,Lot (Poland),LOT (POLAND),Airlines,Yes,3182,Airlines
+3183,Airlines,NA,Airlines,Yes,3183,Airlines
+3184,Liat,LIAT,Airlines,Yes,3184,Airlines
+3185,Lav (Venezuela),LAV (VENEZUELA),Airlines,Yes,3185,Airlines
+3186,Lap (Paraguay),LAP (PARAGUAY),Airlines,Yes,3186,Airlines
+3187,Lacsa (Costa Rica),LACSA (COSTA RICA),Airlines,Yes,3187,Airlines
+3188,Airlines,NA,Airlines,Yes,3188,Airlines
+3189,Airlines,NA,Airlines,Yes,3189,Airlines
+3190,Jugoslav Air,JUGOSLAV AIR,Airlines,Yes,3190,Airlines
+3191,Island Airlines,ISLAND AIRLINES,Airlines,Yes,3191,Airlines
+3192,Iran Air,IRAN AIR,Airlines,Yes,3192,Airlines
+3193,Indian Airlines,INDIAN AIRLINES,Airlines,Yes,3193,Airlines
+3194,Airlines,NA,Airlines,Yes,3194,Airlines
+3195,Airlines,NA,Airlines,Yes,3195,Airlines
+3196,Hawaiian Air,HAWAIIAN AIR,Airlines,Yes,3196,Airlines
+3197,Havasu Airlines,HAVASU AIRLINES,Airlines,Yes,3197,Airlines
+3198,Airlines,NA,Airlines,Yes,3198,Airlines
+3199,Airlines,NA,Airlines,Yes,3199,Airlines
+3200,Fuyana Airways,FUYANA AIRWAYS,Airlines,Yes,3200,Airlines
+3201,Airlines,NA,Airlines,Yes,3201,Airlines
+3202,Airlines,NA,Airlines,Yes,3202,Airlines
+3203,Golden Pacific Air,GOLDEN PACIFIC AIR,Airlines,Yes,3203,Airlines
+3204,Freedom Air,FREEDOM AIR,Airlines,Yes,3204,Airlines
+3205,Airlines,NA,Airlines,Yes,3205,Airlines
+3206,Airlines,NA,Airlines,Yes,3206,Airlines
+3207,Airlines,NA,Airlines,Yes,3207,Airlines
+3208,Airlines,NA,Airlines,Yes,3208,Airlines
+3209,Airlines,NA,Airlines,Yes,3209,Airlines
+3210,Airlines,NA,Airlines,Yes,3210,Airlines
+3211,Airlines,NA,Airlines,Yes,3211,Airlines
+3212,Dominicana,DOMINICANA,Airlines,Yes,3212,Airlines
+3213,Airlines,NA,Airlines,Yes,3213,Airlines
+3214,Airlines,NA,Airlines,Yes,3214,Airlines
+3215,Dan Air Services,DAN AIR SERVICES,Airlines,Yes,3215,Airlines
+3216,Cumberland Airlines,CUMBERLAND AIRLINES,Airlines,Yes,3216,Airlines
+3217,Csa,CSA,Airlines,Yes,3217,Airlines
+3218,Crown Air,CROWN AIR,Airlines,Yes,3218,Airlines
+3219,Copa,COPA,Airlines,Yes,3219,Airlines
+3220,Compania Faucett,COMPANIA FAUCETT,Airlines,Yes,3220,Airlines
+3221,Transportes Aeros Militares Eccuatoranos,TRANSPORTES AEROS MILITARES ECCUATORANOS,Airlines,Yes,3221,Airlines
+3222,Command Airways,COMMAND AIRWAYS,Airlines,Yes,3222,Airlines
+3223,Comair,COMAIR,Airlines,Yes,3223,Airlines
+3224,Airlines,NA,Airlines,Yes,3224,Airlines
+3225,Airlines,NA,Airlines,Yes,3225,Airlines
+3226,Airlines,NA,Airlines,Yes,3226,Airlines
+3227,Airlines,NA,Airlines,Yes,3227,Airlines
+3228,Cayman Airways,CAYMAN AIRWAYS,Airlines,Yes,3228,Airlines
+3229,Saeta Sociaedad Ecuatorianos De Transportes Aereos,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,Airlines,Yes,3229,Airlines
+3230,Airlines,NA,Airlines,Yes,3230,Airlines
+3231,Sasha Servicio Aero De Honduras,SASHA SERVICIO AERO DE HONDURAS,Airlines,Yes,3231,Airlines
+3232,Airlines,NA,Airlines,Yes,3232,Airlines
+3233,Capitol Air,CAPITOL AIR,Airlines,Yes,3233,Airlines
+3234,Bwia,BWIA,Airlines,Yes,3234,Airlines
+3235,Brokway Air,BROKWAY AIR,Airlines,Yes,3235,Airlines
+3236,Airlines,NA,Airlines,Yes,3236,Airlines
+3237,Airlines,NA,Airlines,Yes,3237,Airlines
+3238,Bemidji Airlines,BEMIDJI AIRLINES,Airlines,Yes,3238,Airlines
+3239,Bar Harbor Airlines,BAR HARBOR AIRLINES,Airlines,Yes,3239,Airlines
+3240,Bahamasair,BAHAMASAIR,Airlines,Yes,3240,Airlines
+3241,Aviateca (Guatemala),AVIATECA (GUATEMALA),Airlines,Yes,3241,Airlines
+3242,Avensa,AVENSA,Airlines,Yes,3242,Airlines
+3243,Austrian Air Service,AUSTRIAN AIR SERVICE,Airlines,Yes,3243,Airlines
+3244,Airlines,NA,Airlines,Yes,3244,Airlines
+3245,Airlines,NA,Airlines,Yes,3245,Airlines
+3246,Airlines,NA,Airlines,Yes,3246,Airlines
+3247,Airlines,NA,Airlines,Yes,3247,Airlines
+3248,Airlines,NA,Airlines,Yes,3248,Airlines
+3249,Airlines,NA,Airlines,Yes,3249,Airlines
+3250,Airlines,NA,Airlines,Yes,3250,Airlines
+3251,Aloha Airlines,ALOHA AIRLINES,Airlines,Yes,3251,Airlines
+3252,Alm,ALM,Airlines,Yes,3252,Airlines
+3253,America West,AMERICA WEST,Airlines,Yes,3253,Airlines
+3254,Trump Airline,TRUMP AIRLINE,Airlines,Yes,3254,Airlines
+3255,Airlines,NA,Airlines,Yes,3255,Airlines
+3256,Alaska Airlines,ALASKA AIRLINES,Airlines,Yes,3256,Airlines
+3257,Airlines,NA,Airlines,Yes,3257,Airlines
+3258,Airlines,NA,Airlines,Yes,3258,Airlines
+3259,American Trans Air,AMERICAN TRANS AIR,Airlines,Yes,3259,Airlines
+3260,Airlines,NA,Airlines,Yes,3260,Airlines
+3261,Air China,AIR CHINA,Airlines,Yes,3261,Airlines
+3262,"Reno Air, Inc.","RENO AIR, INC.",Airlines,Yes,3262,Airlines
+3263,Airlines,NA,Airlines,Yes,3263,Airlines
+3264,Airlines,NA,Airlines,Yes,3264,Airlines
+3265,Airlines,NA,Airlines,Yes,3265,Airlines
+3266,Air Seychelles,AIR SEYCHELLES,Airlines,Yes,3266,Airlines
+3267,Air Panama,AIR PANAMA,Airlines,Yes,3267,Airlines
+3268,Airlines,NA,Airlines,Yes,3268,Airlines
+3269,Airlines,NA,Airlines,Yes,3269,Airlines
+3270,Airlines,NA,Airlines,Yes,3270,Airlines
+3271,Airlines,NA,Airlines,Yes,3271,Airlines
+3272,Airlines,NA,Airlines,Yes,3272,Airlines
+3273,Airlines,NA,Airlines,Yes,3273,Airlines
+3274,Airlines,NA,Airlines,Yes,3274,Airlines
+3275,Airlines,NA,Airlines,Yes,3275,Airlines
+3276,Airlines,NA,Airlines,Yes,3276,Airlines
+3277,Airlines,NA,Airlines,Yes,3277,Airlines
+3278,Airlines,NA,Airlines,Yes,3278,Airlines
+3279,Airlines,NA,Airlines,Yes,3279,Airlines
+3280,Air Jamaica,AIR JAMAICA,Airlines,Yes,3280,Airlines
+3281,Airlines,NA,Airlines,Yes,3281,Airlines
+3282,Air Djibouti,AIR DJIBOUTI,Airlines,Yes,3282,Airlines
+3283,Airlines,NA,Airlines,Yes,3283,Airlines
+3284,Aero Virgin Islands,AERO VIRGIN ISLANDS,Airlines,Yes,3284,Airlines
+3285,Aero Peru,AERO PERU,Airlines,Yes,3285,Airlines
+3286,Aerolineas Nicaraguensis,AEROLINEAS NICARAGUENSIS,Airlines,Yes,3286,Airlines
+3287,Aero Coach Avaiation,AERO COACH AVAIATION,Airlines,Yes,3287,Airlines
+3288,Airlines,NA,Airlines,Yes,3288,Airlines
+3289,Airlines,NA,Airlines,Yes,3289,Airlines
+3290,Airlines,NA,Airlines,Yes,3290,Airlines
+3291,Ariana Afghan,ARIANA AFGHAN,Airlines,Yes,3291,Airlines
+3292,Cyprus Airways,CYPRUS AIRWAYS,Airlines,Yes,3292,Airlines
+3293,Ecuatoriana,ECUATORIANA,Airlines,Yes,3293,Airlines
+3294,Ethiopian Airlines,ETHIOPIAN AIRLINES,Airlines,Yes,3294,Airlines
+3295,Kenya Airlines,KENYA AIRLINES,Airlines,Yes,3295,Airlines
+3296,Airlines,NA,Airlines,Yes,3296,Airlines
+3297,Airlines,NA,Airlines,Yes,3297,Airlines
+3298,Air Mauritius,AIR MAURITIUS,Airlines,Yes,3298,Airlines
+3299,Widero’s Flyveselskap,WIDERO’S FLYVESELSKAP,Airlines,Yes,3299,Airlines
+3300,Azul Air,NA,NA,Yes,NA,Car Rental
+3301,Wizz Air,NA,NA,Yes,NA,Car Rental
+3302,Flybe Ltd,NA,NA,Yes,NA,Car Rental
+3351,Affiliated Auto Rental,AFFILIATED AUTO RENTAL,Car Rental,Yes,3351,Car Rental
+3352,American Intl Rent-A-Car,AMERICAN INTL RENT-A-CAR,Car Rental,Yes,3352,Car Rental
+3353,Brooks Rent-A-Car,BROOKS RENT-A-CAR,Car Rental,Yes,3353,Car Rental
+3354,Action Auto Rental,ACTION AUTO RENTAL,Car Rental,Yes,3354,Car Rental
+3355,Car Rental,NA,Car Rental,Yes,3355,Car Rental
+3356,Car Rental,NA,Car Rental,Yes,3356,Car Rental
+3357,Hertz Rent-A-Car,HERTZ RENT-A-CAR,Car Rental,Yes,3357,Car Rental
+3358,Car Rental,NA,Car Rental,Yes,3358,Car Rental
+3359,Payless Car Rental,PAYLESS CAR RENTAL,Car Rental,Yes,3359,Car Rental
+3360,Snappy Car Rental,SNAPPY CAR RENTAL,Car Rental,Yes,3360,Car Rental
+3361,Airways Rent-A-Car,AIRWAYS RENT-A-CAR,Car Rental,Yes,3361,Car Rental
+3362,Altra Auto Rental,ALTRA AUTO RENTAL,Car Rental,Yes,3362,Car Rental
+3363,Car Rental,NA,Car Rental,Yes,3363,Car Rental
+3364,Agency Rent-A-Car,AGENCY RENT-A-CAR,Car Rental,Yes,3364,Car Rental
+3365,Car Rental,NA,Car Rental,Yes,3365,Car Rental
+3366,Budget Rent-A-Car,BUDGET RENT-A-CAR,Car Rental,Yes,3366,Car Rental
+3367,Car Rental,NA,Car Rental,Yes,3367,Car Rental
+3368,Holiday Rent-A-Wreck,HOLIDAY RENT-A-WRECK,Car Rental,Yes,3368,Car Rental
+3369,Car Rental,NA,Car Rental,Yes,3369,Car Rental
+3370,Rent-A-Wreck,RENT-A-WRECK,Car Rental,Yes,3370,Car Rental
+3371,Car Rental,NA,Car Rental,Yes,3371,Car Rental
+3372,Car Rental,NA,Car Rental,Yes,3372,Car Rental
+3373,Car Rental,NA,Car Rental,Yes,3373,Car Rental
+3374,Car Rental,NA,Car Rental,Yes,3374,Car Rental
+3375,Car Rental,NA,Car Rental,Yes,3375,Car Rental
+3376,Ajax Rent-A-Car,AJAX RENT-A-CAR,Car Rental,Yes,3376,Car Rental
+3377,Car Rental,NA,Car Rental,Yes,3377,Car Rental
+3378,Car Rental,NA,Car Rental,Yes,3378,Car Rental
+3379,Car Rental,NA,Car Rental,Yes,3379,Car Rental
+3380,Car Rental,NA,Car Rental,Yes,3380,Car Rental
+3381,Europ Car,EUROP CAR,Car Rental,Yes,3381,Car Rental
+3382,Car Rental,NA,Car Rental,Yes,3382,Car Rental
+3383,Car Rental,NA,Car Rental,Yes,3383,Car Rental
+3384,Car Rental,NA,Car Rental,Yes,3384,Car Rental
+3385,Tropical Rent-A-Car,TROPICAL RENT-A-CAR,Car Rental,Yes,3385,Car Rental
+3386,Showcase Rental Cars,SHOWCASE RENTAL CARS,Car Rental,Yes,3386,Car Rental
+3387,Alamo Rent-A-Car,ALAMO RENT-A-CAR,Car Rental,Yes,3387,Car Rental
+3388,Car Rental,NA,Car Rental,Yes,3388,Car Rental
+3389,Avis Rent-A-Car,AVIS RENT-A-CAR,Car Rental,Yes,3389,Car Rental
+3390,Dollar Rent-A-Car,DOLLAR RENT-A-CAR,Car Rental,Yes,3390,Car Rental
+3391,Europe By Car,EUROPE BY CAR,Car Rental,Yes,3391,Car Rental
+3392,Car Rental,NA,Car Rental,Yes,3392,Car Rental
+3393,National Car Rental,NATIONAL CAR RENTAL,Car Rental,Yes,3393,Car Rental
+3394,Kemwell Group Rent-A-Car,KEMWELL GROUP RENT-A-CAR,Car Rental,Yes,3394,Car Rental
+3395,Thrifty Rent-A-Car,THRIFTY RENT-A-CAR,Car Rental,Yes,3395,Car Rental
+3396,Tilden Tent-A-Car,TILDEN TENT-A-CAR,Car Rental,Yes,3396,Car Rental
+3397,Car Rental,NA,Car Rental,Yes,3397,Car Rental
+3398,Econo-Car Rent-A-Car,ECONO-CAR RENT-A-CAR,Car Rental,Yes,3398,Car Rental
+3399,Car Rental,NA,Car Rental,Yes,3399,Car Rental
+3400,Auto Host Cost Car Rentals,AUTO HOST COST CAR RENTALS,Car Rental,Yes,3400,Car Rental
+3401,Car Rental,NA,Car Rental,Yes,3401,Car Rental
+3402,Car Rental,NA,Car Rental,Yes,3402,Car Rental
+3403,Car Rental,NA,Car Rental,Yes,3403,Car Rental
+3404,Car Rental,NA,Car Rental,Yes,3404,Car Rental
+3405,Enterprise Rent-A-Car,ENTERPRISE RENT-A-CAR,Car Rental,Yes,3405,Car Rental
+3406,Car Rental,NA,Car Rental,Yes,3406,Car Rental
+3407,Car Rental,NA,Car Rental,Yes,3407,Car Rental
+3408,Car Rental,NA,Car Rental,Yes,3408,Car Rental
+3409,General Rent-A-Car,GENERAL RENT-A-CAR,Car Rental,Yes,3409,Car Rental
+3410,Car Rental,NA,Car Rental,Yes,3410,Car Rental
+3411,Car Rental,NA,Car Rental,Yes,3411,Car Rental
+3412,A-1 Rent-A-Car,A-1 RENT-A-CAR,Car Rental,Yes,3412,Car Rental
+3413,Car Rental,NA,Car Rental,Yes,3413,Car Rental
+3414,Godfrey Natl Rent-A-Car,GODFREY NATL RENT-A-CAR,Car Rental,Yes,3414,Car Rental
+3415,Car Rental,NA,Car Rental,Yes,3415,Car Rental
+3416,Car Rental,NA,Car Rental,Yes,3416,Car Rental
+3417,Car Rental,NA,Car Rental,Yes,3417,Car Rental
+3418,Car Rental,NA,Car Rental,Yes,3418,Car Rental
+3419,Alpha Rent-A-Car,ALPHA RENT-A-CAR,Car Rental,Yes,3419,Car Rental
+3420,Ansa Intl Rent-A-Car,ANSA INTL RENT-A-CAR,Car Rental,Yes,3420,Car Rental
+3421,Allstae Rent-A-Car,ALLSTAE RENT-A-CAR,Car Rental,Yes,3421,Car Rental
+3422,Car Rental,NA,Car Rental,Yes,3422,Car Rental
+3423,Avcar Rent-A-Car,AVCAR RENT-A-CAR,Car Rental,Yes,3423,Car Rental
+3424,Car Rental,NA,Car Rental,Yes,3424,Car Rental
+3425,Automate Rent-A-Car,AUTOMATE RENT-A-CAR,Car Rental,Yes,3425,Car Rental
+3426,Car Rental,NA,Car Rental,Yes,3426,Car Rental
+3427,Avon Rent-A-Car,AVON RENT-A-CAR,Car Rental,Yes,3427,Car Rental
+3428,Carey Rent-A-Car,CAREY RENT-A-CAR,Car Rental,Yes,3428,Car Rental
+3429,Insurance Rent-A-Car,INSURANCE RENT-A-CAR,Car Rental,Yes,3429,Car Rental
+3430,Major Rent-A-Car,MAJOR RENT-A-CAR,Car Rental,Yes,3430,Car Rental
+3431,Replacement Rent-A-Car,REPLACEMENT RENT-A-CAR,Car Rental,Yes,3431,Car Rental
+3432,Reserve Rent-A-Car,RESERVE RENT-A-CAR,Car Rental,Yes,3432,Car Rental
+3433,Ugly Duckling Rent-A-Car,UGLY DUCKLING RENT-A-CAR,Car Rental,Yes,3433,Car Rental
+3434,Usa Rent-A-Car,USA RENT-A-CAR,Car Rental,Yes,3434,Car Rental
+3435,Value Rent-A-Car,VALUE RENT-A-CAR,Car Rental,Yes,3435,Car Rental
+3436,Autohansa Rent-A-Car,AUTOHANSA RENT-A-CAR,Car Rental,Yes,3436,Car Rental
+3437,Cite Rent-A-Car,CITE RENT-A-CAR,Car Rental,Yes,3437,Car Rental
+3438,Interent Rent-A-Car,INTERENT RENT-A-CAR,Car Rental,Yes,3438,Car Rental
+3439,Milleville Rent-A-Car,MILLEVILLE RENT-A-CAR,Car Rental,Yes,3439,Car Rental
+3440,Via Route Rent-A-Car,VIA ROUTE RENT-A-CAR,Car Rental,Yes,3440,Car Rental
+3441,Car Rental,NA,Car Rental,Yes,3441,Car Rental
+3501,"Holiday Inns, Holiday Inn Express",HOLIDAY INNS,Hotels/Motels/Inns/Resorts,Yes,3501,Lodging
+3502,Best Western Hotels,BEST WESTERN HOTELS,Hotels/Motels/Inns/Resorts,Yes,3502,Lodging
+3503,Sheraton Hotels,SHERATON HOTELS,Hotels/Motels/Inns/Resorts,Yes,3503,Lodging
+3504,Hilton Hotels,HILTON HOTELS,Hotels/Motels/Inns/Resorts,Yes,3504,Lodging
+3505,Forte Hotels,FORTE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3505,Lodging
+3506,Golden Tulip Hotels,GOLDEN TULIP HOTELS,Hotels/Motels/Inns/Resorts,Yes,3506,Lodging
+3507,Friendship Inns,FRIENDSHIP INNS,Hotels/Motels/Inns/Resorts,Yes,3507,Lodging
+3508,"Quality Inns, Quality Suites",QUALITY INNS,Hotels/Motels/Inns/Resorts,Yes,3508,Lodging
+3509,Marriott Hotels,MARRIOTT HOTELS,Hotels/Motels/Inns/Resorts,Yes,3509,Lodging
+3510,"Days Inn, Daystop",DAYS INN,Hotels/Motels/Inns/Resorts,Yes,3510,Lodging
+3511,Arabella Hotels,ARABELLA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3511,Lodging
+3512,Inter-Continental Hotels,INTER-CONTINENTAL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3512,Lodging
+3513,Westin Hotels,WESTIN HOTELS,Hotels/Motels/Inns/Resorts,Yes,3513,Lodging
+3514,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3514,Lodging
+3515,Rodeway Inns,RODEWAY INNS,Hotels/Motels/Inns/Resorts,Yes,3515,Lodging
+3516,La Quinta Motor Inns,LA QUINTA MOTOR INNS,Hotels/Motels/Inns/Resorts,Yes,3516,Lodging
+3517,Americana Hotels,AMERICANA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3517,Lodging
+3518,Sol Hotels,SOL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3518,Lodging
+3519,Pullman International Hotels,PULLMAN INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3519,Lodging
+3520,Meridien Hotels,MERIDIEN HOTELS,Hotels/Motels/Inns/Resorts,Yes,3520,Lodging
+3521,Crest Hotels (See Forte Hotels),CREST HOTELS (see FORTE HOTELS),Hotels/Motels/Inns/Resorts,Yes,3521,Lodging
+3522,Tokyo Hotel,TOKYO HOTEL,Hotels/Motels/Inns/Resorts,Yes,3522,Lodging
+3523,Pennsula Hotel,PENNSULA HOTEL,Hotels/Motels/Inns/Resorts,Yes,3523,Lodging
+3524,Welcomgroup Hotels,WELCOMGROUP HOTELS,Hotels/Motels/Inns/Resorts,Yes,3524,Lodging
+3525,Dunfey Hotels,DUNFEY HOTELS,Hotels/Motels/Inns/Resorts,Yes,3525,Lodging
+3526,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3526,Lodging
+3527,Downtowner-Passport Hotel,DOWNTOWNER-PASSPORT HOTEL,Hotels/Motels/Inns/Resorts,Yes,3527,Lodging
+3528,"Red Lion Hotels, Red Lion Inns",RED LION HOTELS,Hotels/Motels/Inns/Resorts,Yes,3528,Lodging
+3529,Cp Hotels,CP HOTELS,Hotels/Motels/Inns/Resorts,Yes,3529,Lodging
+3530,"Renaissance Hotels, Stouffer Hotels",RENAISSANCE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3530,Lodging
+3531,Astir Hotels,ASTIR HOTELS,Hotels/Motels/Inns/Resorts,Yes,3531,Lodging
+3532,Sun Route Hotels,SUN ROUTE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3532,Lodging
+3533,Hotel Ibis,HOTEL IBIS,Hotels/Motels/Inns/Resorts,Yes,3533,Lodging
+3534,Southern Pacific Hotels,SOUTHERN PACIFIC HOTELS,Hotels/Motels/Inns/Resorts,Yes,3534,Lodging
+3535,Hilton International,HILTON INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes,3535,Lodging
+3536,Amfac Hotels,AMFAC HOTELS,Hotels/Motels/Inns/Resorts,Yes,3536,Lodging
+3537,Ana Hotel,ANA HOTEL,Hotels/Motels/Inns/Resorts,Yes,3537,Lodging
+3538,Concorde Hotels,CONCORDE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3538,Lodging
+3539,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3539,Lodging
+3540,Iberotel Hotels,IBEROTEL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3540,Lodging
+3541,Hotel Okura,HOTEL OKURA,Hotels/Motels/Inns/Resorts,Yes,3541,Lodging
+3542,Royal Hotels,ROYAL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3542,Lodging
+3543,Four Seasons Hotels,FOUR SEASONS HOTELS,Hotels/Motels/Inns/Resorts,Yes,3543,Lodging
+3544,Ciga Hotels,CIGA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3544,Lodging
+3545,Shangri-La International,SHANGRI-LA INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes,3545,Lodging
+3546,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3546,Lodging
+3547,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3547,Lodging
+3548,Hoteles Melia,HOTELES MELIA,Hotels/Motels/Inns/Resorts,Yes,3548,Lodging
+3549,Auberge Des Governeurs,AUBERGE DES GOVERNEURS,Hotels/Motels/Inns/Resorts,Yes,3549,Lodging
+3550,Regal 8 Inns,REGAL 8 INNS,Hotels/Motels/Inns/Resorts,Yes,3550,Lodging
+3551,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3551,Lodging
+3552,Coast Hotels,COAST HOTELS,Hotels/Motels/Inns/Resorts,Yes,3552,Lodging
+3553,Park Inns International,PARK INNS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes,3553,Lodging
+3554,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3554,Lodging
+3555,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3555,Lodging
+3556,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3556,Lodging
+3557,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3557,Lodging
+3558,Jolly Hotels,JOLLY HOTELS,Hotels/Motels/Inns/Resorts,Yes,3558,Lodging
+3559,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3559,Lodging
+3560,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3560,Lodging
+3561,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3561,Lodging
+3562,Comfort Inns,COMFORT INNS,Hotels/Motels/Inns/Resorts,Yes,3562,Lodging
+3563,Journey’s End Motls,JOURNEY’S END MOTLS,Hotels/Motels/Inns/Resorts,Yes,3563,Lodging
+3564,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3564,Lodging
+3565,Relax Inns,RELAX INNS,Hotels/Motels/Inns/Resorts,Yes,3565,Lodging
+3566,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3566,Lodging
+3567,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3567,Lodging
+3568,Ladbroke Hotels,LADBROKE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3568,Lodging
+3569,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3569,Lodging
+3570,Forum Hotels,FORUM HOTELS,Hotels/Motels/Inns/Resorts,Yes,3570,Lodging
+3571,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3571,Lodging
+3572,Miyako Hotels,MIYAKO HOTELS,Hotels/Motels/Inns/Resorts,Yes,3572,Lodging
+3573,Sandman Hotels,SANDMAN HOTELS,Hotels/Motels/Inns/Resorts,Yes,3573,Lodging
+3574,Venture Inns,VENTURE INNS,Hotels/Motels/Inns/Resorts,Yes,3574,Lodging
+3575,Vagabond Hotels,VAGABOND HOTELS,Hotels/Motels/Inns/Resorts,Yes,3575,Lodging
+3576,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3576,Lodging
+3577,Mandarin Oriental Hotel,MANDARIN ORIENTAL HOTEL,Hotels/Motels/Inns/Resorts,Yes,3577,Lodging
+3578,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3578,Lodging
+3579,Hotel Mercure,HOTEL MERCURE,Hotels/Motels/Inns/Resorts,Yes,3579,Lodging
+3580,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3580,Lodging
+3581,Delta Hotel,DELTA HOTEL,Hotels/Motels/Inns/Resorts,Yes,3581,Lodging
+3582,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3582,Lodging
+3583,Sas Hotels,SAS HOTELS,Hotels/Motels/Inns/Resorts,Yes,3583,Lodging
+3584,Princess Hotels International,PRINCESS HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes,3584,Lodging
+3585,Hungar Hotels,HUNGAR HOTELS,Hotels/Motels/Inns/Resorts,Yes,3585,Lodging
+3586,Sokos Hotels,SOKOS HOTELS,Hotels/Motels/Inns/Resorts,Yes,3586,Lodging
+3587,Doral Hotels,DORAL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3587,Lodging
+3588,Helmsley Hotels,HELMSLEY HOTELS,Hotels/Motels/Inns/Resorts,Yes,3588,Lodging
+3589,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3589,Lodging
+3590,Fairmont Hotels,FAIRMONT HOTELS,Hotels/Motels/Inns/Resorts,Yes,3590,Lodging
+3591,Sonesta Hotels,SONESTA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3591,Lodging
+3592,Omni Hotels,OMNI HOTELS,Hotels/Motels/Inns/Resorts,Yes,3592,Lodging
+3593,Cunard Hotels,CUNARD HOTELS,Hotels/Motels/Inns/Resorts,Yes,3593,Lodging
+3594,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3594,Lodging
+3595,Hospitality International,HOSPITALITY INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes,3595,Lodging
+3596,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3596,Lodging
+3597,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3597,Lodging
+3598,Regent International Hotels,REGENT INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3598,Lodging
+3599,Pannonia Hotels,PANNONIA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3599,Lodging
+3600,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3600,Lodging
+3601,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3601,Lodging
+3602,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3602,Lodging
+3603,Noah’s Hotels,NOAH’S HOTELS,Hotels/Motels/Inns/Resorts,Yes,3603,Lodging
+3604,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3604,Lodging
+3605,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3605,Lodging
+3606,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3606,Lodging
+3607,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3607,Lodging
+3608,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3608,Lodging
+3609,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3609,Lodging
+3610,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3610,Lodging
+3611,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3611,Lodging
+3612,Movenpick Hotels,MOVENPICK HOTELS,Hotels/Motels/Inns/Resorts,Yes,3612,Lodging
+3613,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3613,Lodging
+3614,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3614,Lodging
+3615,Travelodge,TRAVELODGE,Hotels/Motels/Inns/Resorts,Yes,3615,Lodging
+3616,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3616,Lodging
+3617,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3617,Lodging
+3618,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3618,Lodging
+3619,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3619,Lodging
+3620,Telford International,TELFORD INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes,3620,Lodging
+3621,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3621,Lodging
+3622,Merlin Hotels,MERLIN HOTELS,Hotels/Motels/Inns/Resorts,Yes,3622,Lodging
+3623,Dorint Hotels,DORINT HOTELS,Hotels/Motels/Inns/Resorts,Yes,3623,Lodging
+3624,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3624,Lodging
+3625,Hotle Universale,HOTLE UNIVERSALE,Hotels/Motels/Inns/Resorts,Yes,3625,Lodging
+3626,Prince Hotels,PRINCE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3626,Lodging
+3627,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3627,Lodging
+3628,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3628,Lodging
+3629,Dan Hotels,DAN HOTELS,Hotels/Motels/Inns/Resorts,Yes,3629,Lodging
+3630,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3630,Lodging
+3631,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3631,Lodging
+3632,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3632,Lodging
+3633,Rank Hotels,RANK HOTELS,Hotels/Motels/Inns/Resorts,Yes,3633,Lodging
+3634,Swissotel,SWISSOTEL,Hotels/Motels/Inns/Resorts,Yes,3634,Lodging
+3635,Reso Hotels,RESO HOTELS,Hotels/Motels/Inns/Resorts,Yes,3635,Lodging
+3636,Sarova Hotels,SAROVA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3636,Lodging
+3637,"Ramada Inns, Ramada Limited",RAMADA INNS,Hotels/Motels/Inns/Resorts,Yes,3637,Lodging
+3638,"Ho Jo Inn, Howard Johnson",HO JO INN,Hotels/Motels/Inns/Resorts,Yes,3638,Lodging
+3639,Mount Charlotte Thistle,MOUNT CHARLOTTE THISTLE,Hotels/Motels/Inns/Resorts,Yes,3639,Lodging
+3640,Hyatt Hotel,HYATT HOTEL,Hotels/Motels/Inns/Resorts,Yes,3640,Lodging
+3641,Sofitel Hotels,SOFITEL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3641,Lodging
+3642,Novotel Hotels,NOVOTEL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3642,Lodging
+3643,Steigenberger Hotels,STEIGENBERGER HOTELS,Hotels/Motels/Inns/Resorts,Yes,3643,Lodging
+3644,Econo Lodges,ECONO LODGES,Hotels/Motels/Inns/Resorts,Yes,3644,Lodging
+3645,Queens Moat Houses,QUEENS MOAT HOUSES,Hotels/Motels/Inns/Resorts,Yes,3645,Lodging
+3646,Swallow Hotels,SWALLOW HOTELS,Hotels/Motels/Inns/Resorts,Yes,3646,Lodging
+3647,Husa Hotels,HUSA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3647,Lodging
+3648,De Vere Hotels,DE VERE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3648,Lodging
+3649,Radisson Hotels,RADISSON HOTELS,Hotels/Motels/Inns/Resorts,Yes,3649,Lodging
+3650,Red Rook Inns,RED ROOK INNS,Hotels/Motels/Inns/Resorts,Yes,3650,Lodging
+3651,Imperial London Hotel,IMPERIAL LONDON HOTEL,Hotels/Motels/Inns/Resorts,Yes,3651,Lodging
+3652,Embassy Hotels,EMBASSY HOTELS,Hotels/Motels/Inns/Resorts,Yes,3652,Lodging
+3653,Penta Hotels,PENTA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3653,Lodging
+3654,Loews Hotels,LOEWS HOTELS,Hotels/Motels/Inns/Resorts,Yes,3654,Lodging
+3655,Scandic Hotels,SCANDIC HOTELS,Hotels/Motels/Inns/Resorts,Yes,3655,Lodging
+3656,Sara Hotels,SARA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3656,Lodging
+3657,Oberoi Hotels,OBEROI HOTELS,Hotels/Motels/Inns/Resorts,Yes,3657,Lodging
+3658,Otani Hotels,OTANI HOTELS,Hotels/Motels/Inns/Resorts,Yes,3658,Lodging
+3659,Taj Hotels International,TAJ HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,Yes,3659,Lodging
+3660,Knights Inns,KNIGHTS INNS,Hotels/Motels/Inns/Resorts,Yes,3660,Lodging
+3661,Metropole Hotels,METROPOLE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3661,Lodging
+3662,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3662,Lodging
+3663,Hoteles El Presidents,HOTELES EL PRESIDENTS,Hotels/Motels/Inns/Resorts,Yes,3663,Lodging
+3664,Flag Inn,FLAG INN,Hotels/Motels/Inns/Resorts,Yes,3664,Lodging
+3665,Hampton Inns,HAMPTON INNS,Hotels/Motels/Inns/Resorts,Yes,3665,Lodging
+3666,Stakis Hotels,STAKIS HOTELS,Hotels/Motels/Inns/Resorts,Yes,3666,Lodging
+3667,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3667,Lodging
+3668,Maritim Hotels,MARITIM HOTELS,Hotels/Motels/Inns/Resorts,Yes,3668,Lodging
+3669,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3669,Lodging
+3670,Arcard Hotels,ARCARD HOTELS,Hotels/Motels/Inns/Resorts,Yes,3670,Lodging
+3671,Arctia Hotels,ARCTIA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3671,Lodging
+3672,Campaniel Hotels,CAMPANIEL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3672,Lodging
+3673,Ibusz Hotels,IBUSZ HOTELS,Hotels/Motels/Inns/Resorts,Yes,3673,Lodging
+3674,Rantasipi Hotels,RANTASIPI HOTELS,Hotels/Motels/Inns/Resorts,Yes,3674,Lodging
+3675,Interhotel Cedok,INTERHOTEL CEDOK,Hotels/Motels/Inns/Resorts,Yes,3675,Lodging
+3676,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3676,Lodging
+3677,Climat De France Hotels,CLIMAT DE FRANCE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3677,Lodging
+3678,Cumulus Hotels,CUMULUS HOTELS,Hotels/Motels/Inns/Resorts,Yes,3678,Lodging
+3679,Danubius Hotel,DANUBIUS HOTEL,Hotels/Motels/Inns/Resorts,Yes,3679,Lodging
+3680,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3680,Lodging
+3681,Adams Mark Hotels,ADAMS MARK HOTELS,Hotels/Motels/Inns/Resorts,Yes,3681,Lodging
+3682,Allstar Inns,ALLSTAR INNS,Hotels/Motels/Inns/Resorts,Yes,3682,Lodging
+3683,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3683,Lodging
+3684,Budget Host Inns,BUDGET HOST INNS,Hotels/Motels/Inns/Resorts,Yes,3684,Lodging
+3685,Budgetel Hotels,BUDGETEL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3685,Lodging
+3686,Suisse Chalets,SUISSE CHALETS,Hotels/Motels/Inns/Resorts,Yes,3686,Lodging
+3687,Clarion Hotels,CLARION HOTELS,Hotels/Motels/Inns/Resorts,Yes,3687,Lodging
+3688,Compri Hotels,COMPRI HOTELS,Hotels/Motels/Inns/Resorts,Yes,3688,Lodging
+3689,Consort Hotels,CONSORT HOTELS,Hotels/Motels/Inns/Resorts,Yes,3689,Lodging
+3690,Courtyard By Marriott,COURTYARD BY MARRIOTT,Hotels/Motels/Inns/Resorts,Yes,3690,Lodging
+3691,Dillion Inns,DILLION INNS,Hotels/Motels/Inns/Resorts,Yes,3691,Lodging
+3692,Doubletree Hotels,DOUBLETREE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3692,Lodging
+3693,Drury Inns,DRURY INNS,Hotels/Motels/Inns/Resorts,Yes,3693,Lodging
+3694,Economy Inns Of America,ECONOMY INNS OF AMERICA,Hotels/Motels/Inns/Resorts,Yes,3694,Lodging
+3695,Embassy Suites,EMBASSY SUITES,Hotels/Motels/Inns/Resorts,Yes,3695,Lodging
+3696,Exel Inns,EXEL INNS,Hotels/Motels/Inns/Resorts,Yes,3696,Lodging
+3697,Farfield Hotels,FARFIELD HOTELS,Hotels/Motels/Inns/Resorts,Yes,3697,Lodging
+3698,Harley Hotels,HARLEY HOTELS,Hotels/Motels/Inns/Resorts,Yes,3698,Lodging
+3699,Midway Motor Lodge,MIDWAY MOTOR LODGE,Hotels/Motels/Inns/Resorts,Yes,3699,Lodging
+3700,Motel 6,MOTEL 6,Hotels/Motels/Inns/Resorts,Yes,3700,Lodging
+3701,Guest Quarters (Formally Pickett Suite Hotels),GUEST QUARTERS (Formally PICKETT SUITE HOTELS),Hotels/Motels/Inns/Resorts,Yes,3701,Lodging
+3702,The Registry Hotels,THE REGISTRY HOTELS,Hotels/Motels/Inns/Resorts,Yes,3702,Lodging
+3703,Residence Inns,RESIDENCE INNS,Hotels/Motels/Inns/Resorts,Yes,3703,Lodging
+3704,Royce Hotels,ROYCE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3704,Lodging
+3705,Sandman Inns,SANDMAN INNS,Hotels/Motels/Inns/Resorts,Yes,3705,Lodging
+3706,Shilo Inns,SHILO INNS,Hotels/Motels/Inns/Resorts,Yes,3706,Lodging
+3707,Shoney’s Inns,SHONEY’S INNS,Hotels/Motels/Inns/Resorts,Yes,3707,Lodging
+3708,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3708,Lodging
+3709,Super8 Motels,SUPER8 MOTELS,Hotels/Motels/Inns/Resorts,Yes,3709,Lodging
+3710,The Ritz Carlton Hotels,THE RITZ CARLTON HOTELS,Hotels/Motels/Inns/Resorts,Yes,3710,Lodging
+3711,Flag Inns (Ausralia),FLAG INNS (AUSRALIA),Hotels/Motels/Inns/Resorts,Yes,3711,Lodging
+3712,Golden Chain Hotel,GOLDEN CHAIN HOTEL,Hotels/Motels/Inns/Resorts,Yes,3712,Lodging
+3713,Quality Pacific Hotel,QUALITY PACIFIC HOTEL,Hotels/Motels/Inns/Resorts,Yes,3713,Lodging
+3714,Four Seasons Hotel (Australia),FOUR SEASONS HOTEL (AUSTRALIA),Hotels/Motels/Inns/Resorts,Yes,3714,Lodging
+3715,Farifield Inn,FARIFIELD INN,Hotels/Motels/Inns/Resorts,Yes,3715,Lodging
+3716,Carlton Hotels,CARLTON HOTELS,Hotels/Motels/Inns/Resorts,Yes,3716,Lodging
+3717,City Lodge Hotels,CITY LODGE HOTELS,Hotels/Motels/Inns/Resorts,Yes,3717,Lodging
+3718,Karos Hotels,KAROS HOTELS,Hotels/Motels/Inns/Resorts,Yes,3718,Lodging
+3719,Protea Hotels,PROTEA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3719,Lodging
+3720,Southern Sun Hotels,SOUTHERN SUN HOTELS,Hotels/Motels/Inns/Resorts,Yes,3720,Lodging
+3721,Hilton Conrad,HILTON CONRAD,Hotels/Motels/Inns/Resorts,Yes,3721,Lodging
+3722,Wyndham Hotel And Resorts,WYNDHAM HOTEL AND RESORTS,Hotels/Motels/Inns/Resorts,Yes,3722,Lodging
+3723,Rica Hotels,RICA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3723,Lodging
+3724,Iner Nor Hotels,INER NOR HOTELS,Hotels/Motels/Inns/Resorts,Yes,3724,Lodging
+3725,Seaines Planation,SEAINES PLANATION,Hotels/Motels/Inns/Resorts,Yes,3725,Lodging
+3726,Rio Suites,RIO SUITES,Hotels/Motels/Inns/Resorts,Yes,3726,Lodging
+3727,Broadmoor Hotel,BROADMOOR HOTEL,Hotels/Motels/Inns/Resorts,Yes,3727,Lodging
+3728,Bally’s Hotel And Casino,BALLY’S HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes,3728,Lodging
+3729,John Ascuaga’s Nugget,JOHN ASCUAGA’S NUGGET,Hotels/Motels/Inns/Resorts,Yes,3729,Lodging
+3730,Mgm Grand Hotel,MGM GRAND HOTEL,Hotels/Motels/Inns/Resorts,Yes,3730,Lodging
+3731,Harrah’s Hotels And Casinos,HARRAH’S HOTELS AND CASINOS,Hotels/Motels/Inns/Resorts,Yes,3731,Lodging
+3732,Opryland Hotel,OPRYLAND HOTEL,Hotels/Motels/Inns/Resorts,Yes,3732,Lodging
+3733,Boca Raton Resort,BOCA RATON RESORT,Hotels/Motels/Inns/Resorts,Yes,3733,Lodging
+3734,Harvey/Bristol Hotels,HARVEY/BRISTOL HOTELS,Hotels/Motels/Inns/Resorts,Yes,3734,Lodging
+3735,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3735,Lodging
+3736,Colorado Belle/Edgewater Resort,COLORADO BELLE/EDGEWATER RESORT,Hotels/Motels/Inns/Resorts,Yes,3736,Lodging
+3737,Riviera Hotel And Casino,RIVIERA HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,Yes,3737,Lodging
+3738,Tropicana Resort And Casino,TROPICANA RESORT AND CASINO,Hotels/Motels/Inns/Resorts,Yes,3738,Lodging
+3739,Woodside Hotels And Resorts,WOODSIDE HOTELS AND RESORTS,Hotels/Motels/Inns/Resorts,Yes,3739,Lodging
+3740,Townplace Suites,TOWNPLACE SUITES,Hotels/Motels/Inns/Resorts,Yes,3740,Lodging
+3741,Millenium Broadway Hotel,MILLENIUM BROADWAY HOTEL,Hotels/Motels/Inns/Resorts,Yes,3741,Lodging
+3742,Club Med,CLUB MED,Hotels/Motels/Inns/Resorts,Yes,3742,Lodging
+3743,Biltmore Hotel And Suites,BILTMORE HOTEL AND SUITES,Hotels/Motels/Inns/Resorts,Yes,3743,Lodging
+3744,Carefree Resorts,CAREFREE RESORTS,Hotels/Motels/Inns/Resorts,Yes,3744,Lodging
+3745,St. Regis Hotel,ST. REGIS HOTEL,Hotels/Motels/Inns/Resorts,Yes,3745,Lodging
+3746,The Eliot Hotel,THE ELIOT HOTEL,Hotels/Motels/Inns/Resorts,Yes,3746,Lodging
+3747,Clubcorp/Club Resorts,CLUBCORP/CLUB RESORTS,Hotels/Motels/Inns/Resorts,Yes,3747,Lodging
+3748,Welesley Inns,WELESLEY INNS,Hotels/Motels/Inns/Resorts,Yes,3748,Lodging
+3749,The Beverly Hills Hotel,THE BEVERLY HILLS HOTEL,Hotels/Motels/Inns/Resorts,Yes,3749,Lodging
+3750,Crowne Plaza Hotels,CROWNE PLAZA HOTELS,Hotels/Motels/Inns/Resorts,Yes,3750,Lodging
+3751,Homewood Suites,HOMEWOOD SUITES,Hotels/Motels/Inns/Resorts,Yes,3751,Lodging
+3752,Peabody Hotels,PEABODY HOTELS,Hotels/Motels/Inns/Resorts,Yes,3752,Lodging
+3753,Greenbriah Resorts,GREENBRIAH RESORTS,Hotels/Motels/Inns/Resorts,Yes,3753,Lodging
+3754,Amelia Island Planation,AMELIA ISLAND PLANATION,Hotels/Motels/Inns/Resorts,Yes,3754,Lodging
+3755,The Homestead,THE HOMESTEAD,Hotels/Motels/Inns/Resorts,Yes,3755,Lodging
+3756,South Seas Resorts,SOUTH SEAS RESORTS,Hotels/Motels/Inns/Resorts,Yes,3756,Lodging
+3757,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3757,Lodging
+3758,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3758,Lodging
+3759,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3759,Lodging
+3760,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3760,Lodging
+3761,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3761,Lodging
+3762,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3762,Lodging
+3763,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3763,Lodging
+3764,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3764,Lodging
+3765,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3765,Lodging
+3766,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3766,Lodging
+3767,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3767,Lodging
+3768,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3768,Lodging
+3769,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3769,Lodging
+3770,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3770,Lodging
+3771,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3771,Lodging
+3772,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3772,Lodging
+3773,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3773,Lodging
+3774,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3774,Lodging
+3775,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3775,Lodging
+3776,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3776,Lodging
+3777,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3777,Lodging
+3778,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3778,Lodging
+3779,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3779,Lodging
+3780,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3780,Lodging
+3781,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3781,Lodging
+3782,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3782,Lodging
+3783,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3783,Lodging
+3784,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3784,Lodging
+3785,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3785,Lodging
+3786,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3786,Lodging
+3787,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3787,Lodging
+3788,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3788,Lodging
+3789,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3789,Lodging
+3790,Hotels/Motels/Inns/Resorts,NA,Hotels/Motels/Inns/Resorts,Yes,3790,Lodging
+3791,Staybridge Suites,NA,NA,Yes,NA,Lodging
+3792,Claridge Casino Hotel,NA,NA,Yes,NA,Lodging
+3793,Flamingo Hotels,NA,NA,Yes,NA,Lodging
+3794,Grand Casino Hotels,NA,NA,Yes,NA,Lodging
+3795,Paris Las Vegas Hotel,NA,NA,Yes,NA,Lodging
+3796,Peppermill Hotel Casino,NA,NA,Yes,NA,Lodging
+3797,Atlantic City Hilton Resorts,NA,NA,Yes,NA,Lodging
+3798,Embassy Vacation Resort,NA,NA,Yes,NA,Lodging
+3799,Hale Koa Hotel,NA,NA,Yes,NA,Lodging
+3800,Homestead Suites,NA,NA,Yes,NA,Lodging
+3801,Wilderness Hotel And Resort,NA,NA,Yes,NA,Lodging
+3802,The Palace Hotel,NA,NA,Yes,NA,Lodging
+3807,Element,NA,NA,Yes,NA,Lodging
+3808,Lxr,NA,NA,Yes,NA,Lodging
+3811,Premier Inn,NA,NA,Yes,NA,Lodging
+3812,Hyatt Place,NA,NA,Yes,NA,Lodging
+3813,Hotel Indigo,NA,NA,Yes,NA,Lodging
+3814,The Roosevelt Hotel Ny,NA,NA,Yes,NA,Lodging
+3815,Nickelodeon Family Suites By Holiday Inn,NA,NA,Yes,NA,Lodging
+3816,Home2suites,NA,NA,NA,3816,Lodging
+3818,Mainstay Suites,NA,NA,Yes,NA,Lodging
+3819,Oxford Suites,NA,NA,Yes,NA,Lodging
+3820,Jumeirah Essex House,NA,NA,Yes,NA,Lodging
+3821,Caribe Royale,NA,NA,Yes,NA,Lodging
+3822,Crossland,NA,NA,Yes,NA,Lodging
+3823,Grand Sierra Resort,NA,NA,Yes,NA,Lodging
+3824,Aria,NA,NA,Yes,NA,Lodging
+3825,Vdara,NA,NA,Yes,NA,Lodging
+3826,Autograph,NA,NA,Yes,NA,Lodging
+3827,Galt House,NA,NA,Yes,NA,Lodging
+3828,Cosmopolitan Of Las Vegas,NA,NA,Yes,NA,Lodging
+3829,Country Inn By Carlson,NA,NA,Yes,NA,Lodging
+3830,Park Plaza Hotel,NA,NA,Yes,NA,Lodging
+3831,Waldorf,NA,NA,Yes,NA,Lodging
+3832,Curio Hotels,NA,NA,Yes,NA,Lodging
+3833,Canopy,NA,NA,Yes,NA,Lodging
+3834,Baymont Inn & Suites,NA,NA,Yes,NA,Lodging
+3835,* Masters Economy Inns,* MASTERS ECONOMY INNS,NA,NA,3835,Lodging
+3836,Hawthorn By Wyndham,NA,NA,Yes,NA,Lodging
+3837,Hoshino Resorts,NA,NA,Yes,NA,Lodging
+3838,Kimpton Hotels,NA,NA,Yes,NA,Lodging
+4011,Railroads,NA,Railroads,No1.6041-3(c),4011,Transportation Services
+4111,"Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",Yes,4111,Transportation Services
+4112,Passenger Railways,Passenger Railways,Passenger Railways,Yes,4112,Transportation Services
+4119,Ambulance Services,Ambulance Services,Ambulance Services,Yes,4119,Transportation Services
+4121,Taxicabs and Limousines,Taxicabs and Limousines,Taxicabs/Limousines,Yes,4121,Transportation Services
+4131,"Bus Lines, Including Charters, Tour Buses","Bus Lines, Including Charters, Tour Buses",Bus Lines,Yes,4131,Transportation Services
+4214,"Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local",Motor Freight Carriers,"Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services",No1.6041-3(c),4214,Transportation Services
+4215,"Courier Services – Air or Ground, Freight forwarders",Courier Services – Air or Ground,Courier Services,Yes,4215,Transportation Services
+4225,"Public warehousing, Storage","Warehousing, Public","Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage",No1.6041-3(c),4225,Transportation Services
+4411,Cruise and Steamship Lines,Cruise Lines,Cruise Lines,Yes,4411,Transportation Services
+4457,Boat Rentals and Leases,Boat Rentals and Leases,Boat Rentals and Leases,Yes,4457,Transportation Services
+4468,"Marinas, Marine Service, and Supplies","Marinas, Marine Service, and Supplies","Marinas, Service and Supplies",Yes,4468,Transportation Services
+4511,"Airlines, Air Carriers (not listed elsewhere)","Airlines, Air Carriers (not listed elsewhere)","Airlines, Air Carriers",Yes,4511,Transportation Services
+4582,"Airports, Airport Terminals, Flying Fields","Airports, Airport Terminals","Airports, Flying Fields",Yes,4582,Transportation Services
+4722,Travel Agencies and Tour Operations,Travel Agencies and Tour Operations,"Travel Agencies, Tour Operators",Yes,4722,Transportation Services
+4723,Package Tour Operators (For use in Germany only),Package Tour Operators (For use in Germany only),TUI Travel - Germany,Yes,4723,Transportation Services
+4784,Toll and Bridge Fees,Toll and Bridge Fees,Tolls/Bridge Fees,No1.6041-3(c),4784,Transportation Services
+4789,"Transportation Services, Not elsewhere classified)","Transportation Services, Not elsewhere classified)",Transportation Services (Not Elsewhere Classified),Yes,4789,Transportation Services
+4812,Telecommunications Equipment including telephone sales,Telecommunications Equipment including telephone sales,Telecommunication Equipment and Telephone Sales,No1.6041-3(c),4812,Utility Services
+4814,"Fax services, Telecommunication Services",Fax services,Telecommunication Services,No1.6041-3(c),4814,Utility Services
+4815,VisaPhone,VisaPhone,NA,NA,4815,Utility Services
+4816,Computer Network Services,NA,Computer Network Services,No1.6041-3(c),4816,Utility Services
+4821,Telegraph services,Telegraph services,Telegraph Services,No1.6041-3(c),4821,Utility Services
+4829,Money Orders – Wire Transfer,Money Orders – Wire Transfer,"Wires, Money Orders",No1.6041-3(c),4829,Utility Services
+4899,Cable and other pay television (previously Cable Services),Cable and other pay television (previously Cable Services),"Cable, Satellite, and Other Pay Television and Radio",No1.6041-3(c),4899,Utility Services
+4900,"Electric, Gas, Sanitary and Water Utilities","Electric, Gas, Sanitary and Water Utilities",Utilities,No1.6041-3(c),4900,Utility Services
+5013,Motor vehicle supplies and new parts,Motor vehicle supplies and new parts,Motor Vehicle Supplies and New Parts,No1.6041-3(c),5013,Retail Outlet Services
+5021,Office and Commercial Furniture,Office and Commercial Furniture,Office and Commercial Furniture,No1.6041-3(c),5021,Retail Outlet Services
+5039,"Construction Materials, Not Elsewhere Classified","Construction Materials, Not Elsewhere Classified",Construction Materials (Not Elsewhere Classified),No1.6041-3(c),5039,Retail Outlet Services
+5044,"Office, Photographic, Photocopy, and Microfilm Equipment","Office, Photographic, Photocopy, and Microfilm Equipment","Photographic, Photocopy, Microfilm Equipment, and Supplies",No1.6041-3(c),5044,Retail Outlet Services
+5045,"Computers, Computer Peripheral Equipment, Software","Computers, Computer Peripheral Equipment, Software","Computers, Peripherals, and Software",No1.6041-3(c),5045,Retail Outlet Services
+5046,"Commercial Equipment, Not Elsewhere Classified","Commercial Equipment, Not Elsewhere Classified",Commercial Equipment (Not Elsewhere Classified),No1.6041-3(c),5046,Retail Outlet Services
+5047,"Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental, Ophthalmic, and Hospital Equipment and Supplies",No1.6041-3(c),5047,Retail Outlet Services
+5051,Metal Service Centers and Offices,Metal Service Centers and Offices,Metal Service Centers,No1.6041-3(c),5051,Retail Outlet Services
+5065,Electrical Parts and Equipment,Electrical Parts and Equipment,Electrical Parts and Equipment,No1.6041-3(c),5065,Retail Outlet Services
+5072,Hardware Equipment and Supplies,Hardware Equipment and Supplies,"Hardware, Equipment, and Supplies",No1.6041-3(c),5072,Retail Outlet Services
+5074,Plumbing and Heating Equipment and Supplies,Plumbing and Heating Equipment and Supplies,"Plumbing, Heating Equipment, and Supplies",No1.6041-3(c),5074,Retail Outlet Services
+5085,"Industrial Supplies, Not Elsewhere Classified","Industrial Supplies, Not Elsewhere Classified",Industrial Supplies (Not Elsewhere Classified),No1.6041-3(c),5085,Retail Outlet Services
+5094,"Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry",No1.6041-3(c),5094,Retail Outlet Services
+5099,"Durable Goods, Not Elsewhere Classified","Durable Goods, Not Elsewhere Classified",Durable Goods (Not Elsewhere Classified),No1.6041-3(c),5099,Retail Outlet Services
+5111,"Stationery, Office Supplies, Printing, and Writing Paper","Stationery, Office Supplies, Printing, and Writing Paper","Stationary, Office Supplies, Printing and Writing Paper",No1.6041-3(c),5111,Retail Outlet Services
+5122,"Drugs, Drug Proprietors, and Druggist’s Sundries","Drugs, Drug Proprietors, and Druggist’s Sundries","Drugs, Drug Proprietaries, and Druggist Sundries",No1.6041-3(c),5122,Retail Outlet Services
+5131,"Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods",No1.6041-3(c),5131,Retail Outlet Services
+5137,Men’s Women’s and Children’s Uniforms and Commercial Clothing,Men’s Women’s and Children’s Uniforms and Commercial Clothing,"Uniforms, Commercial Clothing",No1.6041-3(c),5137,Retail Outlet Services
+5139,Commercial Footwear,Commercial Footwear,Commercial Footwear,No1.6041-3(c),5139,Retail Outlet Services
+5169,"Chemicals and Allied Products, Not Elsewhere Classified","Chemicals and Allied Products, Not Elsewhere Classified",Chemicals and Allied Products (Not Elsewhere Classified),No1.6041-3(c),5169,Retail Outlet Services
+5172,Petroleum and Petroleum Products,Petroleum and Petroleum Products,Petroleum and Petroleum Products,No1.6041-3(c),5172,Retail Outlet Services
+5192,"Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers",No1.6041-3(c),5192,Retail Outlet Services
+5193,"Florists’ Supplies, Nursery Stock and Flowers","Florists’ Supplies, Nursery Stock and Flowers","Florists Supplies, Nursery Stock, and Flowers",No1.6041-3(c),5193,Retail Outlet Services
+5198,"Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies",No1.6041-3(c),5198,Retail Outlet Services
+5199,"Non-durable Goods, Not Elsewhere Classified","Non-durable Goods, Not Elsewhere Classified",Nondurable Goods (Not Elsewhere Classified),No1.6041-3(c),5199,Retail Outlet Services
+5200,Home Supply Warehouse Stores,Home Supply Warehouse Stores,Home Supply Warehouse Stores,No1.6041-3(c),5200,Retail Outlet Services
+5211,Lumber and Building Materials Stores,Lumber and Building Materials Stores,"Lumber, Building Materials Stores",No1.6041-3(c),5211,Retail Outlet Services
+5231,"Glass, Paint, and Wallpaper Stores",Wallpaper Stores,"Glass, Paint, and Wallpaper Stores",No1.6041-3(c),5231,Retail Outlet Services
+5251,Hardware Stores,Hardware Stores,Hardware Stores,No1.6041-3(c),5251,Retail Outlet Services
+5261,Nurseries – Lawn and Garden Supply Store,Nurseries – Lawn and Garden Supply Store,"Nurseries, Lawn and Garden Supply Stores",No1.6041-3(c),5261,Retail Outlet Services
+5262,Marketplaces,NA,NA,NA,NA,Retail Outlet Services
+5271,Mobile Home Dealers,Mobile Home Dealers,Mobile Home Dealers,No1.6041-3(c),5271,Retail Outlet Services
+5300,Wholesale Clubs,Wholesale Clubs,Wholesale Clubs,No1.6041-3(c),5300,Retail Outlet Services
+5309,Duty Free Store,Duty Free Store,Duty Free Stores,No1.6041-3(c),5309,Retail Outlet Services
+5310,Discount Stores,Discount Stores,Discount Stores,No1.6041-3(c),5310,Retail Outlet Services
+5311,Department Stores,Department Stores,Department Stores,No1.6041-3(c),5311,Retail Outlet Services
+5331,Variety Stores,Variety Stores,Variety Stores,No1.6041-3(c),5331,Retail Outlet Services
+5399,Misc. General Merchandise,Misc. General Merchandise,Miscellaneous General Merchandise,No1.6041-3(c),5399,Retail Outlet Services
+5411,"Grocery Stores, Supermarkets",Grocery Stores,"Grocery Stores, Supermarkets",No1.6041-3(c),5411,Retail Outlet Services
+5422,Meat Provisioners – Freezer and Locker,Meat Provisioners – Freezer and Locker,Freezer and Locker Meat Provisioners,No1.6041-3(c),5422,Retail Outlet Services
+5441,"Candy, Nut, and Confectionery Stores",Candy Stores,"Candy, Nut, and Confectionery Stores",No1.6041-3(c),5441,Retail Outlet Services
+5451,Dairy Products Stores,Dairy Products Stores,Dairy Products Stores,No1.6041-3(c),5451,Retail Outlet Services
+5462,Bakeries,Bakeries,Bakeries,No1.6041-3(c),5462,Retail Outlet Services
+5499,Misc. Food Stores – Convenience Stores and Specialty Markets,Misc. Food Stores – Convenience Stores and Specialty Markets,Miscellaneous Food Stores - Convenience Stores and Specialty Markets,No1.6041-3(c),5499,Retail Outlet Services
+5511,"Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Car and Truck Dealers (New & Used) Sales, Service, Repairs Parts and Leasing",No1.6041-3(c),5511,Retail Outlet Services
+5521,Automobile and Truck Dealers (Used Only),Automobile and Truck Dealers (Used Only),"Car and Truck Dealers (Used Only) Sales, Service, Repairs Parts and Leasing",No1.6041-3(c),5521,Retail Outlet Services
+5531,Automobile Supply Stores,Automobile Supply Stores,Auto and Home Supply Stores,No1.6041-3(c),5531,Retail Outlet Services
+5532,Automotive Tire Stores,Automotive Tire Stores,Automotive Tire Stores,No1.6041-3(c),5532,Retail Outlet Services
+5533,"Automotive Parts, Accessories Stores","Automotive Parts, Accessories Stores",Automotive Parts and Accessories Stores,No1.6041-3(c),5533,Retail Outlet Services
+5541,Service Stations (with or without ancillary services),Service Stations (with or without ancillary services),Service Stations,No1.6041-3(c),5541,Retail Outlet Services
+5542,Automated Fuel Dispensers,Automated Fuel Dispensers,Automated Fuel Dispensers,No1.6041-3(c),5542,Retail Outlet Services
+5551,Boat Dealers,Boat Dealers,Boat Dealers,No1.6041-3(c),5551,Retail Outlet Services
+5552,Electric Vehicle Charging,NA,NA,NA,NA,Retail Outlet Services
+5561,"Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Motorcycle Shops, Dealers",No1.6041-3(c),5561,Retail Outlet Services
+5571,Motorcycle Dealers,Motorcycle Dealers,Motorcycle Shops and Dealers,No1.6041-3(c),5571,Retail Outlet Services
+5592,Motor Home Dealers,Motor Home Dealers,Motor Homes Dealers,No1.6041-3(c),5592,Retail Outlet Services
+5598,Snowmobile Dealers,Snowmobile Dealers,Snowmobile Dealers,No1.6041-3(c),5598,Retail Outlet Services
+5599,Miscellaneous Auto Dealers,NA,Miscellaneous Auto Dealers,No1.6041-3(c),5599,Retail Outlet Services
+5611,Men’s and Boy’s Clothing and Accessories Stores,Men’s and Boy’s Clothing and Accessories Stores,Men’s and Boy’s Clothing and Accessories Stores,No1.6041-3(c),5611,Clothing Stores
+5621,Women’s Ready-to-Wear Stores,Women’s Ready-to-Wear Stores,Women’s Ready-To-Wear Stores,No1.6041-3(c),5621,Clothing Stores
+5631,Women’s Accessory and Specialty Shops,Women’s Accessory and Specialty Shops,Women’s Accessory and Specialty Shops,No1.6041-3(c),5631,Clothing Stores
+5641,Children’s and Infant’s Wear Stores,Children’s and Infant’s Wear Stores,Children’s and Infant’s Wear Stores,No1.6041-3(c),5641,Clothing Stores
+5651,Family Clothing Stores,Family Clothing Stores,Family Clothing Stores,No1.6041-3(c),5651,Clothing Stores
+5655,"Sports Apparel, Riding Apparel Stores","Sports Apparel, Riding Apparel Stores",Sports and Riding Apparel Stores,No1.6041-3(c),5655,Clothing Stores
+5661,Shoe Stores,Shoe Stores,Shoe Stores,No1.6041-3(c),5661,Clothing Stores
+5681,Furriers and Fur Shops,Furriers and Fur Shops,Furriers and Fur Shops,No1.6041-3(c),5681,Clothing Stores
+5691,Men’s and Women’s Clothing Stores,Men’s and Women’s Clothing Stores,"Men’s, Women’s Clothing Stores",No1.6041-3(c),5691,Clothing Stores
+5697,"Tailors, Seamstress, Mending, and Alterations","Tailors, Seamstress, Mending, and Alterations","Tailors, Alterations",Yes,5697,Clothing Stores
+5698,Wig and Toupee Stores,Wig and Toupee Stores,Wig and Toupee Stores,No1.6041-3(c),5698,Clothing Stores
+5699,Miscellaneous Apparel and Accessory Shops,Miscellaneous Apparel and Accessory Shops,Miscellaneous Apparel and Accessory Shops,No1.6041-3(c),5699,Clothing Stores
+5712,"Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances","Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances","Furniture, Home Furnishings, and Equipment Stores, Except Appliances",No1.6041-3(c),5712,Miscellaneous Stores
+5713,Floor Covering Stores,Floor Covering Stores,Floor Covering Stores,No1.6041-3(c),5713,Miscellaneous Stores
+5714,"Drapery, Window Covering and Upholstery Stores","Drapery, Window Covering and Upholstery Stores","Drapery, Window Covering, and Upholstery Stores",No1.6041-3(c),5714,Miscellaneous Stores
+5715,Alcoholic Beverage Wholesalers,NA,NA,NA,NA,Miscellaneous Stores
+5718,"Fireplace, Fireplace Screens, and Accessories Stores","Fireplace, Fireplace Screens, and Accessories Stores","Fireplace, Fireplace Screens, and Accessories Stores",No1.6041-3(c),5718,Miscellaneous Stores
+5719,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,No1.6041-3(c),5719,Miscellaneous Stores
+5722,Household Appliance Stores,Household Appliance Stores,Household Appliance Stores,No1.6041-3(c),5722,Miscellaneous Stores
+5732,Electronic Sales,Electronic Sales,Electronics Stores,No1.6041-3(c),5732,Miscellaneous Stores
+5733,"Music Stores, Musical Instruments, Piano Sheet Music","Music Stores, Musical Instruments, Piano Sheet Music","Music Stores-Musical Instruments, Pianos, and Sheet Music",No1.6041-3(c),5733,Miscellaneous Stores
+5734,Computer Software Stores,Computer Software Stores,Computer Software Stores,No1.6041-3(c),5734,Miscellaneous Stores
+5735,Record Shops,Record Shops,Record Stores,No1.6041-3(c),5735,Miscellaneous Stores
+5811,Caterers,Caterers,Caterers,Yes,5811,Miscellaneous Stores
+5812,Eating places and Restaurants,Eating places and Restaurants,"Eating Places, Restaurants",No1.6041-3(c),5812,Miscellaneous Stores
+5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,No1.6041-3(c),5813,Miscellaneous Stores
+5814,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,No1.6041-3(c),5814,Miscellaneous Stores
+5815,"Digital Goods: Media, Books, Movies, Music",NA,NA,NA,5815,Miscellaneous Stores
+5816,Digital Goods: Games,NA,NA,NA,5816,Miscellaneous Stores
+5817,Digital Goods: Applications (Excludes Games),NA,NA,NA,5817,Miscellaneous Stores
+5818,Digital Goods: Large Digital Goods Merchant,NA,NA,NA,5818,Miscellaneous Stores
+5832,"Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services",NA,NA,5832,Miscellaneous Stores
+5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,No1.6041-3(c),5912,Miscellaneous Stores
+5921,"Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",No1.6041-3(c),5921,Miscellaneous Stores
+5931,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,No1.6041-3(c),5931,Miscellaneous Stores
+5932,Antique Shops,NA,Antique Shops,No1.6041-3(c),5932,Miscellaneous Stores
+5933,Pawn Shops and Salvage Yards,Pawn Shops and Salvage Yards,Pawn Shops,No1.6041-3(c),5933,Miscellaneous Stores
+5935,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Yes,5935,Miscellaneous Stores
+5937,Antique Reproductions,Antique Reproductions,Antique Reproductions,No1.6041-3(c),5937,Miscellaneous Stores
+5940,Bicycle Shops – Sales and Service,Bicycle Shops – Sales and Service,Bicycle Shops,No1.6041-3(c),5940,Miscellaneous Stores
+5941,Sporting Goods Stores,Sporting Goods Stores,Sporting Goods Stores,No1.6041-3(c),5941,Miscellaneous Stores
+5942,Book Stores,Book Stores,Book Stores,No1.6041-3(c),5942,Miscellaneous Stores
+5943,"Stationery Stores, Office and School Supply Stores","Stationery Stores, Office and School Supply Stores","Stationery Stores, Office, and School Supply Stores",No1.6041-3(c),5943,Miscellaneous Stores
+5944,"Watch, Clock, Jewelry, and Silverware Stores","Watch, Clock, Jewelry, and Silverware Stores","Jewelry Stores, Watches, Clocks, and Silverware Stores",No1.6041-3(c),5944,Miscellaneous Stores
+5945,"Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops",No1.6041-3(c),5945,Miscellaneous Stores
+5946,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,No1.6041-3(c),5946,Miscellaneous Stores
+5947,"Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Gift, Card, Novelty, and Souvenir Shops",No1.6041-3(c),5947,Miscellaneous Stores
+5948,Leather Goods Stores,Leather Goods Stores,Luggage and Leather Goods Stores,No1.6041-3(c),5948,Miscellaneous Stores
+5949,"Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needlework, Fabric, and Piece Goods Stores",No1.6041-3(c),5949,Miscellaneous Stores
+5950,Glassware/Crystal Stores,Glassware/Crystal Stores,"Glassware, Crystal Stores",No1.6041-3(c),5950,Miscellaneous Stores
+5960,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing - Insurance Services,Yes,5960,Miscellaneous Stores
+5961,"Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)","Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)",NA,NA,5961,Miscellaneous Stores
+5962,Direct Marketing – Travel Related Arrangements Services,Direct Marketing – Travel Related Arrangements Services,Direct Marketing - Travel,Yes,5962,Miscellaneous Stores
+5963,Door-to-Door Sales,Door-to-Door Sales,Door-To-Door Sales,No1.6041-3(c),5963,Miscellaneous Stores
+5964,Direct Marketing – Catalog Merchant,Direct Marketing – Catalog Merchant,Direct Marketing - Catalog Merchant,No1.6041-3(c),5964,Miscellaneous Stores
+5965,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing - Combination Catalog and Retail Merchant,No1.6041-3(c),5965,Miscellaneous Stores
+5966,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing - Outbound Tele,No1.6041-3(c),5966,Miscellaneous Stores
+5967,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing - Inbound Tele,No1.6041-3(c),5967,Miscellaneous Stores
+5968,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing - Subscription,No1.6041-3(c),5968,Miscellaneous Stores
+5969,Direct Marketing – Not Elsewhere Classified,Direct Marketing – Not Elsewhere Classified,Direct Marketing - Other,No1.6041-3(c),5969,Miscellaneous Stores
+5970,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,No1.6041-3(c),5970,Miscellaneous Stores
+5971,Art Dealers and Galleries,Art Dealers and Galleries,Art Dealers and Galleries,No1.6041-3(c),5971,Miscellaneous Stores
+5972,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores,No1.6041-3(c),5972,Miscellaneous Stores
+5973,Religious Goods Stores,Religious Goods Stores,Religious Goods Stores,No1.6041-3(c),5973,Miscellaneous Stores
+5975,"Hearing Aids – Sales, Service, and Supply Stores","Hearing Aids – Sales, Service, and Supply Stores",Hearing Aids Sales and Supplies,No1.6041-3(c),5975,Miscellaneous Stores
+5976,Orthopedic Goods Prosthetic Devices,Orthopedic Goods Prosthetic Devices,Orthopedic Goods - Prosthetic Devices,No1.6041-3(c),5976,Miscellaneous Stores
+5977,Cosmetic Stores,Cosmetic Stores,Cosmetic Stores,No1.6041-3(c),5977,Miscellaneous Stores
+5978,"Typewriter Stores – Sales, Rental, Service","Typewriter Stores – Sales, Rental, Service",Typewriter Stores,No1.6041-3(c),5978,Miscellaneous Stores
+5983,"Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum","Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum",Fuel Dealers (Non Automotive),No1.6041-3(c),5983,Miscellaneous Stores
+5992,Florists,Florists,Florists,No1.6041-3(c),5992,Miscellaneous Stores
+5993,Cigar Stores and Stands,Cigar Stores and Stands,Cigar Stores and Stands,No1.6041-3(c),5993,Miscellaneous Stores
+5994,News Dealers and Newsstands,News Dealers and Newsstands,News Dealers and Newsstands,No1.6041-3(c),5994,Miscellaneous Stores
+5995,"Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Food, and Supplies",No1.6041-3(c),5995,Miscellaneous Stores
+5996,"Swimming Pools – Sales, Service, and Supplies","Swimming Pools – Sales, Service, and Supplies",Swimming Pools Sales,No1.6041-3(c),5996,Miscellaneous Stores
+5997,Electric Razor Stores – Sales and Service,Electric Razor Stores – Sales and Service,Electric Razor Stores,No1.6041-3(c),5997,Miscellaneous Stores
+5998,Tent and Awning Shops,Tent and Awning Shops,Tent and Awning Shops,No1.6041-3(c),5998,Miscellaneous Stores
+5999,Miscellaneous and Specialty Retail Stores,Miscellaneous and Specialty Retail Stores,Miscellaneous Specialty Retail,No1.6041-3(c),5999,Miscellaneous Stores
+6010,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Manual Cash Disburse,No1.6041-3(c),6010,Service Providers
+6011,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Automated Cash Disburse,No1.6041-3(c),6011,Service Providers
+6012,Financial Institutions – Merchandise and Services,Financial Institutions – Merchandise and Services,Financial Institutions,Yes,6012,Service Providers
+6051,"Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-FI, Money Orders",No1.6041-3(c),6051,Service Providers
+6211,Security Brokers/Dealers,Security Brokers/Dealers,Security Brokers/Dealers,Yes,6211,Service Providers
+6300,"Insurance Sales, Underwriting, and Premiums","Insurance Sales, Underwriting, and Premiums","Insurance Underwriting, Premiums",No1.6041-3(c),6300,Service Providers
+6381,"Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)",NA,NA,6381,Service Providers
+6399,"Insurance, Not Elsewhere Classified (no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified (no longer valid forfirst presentment work)",Insurance - Default,No1.6041-3(c),6399,Service Providers
+6513,Real Estate Agents and Managers - Rentals,NA,Real Estate Agents and Managers - Rentals,Yes,6513,Service Providers
+6540,Non-Financial Institutions – Stored Value Card Purchase/Load,NA,NA,NA,NA,Service Providers
+7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",Yes,7011,Service Providers
+7012,Timeshares,Timeshares,Timeshares,Yes,7012,Service Providers
+7032,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting/Recreation Camps,Yes,7032,Service Providers
+7033,Trailer Parks and Camp Grounds,Trailer Parks and Camp Grounds,"Trailer Parks, Campgrounds",Yes,7033,Service Providers
+7210,"Laundry, Cleaning, and Garment Services","Laundry, Cleaning, and Garment Services","Laundry, Cleaning Services",Yes,7210,Service Providers
+7211,Laundry – Family and Commercial,Laundry – Family and Commercial,Laundries,Yes,7211,Service Providers
+7216,Dry Cleaners,Dry Cleaners,Dry Cleaners,Yes,7216,Service Providers
+7217,Carpet and Upholstery Cleaning,Carpet and Upholstery Cleaning,Carpet/Upholstery Cleaning,Yes,7217,Service Providers
+7221,Photographic Studios,Photographic Studios,Photographic Studios,Yes,7221,Service Providers
+7230,Barber and Beauty Shops,Barber and Beauty Shops,Barber and Beauty Shops,Yes,7230,Service Providers
+7251,"Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops","Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops",Shoe Repair/Hat Cleaning,Yes,7251,Service Providers
+7261,Funeral Service and Crematories,Funeral Service and Crematories,"Funeral Services, Crematories",Yes,7261,Service Providers
+7273,Dating and Escort Services,Dating and Escort Services,Dating/Escort Services,Yes,7273,Service Providers
+7276,Tax Preparation Service,Tax Preparation Service,Tax Preparation Services,Yes,7276,Service Providers
+7277,"Counseling Service – Debt, Marriage, Personal","Counseling Service – Debt, Marriage, Personal",Counseling Services,Yes,7277,Service Providers
+7278,"Buying/Shopping Services, Clubs","Buying/Shopping Services, Clubs",Buying/Shopping Services,Yes,7278,Service Providers
+7296,"Clothing Rental – Costumes, Formal Wear, Uniforms","Clothing Rental – Costumes, Formal Wear, Uniforms",Clothing Rental,Yes,7296,Service Providers
+7297,Massage Parlors,Massage Parlors,Massage Parlors,Yes,7297,Service Providers
+7298,Health and Beauty Shops,Health and Beauty Shops,Health and Beauty Spas,Yes,7298,Service Providers
+7299,Miscellaneous Personal Services (not elsewhere classifies),Miscellaneous Personal Services (not elsewhere classifies),Miscellaneous General Services,Yes,7299,Service Providers
+7311,Advertising Services,Advertising Services,Advertising Services,Yes,7311,Business Services
+7321,Consumer Credit Reporting Agencies,Consumer Credit Reporting Agencies,Credit Reporting Agencies,Yes,7321,Business Services
+7322,Debt Collection Agencies,NA,NA,NA,NA,Business Services
+7332,Blueprinting and Photocopying Services,Blueprinting and Photocopying Services,NA,NA,7332,Business Services
+7333,"Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics",Yes,7333,Business Services
+7338,"Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Repro, and Blueprint",Yes,7338,Business Services
+7339,Stenographic and Secretarial Support Services,Stenographic and Secretarial Support Services,Secretarial Support Services,Yes,7339,Business Services
+7342,Exterminating and Disinfecting Services,Exterminating and Disinfecting Services,Exterminating Services,Yes,7342,Business Services
+7349,"Cleaning and Maintenance, Janitorial Services","Cleaning and Maintenance, Janitorial Services",Cleaning and Maintenance,Yes,7349,Business Services
+7361,"Employment Agencies, Temporary Help Services","Employment Agencies, Temporary Help Services",Employment/Temp Agencies,Yes,7361,Business Services
+7372,"Computer Programming, Integrated Systems Design and Data Processing Services","Computer Programming, Integrated Systems Design and Data Processing Services",Computer Programming,Yes,7372,Business Services
+7375,Information Retrieval Services,Information Retrieval Services,Information Retrieval Services,Yes,7375,Business Services
+7379,"Computer Maintenance and Repair Services, Not Elsewhere Classified","Computer Maintenance and Repair Services, Not Elsewhere Classified",Computer Repair,Yes,7379,Business Services
+7392,"Management, Consulting, and Public Relations Services","Management, Consulting, and Public Relations Services","Consulting, Public Relations",Yes,7392,Business Services
+7393,Protective and Security Services – Including Armored Carsand Guard Dogs,Protective and Security Services – Including Armored Carsand Guard Dogs,Detective Agencies,Yes,7393,Business Services
+7394,"Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental","Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental",Equipment Rental,Yes,7394,Business Services
+7395,"Photofinishing Laboratories, Photo Developing","Photofinishing Laboratories, Photo Developing",Photo Developing,Yes,7395,Business Services
+7399,"Business Services, Not Elsewhere Classified","Business Services, Not Elsewhere Classified",Miscellaneous Business Services,Yes,7399,Business Services
+7511,Truck Stop,NA,Truck Stop,Yes,7511,Business Services
+7512,Car Rental Companies (Not Listed Below),Car Rental Companies (Not Listed Below),Car Rental Agencies,Yes,7512,Business Services
+7513,Truck and Utility Trailer Rentals,Truck and Utility Trailer Rentals,Truck/Utility Trailer Rentals,Yes,7513,Business Services
+7519,Motor Home and Recreational Vehicle Rentals,Motor Home and Recreational Vehicle Rentals,Recreational Vehicle Rentals,Yes,7519,Business Services
+7523,Automobile Parking Lots and Garages,Automobile Parking Lots and Garages,"Parking Lots, Garages",Yes,7523,Business Services
+7531,Automotive Body Repair Shops,Automotive Body Repair Shops,Auto Body Repair Shops,Yes,7531,Repair Services
+7534,Tire Re-treading and Repair Shops,Tire Re-treading and Repair Shops,Tire Retreading and Repair,Yes,7534,Repair Services
+7535,Paint Shops – Automotive,Paint Shops – Automotive,Auto Paint Shops,Yes,7535,Repair Services
+7538,Automotive Service Shops,Automotive Service Shops,Auto Service Shops,Yes,7538,Repair Services
+7542,Car Washes,Car Washes,Car Washes,Yes,7542,Repair Services
+7549,Towing Services,Towing Services,Towing Services,Yes,7549,Repair Services
+7622,Radio Repair Shops,Radio Repair Shops,Electronics Repair Shops,Yes,7622,Repair Services
+7623,Air Conditioning and Refrigeration Repair Shops,Air Conditioning and Refrigeration Repair Shops,"A/C, Refrigeration Repair",Yes,7623,Repair Services
+7629,Electrical And Small Appliance Repair Shops,Electrical And Small Appliance Repair Shops,Small Appliance Repair,Yes,7629,Repair Services
+7631,"Watch, Clock, and Jewelry Repair","Watch, Clock, and Jewelry Repair",Watch/Jewelry Repair,Yes,7631,Repair Services
+7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",Yes,7641,Repair Services
+7692,Welding Repair,Welding Repair,Welding Repair,Yes,7692,Repair Services
+7699,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Miscellaneous Repair Shops,Yes,7699,Repair Services
+7800,Government-Owned Lotteries,NA,NA,NA,7800,Amusement and Entertainment
+7801,Government-Licensed On-Line Casinos (On-Line Gambling),NA,NA,NA,7801,Amusement and Entertainment
+7802,Government-Licensed Horse/Dog Racing,NA,NA,NA,7802,Amusement and Entertainment
+7829,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,Yes,7829,Amusement and Entertainment
+7832,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Yes,7832,Amusement and Entertainment
+7841,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Yes,7841,Amusement and Entertainment
+7911,"Dance Halls, Studios and Schools","Dance Halls, Studios and Schools","Dance Hall, Studios, Schools",Yes,7911,Amusement and Entertainment
+7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies","Theatrical Producers (Except Motion Pictures), Ticket Agencies",Theatrical Ticket Agencies,Yes,7922,Amusement and Entertainment
+7929,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras",Yes,7929,Amusement and Entertainment
+7932,Billiard and Pool Establishments,Billiard and Pool Establishments,Billiard/Pool Establishments,Yes,7932,Amusement and Entertainment
+7933,Bowling Alleys,Bowling Alleys,Bowling Alleys,Yes,7933,Amusement and Entertainment
+7941,"Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters","Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters",Sports Clubs/Fields,Yes,7941,Amusement and Entertainment
+7991,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Yes,7991,Amusement and Entertainment
+7992,Golf Courses – Public,Golf Courses – Public,Golf Courses - Public,Yes,7992,Amusement and Entertainment
+7993,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,No1.6041-3(c),7993,Amusement and Entertainment
+7994,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades,Yes,7994,Amusement and Entertainment
+7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)",Betting/Casino Gambling,Yes,7995,Amusement and Entertainment
+7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers",Amusement Parks/Carnivals,Yes,7996,Amusement and Entertainment
+7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",Country Clubs,Yes,7997,Amusement and Entertainment
+7998,"Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums",Aquariums,Yes,7998,Amusement and Entertainment
+7999,Recreation Services (Not Elsewhere Classified),Recreation Services (Not Elsewhere Classified),Miscellaneous Recreation Services,Yes,7999,Amusement and Entertainment
+8011,Doctors and Physicians (Not Elsewhere Classified),Doctors and Physicians (Not Elsewhere Classified),Doctors,Yes,8011,Professional Services and Membership Organizations
+8021,Dentists and Orthodontists,Dentists and Orthodontists,"Dentists, Orthodontists",Yes,8021,Professional Services and Membership Organizations
+8031,Osteopaths,Osteopaths,Osteopaths,Yes,8031,Professional Services and Membership Organizations
+8041,Chiropractors,Chiropractors,Chiropractors,Yes,8041,Professional Services and Membership Organizations
+8042,Optometrists and Ophthalmologists,Optometrists and Ophthalmologists,"Optometrists, Ophthalmologist",Yes,8042,Professional Services and Membership Organizations
+8043,"Opticians, Opticians Goods and Eyeglasses","Opticians, Opticians Goods and Eyeglasses","Opticians, Eyeglasses",Yes,8043,Professional Services and Membership Organizations
+8044,"Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)","Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)",NA,NA,8044,Professional Services and Membership Organizations
+8049,Podiatrists and Chiropodists,Podiatrists and Chiropodists,"Chiropodists, Podiatrists",Yes,8049,Professional Services and Membership Organizations
+8050,Nursing and Personal Care Facilities,Nursing and Personal Care Facilities,Nursing/Personal Care,Yes,8050,Professional Services and Membership Organizations
+8062,Hospitals,Hospitals,Hospitals,Yes,8062,Professional Services and Membership Organizations
+8071,Medical and Dental Laboratories,Medical and Dental Laboratories,Medical and Dental Labs,Yes,8071,Professional Services and Membership Organizations
+8099,Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services,Yes,8099,Professional Services and Membership Organizations
+8111,Legal Services and Attorneys,Legal Services and Attorneys,"Legal Services, Attorneys",Yes,8111,Professional Services and Membership Organizations
+8211,Elementary and Secondary Schools,Elementary and Secondary Schools,"Elementary, Secondary Schools",No1.6041-3(p)(2),8211,Professional Services and Membership Organizations
+8220,"Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Universities",No1.6041-3(p)(2),8220,Professional Services and Membership Organizations
+8241,Correspondence Schools,Correspondence Schools,Correspondence Schools,No1.6041-3(p)(2),8241,Professional Services and Membership Organizations
+8244,Business and Secretarial Schools,Business and Secretarial Schools,Business/Secretarial Schools,No1.6041-3(p)(2),8244,Professional Services and Membership Organizations
+8249,Vocational Schools and Trade Schools,Vocational Schools and Trade Schools,Vocational/Trade Schools,No1.6041-3(p)(2),8249,Professional Services and Membership Organizations
+8299,Schools and Educational Services (Not Elsewhere Classified),Schools and Educational Services (Not Elsewhere Classified),Educational Services,Yes,8299,Professional Services and Membership Organizations
+8351,Child Care Services,Child Care Services,Child Care Services,Yes,8351,Professional Services and Membership Organizations
+8398,Charitable and Social Service Organizations,Charitable and Social Service Organizations,Charitable and Social Service Organizations - Fundraising,No1.6041-3(p)(2),8398,Professional Services and Membership Organizations
+8641,"Civic, Fraternal, and Social Associations","Civic, Fraternal, and Social Associations","Civic, Social, Fraternal Associations",No1.6041-3(p)(2),8641,Professional Services and Membership Organizations
+8651,Political Organizations,Political Organizations,Political Organizations,Yes,8651,Professional Services and Membership Organizations
+8661,Religious Organizations,Religious Organizations,Religious Organizations,No1.6041-3(p)(2),8661,Professional Services and Membership Organizations
+8675,Automobile Associations,Automobile Associations,Automobile Associations,Yes,8675,Professional Services and Membership Organizations
+8699,Membership Organizations (Not Elsewhere Classified),Membership Organizations (Not Elsewhere Classified),Membership Organizations,Yes,8699,Professional Services and Membership Organizations
+8734,Testing Laboratories (non-medical),Testing Laboratories (non-medical),Testing Laboratories,Yes,8734,Professional Services and Membership Organizations
+8911,Architectural – Engineering and Surveying Services,Architectural – Engineering and Surveying Services,Architectural/Surveying Services,Yes,8911,Professional Services and Membership Organizations
+8931,"Accounting, Auditing, and Bookkeeping Services","Accounting, Auditing, and Bookkeeping Services",Accounting/Bookkeeping Services,Yes,8931,Professional Services and Membership Organizations
+8999,Professional Services (Not Elsewhere Defined),Professional Services (Not Elsewhere Defined),Professional Services,Yes,8999,Professional Services and Membership Organizations
+9211,"Court Costs, including Alimony and Child Support","Court Costs, including Alimony and Child Support","Court Costs, Including Alimony and Child Support - Courts of Law",No1.6041-3(p)(4),9211,Government Services
+9222,Fines,Fines,Fines - Government Administrative Entities,No1.6041-3(p)(4),9222,Government Services
+9223,Bail and Bond Payments,Bail and Bond Payments,"Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency)",Yes,9223,Government Services
+9311,Tax Payments,Tax Payments,Tax Payments - Government Agencies,No1.6041-3(p)(4),9311,Government Services
+9399,Government Services (Not Elsewhere Classified),Government Services (Not Elsewhere Classified),Government Services (Not Elsewhere Classified),No1.6041-3(p)(4),9399,Government Services
+9402,Postal Services – Government Only,Postal Services – Government Only,Postal Services - Government Only,No1.6041-3(p)(3),9402,Government Services
+9405,Intra – Government Transactions,Intra – Government Transactions,U.S. Federal Government Agencies or Departments,No1.6041-3(p)(3),9405,Other
+9406,Government-Owned Lotteries (Non-U.s. Region),NA,NA,NA,NA,Other
+9700,Automated Referral Service (For Visa Only),Automated Referral Service (For Visa Only),NA,NA,9700,Other
+9701,Visa Credential Service (For Visa Only),Visa Credential Service (For Visa Only),NA,NA,9701,Other
+9702,GCAS Emergency Services (For Visa Only),GCAS Emergency Services (For Visa Only),NA,NA,9702,Other
+9950,Intra – Company Purchases (For Visa Only),Intra – Company Purchases (For Visa Only),Intra-Company Purchases,No1.6041-3(c),9950,Other
