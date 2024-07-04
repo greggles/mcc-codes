@@ -1,4 +1,4 @@
-mcc-codes
+mcc-codess
 =========
 
 A public repository of Merchant Category Codes (MCC) in formats easier to read
